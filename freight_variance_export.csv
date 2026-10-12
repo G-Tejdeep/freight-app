@@ -1,0 +1,1261 @@
+transaction_id,transaction_date,lane_id,origin_hub,destination_hub,mode_of_transport,carrier_name,contracted_base_rate_usd,market_spot_rate_usd,actual_rate_paid_usd,transit_days,variance_vs_contract_usd,variance_vs_spot_usd,cost_performance_status
+1,2026-01-01,LANE-001,Mundra Port,Rotterdam Port,Ocean,Cma Cgm,2800.0,2900.33,3004.86,20,204.86,104.53,High Overspend
+2,2026-01-01,LANE-002,Cochin Port,Hamburg Port,Ocean,Evergreen,2600.0,3238.3,3098.57,28,498.57,-139.73,High Overspend
+3,2026-01-01,LANE-003,Chennai Port,Port of Singapore,Ocean,Evergreen,1100.0,1246.04,1330.03,24,230.03,83.99,High Overspend
+4,2026-01-01,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Emirates Skycargo,6500.0,8033.41,8170.36,3,1670.36,136.95,High Overspend
+5,2026-01-01,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Lufthansa Cargo,4800.0,5968.45,6454.45,2,1654.45,486.0,High Overspend
+6,2026-01-01,LANE-006,Nhava Sheva Hub,Pune Distribution Center,Road,Schneider,850.0,935.17,1024.53,2,174.53,89.36,High Overspend
+7,2026-01-01,LANE-007,Chennai Logistics Park,Bangalore Warehouse,Road,Old Dominion,950.0,827.65,797.84,5,-152.16,-29.81,Under Contract
+8,2026-01-02,LANE-001,Mundra Port,Rotterdam Port,Ocean,Maersk,2800.0,2618.9,2607.03,32,-192.97,-11.87,Under Contract
+9,2026-01-02,LANE-002,Cochin Port,Hamburg Port,Ocean,Evergreen,2600.0,3138.28,3159.57,18,559.57,21.29,High Overspend
+10,2026-01-02,LANE-003,Chennai Port,Port of Singapore,Ocean,Cosco,1100.0,988.39,1036.38,27,-63.62,47.99,Under Contract
+11,2026-01-02,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Fedex Express,6500.0,6374.1,6610.96,3,110.96,236.86,Within Tolerance
+12,2026-01-02,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Qatar Airways Cargo,4800.0,4201.93,4466.1,2,-333.9,264.17,Under Contract
+13,2026-01-02,LANE-006,Nhava Sheva Hub,Pune Distribution Center,Road,Swift Transportation,850.0,994.62,1080.08,3,230.08,85.46,High Overspend
+14,2026-01-02,LANE-007,Chennai Logistics Park,Bangalore Warehouse,Road,Knight Transportation,950.0,1113.17,1245.02,2,295.02,131.85,High Overspend
+15,2026-01-03,LANE-001,Mundra Port,Rotterdam Port,Ocean,Cma Cgm,2800.0,2832.87,2721.67,21,-78.33,-111.2,Under Contract
+16,2026-01-03,LANE-002,Cochin Port,Hamburg Port,Ocean,Evergreen,2600.0,2547.13,2625.61,22,25.61,78.48,Within Tolerance
+17,2026-01-03,LANE-003,Chennai Port,Port of Singapore,Ocean,Evergreen,1100.0,979.98,996.74,25,-103.26,16.76,Under Contract
+18,2026-01-03,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Dhl Aviation,6500.0,8088.54,8267.71,2,1767.71,179.17,High Overspend
+19,2026-01-03,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Lufthansa Cargo,4800.0,5246.77,5131.23,3,331.23,-115.54,High Overspend
+20,2026-01-03,LANE-006,Nhava Sheva Hub,Pune Distribution Center,Road,Schneider,850.0,812.5,896.11,3,46.11,83.61,High Overspend
+21,2026-01-03,LANE-007,Chennai Logistics Park,Bangalore Warehouse,Road,Old Dominion,950.0,1082.22,1165.4,3,215.4,83.18,High Overspend
+22,2026-01-04,LANE-001,Mundra Port,Rotterdam Port,Ocean,Cma Cgm,2800.0,2773.01,2731.73,30,-68.27,-41.28,Under Contract
+23,2026-01-04,LANE-002,Cochin Port,Hamburg Port,Ocean,Hapag-Lloyd,2600.0,2872.18,2826.33,22,226.33,-45.85,High Overspend
+24,2026-01-04,LANE-003,Chennai Port,Port of Singapore,Ocean,Maersk,1100.0,1093.32,1142.26,29,42.26,48.94,Within Tolerance
+25,2026-01-04,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Fedex Express,6500.0,7735.4,8015.28,2,1515.28,279.88,High Overspend
+26,2026-01-04,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Qatar Airways Cargo,4800.0,4886.56,4754.99,3,-45.01,-131.57,Under Contract
+27,2026-01-04,LANE-006,Nhava Sheva Hub,Pune Distribution Center,Road,Swift Transportation,850.0,764.59,733.87,3,-116.13,-30.72,Under Contract
+28,2026-01-04,LANE-007,Chennai Logistics Park,Bangalore Warehouse,Road,Old Dominion,950.0,848.01,883.06,6,-66.94,35.05,Under Contract
+29,2026-01-05,LANE-001,Mundra Port,Rotterdam Port,Ocean,Maersk,2800.0,2911.29,2841.18,26,41.18,-70.11,Within Tolerance
+30,2026-01-05,LANE-002,Cochin Port,Hamburg Port,Ocean,Evergreen,2600.0,2324.24,2354.08,17,-245.92,29.84,Under Contract
+31,2026-01-05,LANE-003,Chennai Port,Port of Singapore,Ocean,Evergreen,1100.0,1011.96,1040.14,21,-59.86,28.18,Under Contract
+32,2026-01-05,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Fedex Express,6500.0,7454.06,8333.51,1,1833.51,879.45,High Overspend
+33,2026-01-05,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Qatar Airways Cargo,4800.0,5415.95,5330.02,2,530.02,-85.93,High Overspend
+34,2026-01-05,LANE-006,Nhava Sheva Hub,Pune Distribution Center,Road,Jb Hunt,850.0,783.94,867.2,4,17.2,83.26,Within Tolerance
+35,2026-01-05,LANE-007,Chennai Logistics Park,Bangalore Warehouse,Road,Knight Transportation,950.0,1132.54,1204.88,3,254.88,72.34,High Overspend
+36,2026-01-06,LANE-001,Mundra Port,Rotterdam Port,Ocean,Msc,2800.0,2446.3,2673.76,20,-126.24,227.46,Under Contract
+37,2026-01-06,LANE-002,Cochin Port,Hamburg Port,Ocean,Ocean Network Express,2600.0,3069.85,3237.55,25,637.55,167.7,High Overspend
+38,2026-01-06,LANE-003,Chennai Port,Port of Singapore,Ocean,Cosco,1100.0,1226.19,1170.11,21,70.11,-56.08,High Overspend
+39,2026-01-06,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Emirates Skycargo,6500.0,5808.04,6098.3,2,-401.7,290.26,Under Contract
+40,2026-01-06,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Lufthansa Cargo,4800.0,5469.03,5470.62,1,670.62,1.59,High Overspend
+41,2026-01-06,LANE-006,Nhava Sheva Hub,Pune Distribution Center,Road,Jb Hunt,850.0,976.32,941.61,2,91.61,-34.71,High Overspend
+42,2026-01-06,LANE-007,Chennai Logistics Park,Bangalore Warehouse,Road,Old Dominion,950.0,819.8,789.27,4,-160.73,-30.53,Under Contract
+43,2026-01-07,LANE-001,Mundra Port,Rotterdam Port,Ocean,Maersk,2800.0,3044.82,3069.46,28,269.46,24.64,High Overspend
+44,2026-01-07,LANE-002,Cochin Port,Hamburg Port,Ocean,Evergreen,2600.0,2741.97,2713.83,29,113.83,-28.14,Within Tolerance
+45,2026-01-07,LANE-003,Chennai Port,Port of Singapore,Ocean,Maersk,1100.0,970.23,1078.35,23,-21.65,108.12,Under Contract
+46,2026-01-07,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Fedex Express,6500.0,6885.02,7284.38,1,784.38,399.36,High Overspend
+47,2026-01-07,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Qatar Airways Cargo,4800.0,4648.78,5038.81,2,238.81,390.03,Within Tolerance
+48,2026-01-07,LANE-006,Nhava Sheva Hub,Pune Distribution Center,Road,Jb Hunt,850.0,730.69,742.54,6,-107.46,11.85,Under Contract
+49,2026-01-07,LANE-007,Chennai Logistics Park,Bangalore Warehouse,Road,Knight Transportation,950.0,1050.94,1018.81,4,68.81,-32.13,High Overspend
+50,2026-01-08,LANE-001,Mundra Port,Rotterdam Port,Ocean,Msc,2800.0,2665.07,2871.49,27,71.49,206.42,Within Tolerance
+51,2026-01-08,LANE-002,Cochin Port,Hamburg Port,Ocean,Ocean Network Express,2600.0,3115.95,3251.3,19,651.3,135.35,High Overspend
+52,2026-01-08,LANE-003,Chennai Port,Port of Singapore,Ocean,Maersk,1100.0,1362.47,1454.3,32,354.3,91.83,High Overspend
+53,2026-01-08,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Fedex Express,6500.0,6140.1,6697.99,1,197.99,557.89,Within Tolerance
+54,2026-01-08,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Qatar Airways Cargo,4800.0,4465.37,4342.6,2,-457.4,-122.77,Under Contract
+55,2026-01-08,LANE-006,Nhava Sheva Hub,Pune Distribution Center,Road,Jb Hunt,850.0,872.82,914.87,2,64.87,42.05,High Overspend
+56,2026-01-08,LANE-007,Chennai Logistics Park,Bangalore Warehouse,Road,Xpo Logistics,950.0,1128.78,1156.74,6,206.74,27.96,High Overspend
+57,2026-01-09,LANE-001,Mundra Port,Rotterdam Port,Ocean,Msc,2800.0,2421.76,2552.3,14,-247.7,130.54,Under Contract
+58,2026-01-09,LANE-002,Cochin Port,Hamburg Port,Ocean,Evergreen,2600.0,2594.21,2608.29,22,8.29,14.08,Within Tolerance
+59,2026-01-09,LANE-003,Chennai Port,Port of Singapore,Ocean,Evergreen,1100.0,1076.11,1030.54,29,-69.46,-45.57,Under Contract
+60,2026-01-09,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Dhl Aviation,6500.0,7504.33,7731.7,3,1231.7,227.37,High Overspend
+61,2026-01-09,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Lufthansa Cargo,4800.0,4748.67,4538.91,3,-261.09,-209.76,Under Contract
+62,2026-01-09,LANE-006,Nhava Sheva Hub,Pune Distribution Center,Road,Swift Transportation,850.0,740.28,768.18,3,-81.82,27.9,Under Contract
+63,2026-01-09,LANE-007,Chennai Logistics Park,Bangalore Warehouse,Road,Knight Transportation,950.0,1136.6,1217.13,5,267.13,80.53,High Overspend
+64,2026-01-10,LANE-001,Mundra Port,Rotterdam Port,Ocean,Cma Cgm,2800.0,3053.62,3384.43,32,584.43,330.81,High Overspend
+65,2026-01-10,LANE-002,Cochin Port,Hamburg Port,Ocean,Hapag-Lloyd,2600.0,2767.39,2862.52,23,262.52,95.13,High Overspend
+66,2026-01-10,LANE-003,Chennai Port,Port of Singapore,Ocean,Evergreen,1100.0,951.0,1017.35,14,-82.65,66.35,Under Contract
+67,2026-01-10,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Emirates Skycargo,6500.0,5903.98,5930.22,3,-569.78,26.24,Under Contract
+68,2026-01-10,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Atlas Air,4800.0,4789.22,5044.61,3,244.61,255.39,High Overspend
+69,2026-01-10,LANE-006,Nhava Sheva Hub,Pune Distribution Center,Road,Swift Transportation,850.0,749.82,774.74,6,-75.26,24.92,Under Contract
+70,2026-01-10,LANE-007,Chennai Logistics Park,Bangalore Warehouse,Road,Old Dominion,950.0,1068.59,1190.65,4,240.65,122.06,High Overspend
+71,2026-01-11,LANE-001,Mundra Port,Rotterdam Port,Ocean,Maersk,2800.0,2422.97,2319.82,21,-480.18,-103.15,Under Contract
+72,2026-01-11,LANE-002,Cochin Port,Hamburg Port,Ocean,Hapag-Lloyd,2600.0,2571.78,2849.97,22,249.97,278.19,High Overspend
+73,2026-01-11,LANE-003,Chennai Port,Port of Singapore,Ocean,Cosco,1100.0,1227.95,1250.18,19,150.18,22.23,High Overspend
+74,2026-01-11,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Fedex Express,6500.0,6877.18,6884.21,2,384.21,7.03,High Overspend
+75,2026-01-11,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Qatar Airways Cargo,4800.0,5312.4,5757.79,1,957.79,445.39,High Overspend
+76,2026-01-11,LANE-006,Nhava Sheva Hub,Pune Distribution Center,Road,Jb Hunt,850.0,759.39,788.71,4,-61.29,29.32,Under Contract
+77,2026-01-11,LANE-007,Chennai Logistics Park,Bangalore Warehouse,Road,Xpo Logistics,950.0,1091.06,1132.98,4,182.98,41.92,High Overspend
+78,2026-01-12,LANE-001,Mundra Port,Rotterdam Port,Ocean,Msc,2800.0,2539.32,2801.84,29,1.84,262.52,Within Tolerance
+79,2026-01-12,LANE-002,Cochin Port,Hamburg Port,Ocean,Ocean Network Express,2600.0,2758.1,2847.79,15,247.79,89.69,High Overspend
+80,2026-01-12,LANE-003,Chennai Port,Port of Singapore,Ocean,Evergreen,1100.0,1121.72,1228.01,27,128.01,106.29,High Overspend
+81,2026-01-12,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Emirates Skycargo,6500.0,6939.94,6761.86,2,261.86,-178.08,Within Tolerance
+82,2026-01-12,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Qatar Airways Cargo,4800.0,5492.67,5982.03,3,1182.03,489.36,High Overspend
+83,2026-01-12,LANE-006,Nhava Sheva Hub,Pune Distribution Center,Road,Jb Hunt,850.0,782.68,863.18,3,13.18,80.5,Within Tolerance
+84,2026-01-12,LANE-007,Chennai Logistics Park,Bangalore Warehouse,Road,Knight Transportation,950.0,1107.49,1101.53,4,151.53,-5.96,High Overspend
+85,2026-01-13,LANE-001,Mundra Port,Rotterdam Port,Ocean,Cma Cgm,2800.0,2465.82,2622.34,24,-177.66,156.52,Under Contract
+86,2026-01-13,LANE-002,Cochin Port,Hamburg Port,Ocean,Hapag-Lloyd,2600.0,2756.17,2658.22,14,58.22,-97.95,Within Tolerance
+87,2026-01-13,LANE-003,Chennai Port,Port of Singapore,Ocean,Evergreen,1100.0,964.26,984.27,31,-115.73,20.01,Under Contract
+88,2026-01-13,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Emirates Skycargo,6500.0,7517.01,7258.75,3,758.75,-258.26,High Overspend
+89,2026-01-13,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Atlas Air,4800.0,5513.53,5268.78,2,468.78,-244.75,High Overspend
+90,2026-01-13,LANE-006,Nhava Sheva Hub,Pune Distribution Center,Road,Schneider,850.0,981.09,951.16,4,101.16,-29.93,High Overspend
+91,2026-01-13,LANE-007,Chennai Logistics Park,Bangalore Warehouse,Road,Old Dominion,950.0,1014.95,1010.04,6,60.04,-4.91,High Overspend
+92,2026-01-14,LANE-001,Mundra Port,Rotterdam Port,Ocean,Cma Cgm,2800.0,3260.66,3152.41,18,352.41,-108.25,High Overspend
+93,2026-01-14,LANE-002,Cochin Port,Hamburg Port,Ocean,Hapag-Lloyd,2600.0,3038.52,3171.21,22,571.21,132.69,High Overspend
+94,2026-01-14,LANE-003,Chennai Port,Port of Singapore,Ocean,Maersk,1100.0,1186.55,1223.77,28,123.77,37.22,High Overspend
+95,2026-01-14,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Fedex Express,6500.0,7014.09,7663.48,3,1163.48,649.39,High Overspend
+96,2026-01-14,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Qatar Airways Cargo,4800.0,4932.94,4717.56,3,-82.44,-215.38,Under Contract
+97,2026-01-14,LANE-006,Nhava Sheva Hub,Pune Distribution Center,Road,Swift Transportation,850.0,775.57,778.3,6,-71.7,2.73,Under Contract
+98,2026-01-14,LANE-007,Chennai Logistics Park,Bangalore Warehouse,Road,Xpo Logistics,950.0,1057.58,1026.59,6,76.59,-30.99,High Overspend
+99,2026-01-15,LANE-001,Mundra Port,Rotterdam Port,Ocean,Msc,2800.0,2983.51,2853.87,15,53.87,-129.64,Within Tolerance
+100,2026-01-15,LANE-002,Cochin Port,Hamburg Port,Ocean,Ocean Network Express,2600.0,2415.64,2435.37,23,-164.63,19.73,Under Contract
+101,2026-01-15,LANE-003,Chennai Port,Port of Singapore,Ocean,Maersk,1100.0,1143.36,1126.31,28,26.31,-17.05,Within Tolerance
+102,2026-01-15,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Emirates Skycargo,6500.0,7698.07,7492.67,3,992.67,-205.4,High Overspend
+103,2026-01-15,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Atlas Air,4800.0,5762.42,5996.24,3,1196.24,233.82,High Overspend
+104,2026-01-15,LANE-006,Nhava Sheva Hub,Pune Distribution Center,Road,Swift Transportation,850.0,753.57,826.56,4,-23.44,72.99,Under Contract
+105,2026-01-15,LANE-007,Chennai Logistics Park,Bangalore Warehouse,Road,Xpo Logistics,950.0,885.35,878.91,3,-71.09,-6.44,Under Contract
+106,2026-01-16,LANE-001,Mundra Port,Rotterdam Port,Ocean,Msc,2800.0,2936.97,2886.23,26,86.23,-50.74,Within Tolerance
+107,2026-01-16,LANE-002,Cochin Port,Hamburg Port,Ocean,Evergreen,2600.0,3049.43,3140.92,29,540.92,91.49,High Overspend
+108,2026-01-16,LANE-003,Chennai Port,Port of Singapore,Ocean,Evergreen,1100.0,1255.0,1213.0,18,113.0,-42.0,High Overspend
+109,2026-01-16,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Fedex Express,6500.0,5639.11,5805.18,1,-694.82,166.07,Under Contract
+110,2026-01-16,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Qatar Airways Cargo,4800.0,5898.14,6124.5,1,1324.5,226.36,High Overspend
+111,2026-01-16,LANE-006,Nhava Sheva Hub,Pune Distribution Center,Road,Schneider,850.0,809.12,788.02,3,-61.98,-21.1,Under Contract
+112,2026-01-16,LANE-007,Chennai Logistics Park,Bangalore Warehouse,Road,Old Dominion,950.0,871.38,870.66,3,-79.34,-0.72,Under Contract
+113,2026-01-17,LANE-001,Mundra Port,Rotterdam Port,Ocean,Maersk,2800.0,2690.03,2801.98,30,1.98,111.95,Within Tolerance
+114,2026-01-17,LANE-002,Cochin Port,Hamburg Port,Ocean,Ocean Network Express,2600.0,3209.44,3498.5,23,898.5,289.06,High Overspend
+115,2026-01-17,LANE-003,Chennai Port,Port of Singapore,Ocean,Cosco,1100.0,1310.24,1272.45,25,172.45,-37.79,High Overspend
+116,2026-01-17,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Emirates Skycargo,6500.0,7791.39,8310.37,1,1810.37,518.98,High Overspend
+117,2026-01-17,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Lufthansa Cargo,4800.0,4397.28,4771.27,1,-28.73,373.99,Under Contract
+118,2026-01-17,LANE-006,Nhava Sheva Hub,Pune Distribution Center,Road,Swift Transportation,850.0,726.79,732.72,6,-117.28,5.93,Under Contract
+119,2026-01-17,LANE-007,Chennai Logistics Park,Bangalore Warehouse,Road,Xpo Logistics,950.0,920.84,899.56,5,-50.44,-21.28,Under Contract
+120,2026-01-18,LANE-001,Mundra Port,Rotterdam Port,Ocean,Msc,2800.0,3425.58,3416.0,20,616.0,-9.58,High Overspend
+121,2026-01-18,LANE-002,Cochin Port,Hamburg Port,Ocean,Hapag-Lloyd,2600.0,2970.6,3006.59,17,406.59,35.99,High Overspend
+122,2026-01-18,LANE-003,Chennai Port,Port of Singapore,Ocean,Cosco,1100.0,1261.68,1330.26,14,230.26,68.58,High Overspend
+123,2026-01-18,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Fedex Express,6500.0,7197.35,6859.27,1,359.27,-338.08,High Overspend
+124,2026-01-18,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Lufthansa Cargo,4800.0,5717.16,5789.62,1,989.62,72.46,High Overspend
+125,2026-01-18,LANE-006,Nhava Sheva Hub,Pune Distribution Center,Road,Swift Transportation,850.0,851.72,850.78,3,0.78,-0.94,Within Tolerance
+126,2026-01-18,LANE-007,Chennai Logistics Park,Bangalore Warehouse,Road,Xpo Logistics,950.0,833.19,835.23,2,-114.77,2.04,Under Contract
+127,2026-01-19,LANE-001,Mundra Port,Rotterdam Port,Ocean,Msc,2800.0,3339.44,3277.92,14,477.92,-61.52,High Overspend
+128,2026-01-19,LANE-002,Cochin Port,Hamburg Port,Ocean,Hapag-Lloyd,2600.0,2836.18,2788.92,29,188.92,-47.26,High Overspend
+129,2026-01-19,LANE-003,Chennai Port,Port of Singapore,Ocean,Evergreen,1100.0,1309.66,1379.92,18,279.92,70.26,High Overspend
+130,2026-01-19,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Emirates Skycargo,6500.0,7518.89,7664.95,1,1164.95,146.06,High Overspend
+131,2026-01-19,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Qatar Airways Cargo,4800.0,5552.28,6188.49,2,1388.49,636.21,High Overspend
+132,2026-01-19,LANE-006,Nhava Sheva Hub,Pune Distribution Center,Road,Schneider,850.0,914.37,906.91,3,56.91,-7.46,High Overspend
+133,2026-01-19,LANE-007,Chennai Logistics Park,Bangalore Warehouse,Road,Xpo Logistics,950.0,885.65,890.04,5,-59.96,4.39,Under Contract
+134,2026-01-20,LANE-001,Mundra Port,Rotterdam Port,Ocean,Cma Cgm,2800.0,2829.2,2696.31,18,-103.69,-132.89,Under Contract
+135,2026-01-20,LANE-002,Cochin Port,Hamburg Port,Ocean,Hapag-Lloyd,2600.0,3046.54,3380.69,27,780.69,334.15,High Overspend
+136,2026-01-20,LANE-003,Chennai Port,Port of Singapore,Ocean,Cosco,1100.0,982.0,1073.45,22,-26.55,91.45,Under Contract
+137,2026-01-20,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Dhl Aviation,6500.0,6106.78,6716.5,3,216.5,609.72,Within Tolerance
+138,2026-01-20,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Lufthansa Cargo,4800.0,4383.97,4372.38,1,-427.62,-11.59,Under Contract
+139,2026-01-20,LANE-006,Nhava Sheva Hub,Pune Distribution Center,Road,Schneider,850.0,770.98,777.35,2,-72.65,6.37,Under Contract
+140,2026-01-20,LANE-007,Chennai Logistics Park,Bangalore Warehouse,Road,Xpo Logistics,950.0,1075.12,1168.23,3,218.23,93.11,High Overspend
+141,2026-01-21,LANE-001,Mundra Port,Rotterdam Port,Ocean,Maersk,2800.0,3411.85,3331.7,16,531.7,-80.15,High Overspend
+142,2026-01-21,LANE-002,Cochin Port,Hamburg Port,Ocean,Ocean Network Express,2600.0,3213.14,3204.18,24,604.18,-8.96,High Overspend
+143,2026-01-21,LANE-003,Chennai Port,Port of Singapore,Ocean,Cosco,1100.0,1254.12,1344.11,24,244.11,89.99,High Overspend
+144,2026-01-21,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Dhl Aviation,6500.0,7141.62,7482.57,2,982.57,340.95,High Overspend
+145,2026-01-21,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Qatar Airways Cargo,4800.0,4358.21,4268.93,2,-531.07,-89.28,Under Contract
+146,2026-01-21,LANE-006,Nhava Sheva Hub,Pune Distribution Center,Road,Swift Transportation,850.0,942.09,927.54,3,77.54,-14.55,High Overspend
+147,2026-01-21,LANE-007,Chennai Logistics Park,Bangalore Warehouse,Road,Old Dominion,950.0,1088.31,1192.6,5,242.6,104.29,High Overspend
+148,2026-01-22,LANE-001,Mundra Port,Rotterdam Port,Ocean,Maersk,2800.0,3341.28,3609.99,32,809.99,268.71,High Overspend
+149,2026-01-22,LANE-002,Cochin Port,Hamburg Port,Ocean,Hapag-Lloyd,2600.0,3122.39,3430.98,18,830.98,308.59,High Overspend
+150,2026-01-22,LANE-003,Chennai Port,Port of Singapore,Ocean,Cosco,1100.0,1137.53,1167.22,24,67.22,29.69,High Overspend
+151,2026-01-22,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Dhl Aviation,6500.0,6831.01,7166.9,3,666.9,335.89,High Overspend
+152,2026-01-22,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Atlas Air,4800.0,4766.05,4574.67,1,-225.33,-191.38,Under Contract
+153,2026-01-22,LANE-006,Nhava Sheva Hub,Pune Distribution Center,Road,Swift Transportation,850.0,862.22,912.67,4,62.67,50.45,High Overspend
+154,2026-01-22,LANE-007,Chennai Logistics Park,Bangalore Warehouse,Road,Xpo Logistics,950.0,1053.6,1115.28,4,165.28,61.68,High Overspend
+155,2026-01-23,LANE-001,Mundra Port,Rotterdam Port,Ocean,Msc,2800.0,3437.18,3796.88,32,996.88,359.7,High Overspend
+156,2026-01-23,LANE-002,Cochin Port,Hamburg Port,Ocean,Ocean Network Express,2600.0,3199.44,3253.71,25,653.71,54.27,High Overspend
+157,2026-01-23,LANE-003,Chennai Port,Port of Singapore,Ocean,Maersk,1100.0,950.28,959.88,14,-140.12,9.6,Under Contract
+158,2026-01-23,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Fedex Express,6500.0,6328.12,6025.95,2,-474.05,-302.17,Under Contract
+159,2026-01-23,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Lufthansa Cargo,4800.0,5342.02,5404.91,3,604.91,62.89,High Overspend
+160,2026-01-23,LANE-006,Nhava Sheva Hub,Pune Distribution Center,Road,Schneider,850.0,767.85,842.47,2,-7.53,74.62,Under Contract
+161,2026-01-23,LANE-007,Chennai Logistics Park,Bangalore Warehouse,Road,Xpo Logistics,950.0,964.44,934.36,5,-15.64,-30.08,Under Contract
+162,2026-01-24,LANE-001,Mundra Port,Rotterdam Port,Ocean,Cma Cgm,2800.0,2647.42,2629.99,30,-170.01,-17.43,Under Contract
+163,2026-01-24,LANE-002,Cochin Port,Hamburg Port,Ocean,Hapag-Lloyd,2600.0,2333.12,2231.1,21,-368.9,-102.02,Under Contract
+164,2026-01-24,LANE-003,Chennai Port,Port of Singapore,Ocean,Maersk,1100.0,1045.56,1096.33,15,-3.67,50.77,Under Contract
+165,2026-01-24,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Fedex Express,6500.0,6999.66,7313.95,2,813.95,314.29,High Overspend
+166,2026-01-24,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Qatar Airways Cargo,4800.0,5888.72,5925.46,3,1125.46,36.74,High Overspend
+167,2026-01-24,LANE-006,Nhava Sheva Hub,Pune Distribution Center,Road,Swift Transportation,850.0,798.34,810.05,4,-39.95,11.71,Under Contract
+168,2026-01-24,LANE-007,Chennai Logistics Park,Bangalore Warehouse,Road,Knight Transportation,950.0,959.43,928.27,2,-21.73,-31.16,Under Contract
+169,2026-01-25,LANE-001,Mundra Port,Rotterdam Port,Ocean,Cma Cgm,2800.0,2885.96,3020.95,28,220.95,134.99,High Overspend
+170,2026-01-25,LANE-002,Cochin Port,Hamburg Port,Ocean,Evergreen,2600.0,2876.8,2924.51,18,324.51,47.71,High Overspend
+171,2026-01-25,LANE-003,Chennai Port,Port of Singapore,Ocean,Maersk,1100.0,1129.51,1169.85,25,69.85,40.34,High Overspend
+172,2026-01-25,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Dhl Aviation,6500.0,6901.43,7486.43,1,986.43,585.0,High Overspend
+173,2026-01-25,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Qatar Airways Cargo,4800.0,4382.34,4695.03,3,-104.97,312.69,Under Contract
+174,2026-01-25,LANE-006,Nhava Sheva Hub,Pune Distribution Center,Road,Schneider,850.0,796.06,822.86,6,-27.14,26.8,Under Contract
+175,2026-01-25,LANE-007,Chennai Logistics Park,Bangalore Warehouse,Road,Knight Transportation,950.0,960.09,1054.09,4,104.09,94.0,High Overspend
+176,2026-01-26,LANE-001,Mundra Port,Rotterdam Port,Ocean,Msc,2800.0,2747.55,2835.82,19,35.82,88.27,Within Tolerance
+177,2026-01-26,LANE-002,Cochin Port,Hamburg Port,Ocean,Evergreen,2600.0,2334.7,2442.02,23,-157.98,107.32,Under Contract
+178,2026-01-26,LANE-003,Chennai Port,Port of Singapore,Ocean,Maersk,1100.0,1316.45,1287.82,23,187.82,-28.63,High Overspend
+179,2026-01-26,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Emirates Skycargo,6500.0,6423.09,6272.75,3,-227.25,-150.34,Under Contract
+180,2026-01-26,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Atlas Air,4800.0,5323.88,5194.76,3,394.76,-129.12,High Overspend
+181,2026-01-26,LANE-006,Nhava Sheva Hub,Pune Distribution Center,Road,Schneider,850.0,935.73,944.06,4,94.06,8.33,High Overspend
+182,2026-01-26,LANE-007,Chennai Logistics Park,Bangalore Warehouse,Road,Old Dominion,950.0,838.3,849.53,4,-100.47,11.23,Under Contract
+183,2026-01-27,LANE-001,Mundra Port,Rotterdam Port,Ocean,Msc,2800.0,2960.81,2813.97,18,13.97,-146.84,Within Tolerance
+184,2026-01-27,LANE-002,Cochin Port,Hamburg Port,Ocean,Hapag-Lloyd,2600.0,2824.91,2832.05,24,232.05,7.14,High Overspend
+185,2026-01-27,LANE-003,Chennai Port,Port of Singapore,Ocean,Maersk,1100.0,1301.61,1383.85,26,283.85,82.24,High Overspend
+186,2026-01-27,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Dhl Aviation,6500.0,8009.83,7923.44,1,1423.44,-86.39,High Overspend
+187,2026-01-27,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Atlas Air,4800.0,4894.23,5015.64,3,215.64,121.41,Within Tolerance
+188,2026-01-27,LANE-006,Nhava Sheva Hub,Pune Distribution Center,Road,Jb Hunt,850.0,989.61,1072.74,2,222.74,83.13,High Overspend
+189,2026-01-27,LANE-007,Chennai Logistics Park,Bangalore Warehouse,Road,Xpo Logistics,950.0,1122.56,1155.34,5,205.34,32.78,High Overspend
+190,2026-01-28,LANE-001,Mundra Port,Rotterdam Port,Ocean,Msc,2800.0,2498.45,2732.82,14,-67.18,234.37,Under Contract
+191,2026-01-28,LANE-002,Cochin Port,Hamburg Port,Ocean,Ocean Network Express,2600.0,2677.45,2580.33,16,-19.67,-97.12,Under Contract
+192,2026-01-28,LANE-003,Chennai Port,Port of Singapore,Ocean,Evergreen,1100.0,1272.03,1371.65,31,271.65,99.62,High Overspend
+193,2026-01-28,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Fedex Express,6500.0,7041.31,7809.99,2,1309.99,768.68,High Overspend
+194,2026-01-28,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Qatar Airways Cargo,4800.0,4310.53,4159.46,3,-640.54,-151.07,Under Contract
+195,2026-01-28,LANE-006,Nhava Sheva Hub,Pune Distribution Center,Road,Swift Transportation,850.0,856.75,876.44,2,26.44,19.69,Within Tolerance
+196,2026-01-28,LANE-007,Chennai Logistics Park,Bangalore Warehouse,Road,Xpo Logistics,950.0,937.43,1042.75,4,92.75,105.32,High Overspend
+197,2026-01-29,LANE-001,Mundra Port,Rotterdam Port,Ocean,Maersk,2800.0,2825.01,2864.11,22,64.11,39.1,Within Tolerance
+198,2026-01-29,LANE-002,Cochin Port,Hamburg Port,Ocean,Evergreen,2600.0,2538.42,2464.33,32,-135.67,-74.09,Under Contract
+199,2026-01-29,LANE-003,Chennai Port,Port of Singapore,Ocean,Evergreen,1100.0,1258.04,1262.56,31,162.56,4.52,High Overspend
+200,2026-01-29,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Dhl Aviation,6500.0,7090.06,7036.45,3,536.45,-53.61,High Overspend
+201,2026-01-29,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Lufthansa Cargo,4800.0,4423.91,4397.02,3,-402.98,-26.89,Under Contract
+202,2026-01-29,LANE-006,Nhava Sheva Hub,Pune Distribution Center,Road,Swift Transportation,850.0,807.66,799.84,3,-50.16,-7.82,Under Contract
+203,2026-01-29,LANE-007,Chennai Logistics Park,Bangalore Warehouse,Road,Knight Transportation,950.0,893.73,926.66,5,-23.34,32.93,Under Contract
+204,2026-01-30,LANE-001,Mundra Port,Rotterdam Port,Ocean,Maersk,2800.0,2805.62,2813.72,23,13.72,8.1,Within Tolerance
+205,2026-01-30,LANE-002,Cochin Port,Hamburg Port,Ocean,Hapag-Lloyd,2600.0,2460.55,2650.27,19,50.27,189.72,Within Tolerance
+206,2026-01-30,LANE-003,Chennai Port,Port of Singapore,Ocean,Evergreen,1100.0,1134.99,1179.73,20,79.73,44.74,High Overspend
+207,2026-01-30,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Dhl Aviation,6500.0,6957.85,7136.89,3,636.89,179.04,High Overspend
+208,2026-01-30,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Qatar Airways Cargo,4800.0,5799.49,5589.43,1,789.43,-210.06,High Overspend
+209,2026-01-30,LANE-006,Nhava Sheva Hub,Pune Distribution Center,Road,Swift Transportation,850.0,727.23,803.49,2,-46.51,76.26,Under Contract
+210,2026-01-30,LANE-007,Chennai Logistics Park,Bangalore Warehouse,Road,Knight Transportation,950.0,1013.43,969.26,2,19.26,-44.17,Within Tolerance
+211,2026-01-31,LANE-001,Mundra Port,Rotterdam Port,Ocean,Cma Cgm,2800.0,2985.7,2925.53,20,125.53,-60.17,Within Tolerance
+212,2026-01-31,LANE-002,Cochin Port,Hamburg Port,Ocean,Hapag-Lloyd,2600.0,2682.11,2889.65,31,289.65,207.54,High Overspend
+213,2026-01-31,LANE-003,Chennai Port,Port of Singapore,Ocean,Maersk,1100.0,1295.77,1449.13,17,349.13,153.36,High Overspend
+214,2026-01-31,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Dhl Aviation,6500.0,6815.18,7364.53,3,864.53,549.35,High Overspend
+215,2026-01-31,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Qatar Airways Cargo,4800.0,4097.01,4154.99,2,-645.01,57.98,Under Contract
+216,2026-01-31,LANE-006,Nhava Sheva Hub,Pune Distribution Center,Road,Jb Hunt,850.0,746.48,710.56,6,-139.44,-35.92,Under Contract
+217,2026-01-31,LANE-007,Chennai Logistics Park,Bangalore Warehouse,Road,Old Dominion,950.0,1145.01,1223.78,3,273.78,78.77,High Overspend
+218,2026-02-01,LANE-001,Mundra Port,Rotterdam Port,Ocean,Cma Cgm,2800.0,2901.79,3105.57,15,305.57,203.78,High Overspend
+219,2026-02-01,LANE-002,Cochin Port,Hamburg Port,Ocean,Ocean Network Express,2600.0,2436.12,2563.74,15,-36.26,127.62,Under Contract
+220,2026-02-01,LANE-003,Chennai Port,Port of Singapore,Ocean,Maersk,1100.0,1162.67,1111.87,31,11.87,-50.8,Within Tolerance
+221,2026-02-01,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Fedex Express,6500.0,6495.63,6713.19,2,213.19,217.56,Within Tolerance
+222,2026-02-01,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Atlas Air,4800.0,5423.57,5809.27,3,1009.27,385.7,High Overspend
+223,2026-02-01,LANE-006,Nhava Sheva Hub,Pune Distribution Center,Road,Swift Transportation,850.0,934.91,936.0,3,86.0,1.09,High Overspend
+224,2026-02-01,LANE-007,Chennai Logistics Park,Bangalore Warehouse,Road,Knight Transportation,950.0,835.65,922.79,2,-27.21,87.14,Under Contract
+225,2026-02-02,LANE-001,Mundra Port,Rotterdam Port,Ocean,Cma Cgm,2800.0,2754.72,2668.91,17,-131.09,-85.81,Under Contract
+226,2026-02-02,LANE-002,Cochin Port,Hamburg Port,Ocean,Evergreen,2600.0,2591.2,2849.98,32,249.98,258.78,High Overspend
+227,2026-02-02,LANE-003,Chennai Port,Port of Singapore,Ocean,Cosco,1100.0,1111.09,1156.23,22,56.23,45.14,High Overspend
+228,2026-02-02,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Dhl Aviation,6500.0,5810.78,5774.09,1,-725.91,-36.69,Under Contract
+229,2026-02-02,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Lufthansa Cargo,4800.0,5105.79,5301.57,1,501.57,195.78,High Overspend
+230,2026-02-02,LANE-006,Nhava Sheva Hub,Pune Distribution Center,Road,Jb Hunt,850.0,810.89,878.35,6,28.35,67.46,Within Tolerance
+231,2026-02-02,LANE-007,Chennai Logistics Park,Bangalore Warehouse,Road,Knight Transportation,950.0,875.06,875.91,2,-74.09,0.85,Under Contract
+232,2026-02-03,LANE-001,Mundra Port,Rotterdam Port,Ocean,Msc,2800.0,2555.71,2430.11,22,-369.89,-125.6,Under Contract
+233,2026-02-03,LANE-002,Cochin Port,Hamburg Port,Ocean,Hapag-Lloyd,2600.0,3152.84,3013.92,31,413.92,-138.92,High Overspend
+234,2026-02-03,LANE-003,Chennai Port,Port of Singapore,Ocean,Evergreen,1100.0,1056.13,1042.43,22,-57.57,-13.7,Under Contract
+235,2026-02-03,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Fedex Express,6500.0,6704.79,6785.08,3,285.08,80.29,Within Tolerance
+236,2026-02-03,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Atlas Air,4800.0,4657.38,4653.5,1,-146.5,-3.88,Under Contract
+237,2026-02-03,LANE-006,Nhava Sheva Hub,Pune Distribution Center,Road,Schneider,850.0,843.7,935.98,2,85.98,92.28,High Overspend
+238,2026-02-03,LANE-007,Chennai Logistics Park,Bangalore Warehouse,Road,Knight Transportation,950.0,1003.02,1077.2,3,127.2,74.18,High Overspend
+239,2026-02-04,LANE-001,Mundra Port,Rotterdam Port,Ocean,Msc,2800.0,2924.86,3030.59,29,230.59,105.73,High Overspend
+240,2026-02-04,LANE-002,Cochin Port,Hamburg Port,Ocean,Evergreen,2600.0,2556.6,2811.76,30,211.76,255.16,High Overspend
+241,2026-02-04,LANE-003,Chennai Port,Port of Singapore,Ocean,Evergreen,1100.0,1166.8,1127.64,24,27.64,-39.16,Within Tolerance
+242,2026-02-04,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Dhl Aviation,6500.0,5526.1,5576.69,1,-923.31,50.59,Under Contract
+243,2026-02-04,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Atlas Air,4800.0,4187.46,4318.43,1,-481.57,130.97,Under Contract
+244,2026-02-04,LANE-006,Nhava Sheva Hub,Pune Distribution Center,Road,Swift Transportation,850.0,725.11,803.74,5,-46.26,78.63,Under Contract
+245,2026-02-04,LANE-007,Chennai Logistics Park,Bangalore Warehouse,Road,Knight Transportation,950.0,1052.66,1145.31,2,195.31,92.65,High Overspend
+246,2026-02-05,LANE-001,Mundra Port,Rotterdam Port,Ocean,Maersk,2800.0,2987.41,3045.81,22,245.81,58.4,High Overspend
+247,2026-02-05,LANE-002,Cochin Port,Hamburg Port,Ocean,Ocean Network Express,2600.0,2430.23,2336.48,17,-263.52,-93.75,Under Contract
+248,2026-02-05,LANE-003,Chennai Port,Port of Singapore,Ocean,Maersk,1100.0,1259.66,1400.33,20,300.33,140.67,High Overspend
+249,2026-02-05,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Fedex Express,6500.0,7536.17,7236.09,1,736.09,-300.08,High Overspend
+250,2026-02-05,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Atlas Air,4800.0,5172.32,5160.6,3,360.6,-11.72,High Overspend
+251,2026-02-05,LANE-006,Nhava Sheva Hub,Pune Distribution Center,Road,Schneider,850.0,938.2,997.05,2,147.05,58.85,High Overspend
+252,2026-02-05,LANE-007,Chennai Logistics Park,Bangalore Warehouse,Road,Knight Transportation,950.0,1170.13,1167.46,5,217.46,-2.67,High Overspend
+253,2026-02-06,LANE-001,Mundra Port,Rotterdam Port,Ocean,Cma Cgm,2800.0,3467.18,3552.6,31,752.6,85.42,High Overspend
+254,2026-02-06,LANE-002,Cochin Port,Hamburg Port,Ocean,Evergreen,2600.0,2424.11,2695.11,15,95.11,271.0,Within Tolerance
+255,2026-02-06,LANE-003,Chennai Port,Port of Singapore,Ocean,Cosco,1100.0,1213.94,1288.88,16,188.88,74.94,High Overspend
+256,2026-02-06,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Dhl Aviation,6500.0,6259.84,6310.41,3,-189.59,50.57,Under Contract
+257,2026-02-06,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Atlas Air,4800.0,5797.64,5631.67,3,831.67,-165.97,High Overspend
+258,2026-02-06,LANE-006,Nhava Sheva Hub,Pune Distribution Center,Road,Schneider,850.0,818.76,798.53,3,-51.47,-20.23,Under Contract
+259,2026-02-06,LANE-007,Chennai Logistics Park,Bangalore Warehouse,Road,Knight Transportation,950.0,983.96,1021.99,3,71.99,38.03,High Overspend
+260,2026-02-07,LANE-001,Mundra Port,Rotterdam Port,Ocean,Maersk,2800.0,3160.67,3480.01,21,680.01,319.34,High Overspend
+261,2026-02-07,LANE-002,Cochin Port,Hamburg Port,Ocean,Evergreen,2600.0,3142.55,2988.47,17,388.47,-154.08,High Overspend
+262,2026-02-07,LANE-003,Chennai Port,Port of Singapore,Ocean,Maersk,1100.0,1342.54,1375.61,20,275.61,33.07,High Overspend
+263,2026-02-07,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Emirates Skycargo,6500.0,7895.64,7754.99,3,1254.99,-140.65,High Overspend
+264,2026-02-07,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Qatar Airways Cargo,4800.0,5852.86,5750.95,3,950.95,-101.91,High Overspend
+265,2026-02-07,LANE-006,Nhava Sheva Hub,Pune Distribution Center,Road,Jb Hunt,850.0,860.18,903.07,6,53.07,42.89,High Overspend
+266,2026-02-07,LANE-007,Chennai Logistics Park,Bangalore Warehouse,Road,Xpo Logistics,950.0,867.23,959.99,3,9.99,92.76,Within Tolerance
+267,2026-02-08,LANE-001,Mundra Port,Rotterdam Port,Ocean,Maersk,2800.0,2944.3,3294.77,15,494.77,350.47,High Overspend
+268,2026-02-08,LANE-002,Cochin Port,Hamburg Port,Ocean,Hapag-Lloyd,2600.0,2837.7,2963.56,15,363.56,125.86,High Overspend
+269,2026-02-08,LANE-003,Chennai Port,Port of Singapore,Ocean,Cosco,1100.0,1307.53,1356.43,18,256.43,48.9,High Overspend
+270,2026-02-08,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Emirates Skycargo,6500.0,6490.53,6955.71,1,455.71,465.18,High Overspend
+271,2026-02-08,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Atlas Air,4800.0,5037.03,5010.37,1,210.37,-26.66,Within Tolerance
+272,2026-02-08,LANE-006,Nhava Sheva Hub,Pune Distribution Center,Road,Swift Transportation,850.0,791.82,789.13,5,-60.87,-2.69,Under Contract
+273,2026-02-08,LANE-007,Chennai Logistics Park,Bangalore Warehouse,Road,Knight Transportation,950.0,828.52,887.86,4,-62.14,59.34,Under Contract
+274,2026-02-09,LANE-001,Mundra Port,Rotterdam Port,Ocean,Maersk,2800.0,3450.05,3329.29,21,529.29,-120.76,High Overspend
+275,2026-02-09,LANE-002,Cochin Port,Hamburg Port,Ocean,Hapag-Lloyd,2600.0,3179.58,3421.61,28,821.61,242.03,High Overspend
+276,2026-02-09,LANE-003,Chennai Port,Port of Singapore,Ocean,Maersk,1100.0,1007.78,1066.64,32,-33.36,58.86,Under Contract
+277,2026-02-09,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Emirates Skycargo,6500.0,6758.92,6909.3,3,409.3,150.38,High Overspend
+278,2026-02-09,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Qatar Airways Cargo,4800.0,4489.49,4514.43,2,-285.57,24.94,Under Contract
+279,2026-02-09,LANE-006,Nhava Sheva Hub,Pune Distribution Center,Road,Jb Hunt,850.0,867.71,949.98,4,99.98,82.27,High Overspend
+280,2026-02-09,LANE-007,Chennai Logistics Park,Bangalore Warehouse,Road,Xpo Logistics,950.0,915.76,901.46,5,-48.54,-14.3,Under Contract
+281,2026-02-10,LANE-001,Mundra Port,Rotterdam Port,Ocean,Maersk,2800.0,2745.83,2956.01,22,156.01,210.18,High Overspend
+282,2026-02-10,LANE-002,Cochin Port,Hamburg Port,Ocean,Evergreen,2600.0,3027.29,3018.16,29,418.16,-9.13,High Overspend
+283,2026-02-10,LANE-003,Chennai Port,Port of Singapore,Ocean,Maersk,1100.0,1266.0,1206.75,23,106.75,-59.25,High Overspend
+284,2026-02-10,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Fedex Express,6500.0,5685.87,5632.41,2,-867.59,-53.46,Under Contract
+285,2026-02-10,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Qatar Airways Cargo,4800.0,5837.63,5732.36,2,932.36,-105.27,High Overspend
+286,2026-02-10,LANE-006,Nhava Sheva Hub,Pune Distribution Center,Road,Schneider,850.0,919.61,1007.38,3,157.38,87.77,High Overspend
+287,2026-02-10,LANE-007,Chennai Logistics Park,Bangalore Warehouse,Road,Old Dominion,950.0,1025.49,1090.09,4,140.09,64.6,High Overspend
+288,2026-02-11,LANE-001,Mundra Port,Rotterdam Port,Ocean,Cma Cgm,2800.0,2877.08,2780.56,31,-19.44,-96.52,Under Contract
+289,2026-02-11,LANE-002,Cochin Port,Hamburg Port,Ocean,Hapag-Lloyd,2600.0,2877.31,3159.41,25,559.41,282.1,High Overspend
+290,2026-02-11,LANE-003,Chennai Port,Port of Singapore,Ocean,Maersk,1100.0,1097.27,1224.51,27,124.51,127.24,High Overspend
+291,2026-02-11,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Fedex Express,6500.0,6297.21,6498.11,1,-1.89,200.9,Under Contract
+292,2026-02-11,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Lufthansa Cargo,4800.0,4316.03,4111.12,2,-688.88,-204.91,Under Contract
+293,2026-02-11,LANE-006,Nhava Sheva Hub,Pune Distribution Center,Road,Schneider,850.0,791.16,766.84,6,-83.16,-24.32,Under Contract
+294,2026-02-11,LANE-007,Chennai Logistics Park,Bangalore Warehouse,Road,Old Dominion,950.0,916.76,968.3,6,18.3,51.54,Within Tolerance
+295,2026-02-12,LANE-001,Mundra Port,Rotterdam Port,Ocean,Maersk,2800.0,2641.69,2530.75,32,-269.25,-110.94,Under Contract
+296,2026-02-12,LANE-002,Cochin Port,Hamburg Port,Ocean,Hapag-Lloyd,2600.0,2390.66,2642.28,32,42.28,251.62,Within Tolerance
+297,2026-02-12,LANE-003,Chennai Port,Port of Singapore,Ocean,Maersk,1100.0,1202.63,1222.36,21,122.36,19.73,High Overspend
+298,2026-02-12,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Emirates Skycargo,6500.0,6112.47,6169.17,3,-330.83,56.7,Under Contract
+299,2026-02-12,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Lufthansa Cargo,4800.0,5739.31,6283.61,2,1483.61,544.3,High Overspend
+300,2026-02-12,LANE-006,Nhava Sheva Hub,Pune Distribution Center,Road,Swift Transportation,850.0,984.1,953.67,5,103.67,-30.43,High Overspend
+301,2026-02-12,LANE-007,Chennai Logistics Park,Bangalore Warehouse,Road,Xpo Logistics,950.0,909.47,911.83,4,-38.17,2.36,Under Contract
+302,2026-02-13,LANE-001,Mundra Port,Rotterdam Port,Ocean,Msc,2800.0,2873.22,3135.3,17,335.3,262.08,High Overspend
+303,2026-02-13,LANE-002,Cochin Port,Hamburg Port,Ocean,Evergreen,2600.0,2404.61,2661.73,19,61.73,257.12,Within Tolerance
+304,2026-02-13,LANE-003,Chennai Port,Port of Singapore,Ocean,Cosco,1100.0,1145.9,1137.12,18,37.12,-8.78,Within Tolerance
+305,2026-02-13,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Fedex Express,6500.0,5956.02,5815.27,2,-684.73,-140.75,Under Contract
+306,2026-02-13,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Qatar Airways Cargo,4800.0,4975.19,5017.64,1,217.64,42.45,Within Tolerance
+307,2026-02-13,LANE-006,Nhava Sheva Hub,Pune Distribution Center,Road,Schneider,850.0,1000.19,1071.52,5,221.52,71.33,High Overspend
+308,2026-02-13,LANE-007,Chennai Logistics Park,Bangalore Warehouse,Road,Xpo Logistics,950.0,1062.28,1159.24,3,209.24,96.96,High Overspend
+309,2026-02-14,LANE-001,Mundra Port,Rotterdam Port,Ocean,Cma Cgm,2800.0,3325.83,3327.84,29,527.84,2.01,High Overspend
+310,2026-02-14,LANE-002,Cochin Port,Hamburg Port,Ocean,Evergreen,2600.0,3057.63,2913.92,19,313.92,-143.71,High Overspend
+311,2026-02-14,LANE-003,Chennai Port,Port of Singapore,Ocean,Maersk,1100.0,1334.24,1267.67,26,167.67,-66.57,High Overspend
+312,2026-02-14,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Dhl Aviation,6500.0,5854.62,6444.26,2,-55.74,589.64,Under Contract
+313,2026-02-14,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Qatar Airways Cargo,4800.0,4264.91,4310.02,1,-489.98,45.11,Under Contract
+314,2026-02-14,LANE-006,Nhava Sheva Hub,Pune Distribution Center,Road,Swift Transportation,850.0,1007.2,979.13,5,129.13,-28.07,High Overspend
+315,2026-02-14,LANE-007,Chennai Logistics Park,Bangalore Warehouse,Road,Knight Transportation,950.0,1026.61,1132.75,4,182.75,106.14,High Overspend
+316,2026-02-15,LANE-001,Mundra Port,Rotterdam Port,Ocean,Msc,2800.0,2929.53,2924.57,17,124.57,-4.96,Within Tolerance
+317,2026-02-15,LANE-002,Cochin Port,Hamburg Port,Ocean,Ocean Network Express,2600.0,3088.54,3181.54,19,581.54,93.0,High Overspend
+318,2026-02-15,LANE-003,Chennai Port,Port of Singapore,Ocean,Evergreen,1100.0,961.56,1052.55,21,-47.45,90.99,Under Contract
+319,2026-02-15,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Fedex Express,6500.0,5564.84,5998.88,3,-501.12,434.04,Under Contract
+320,2026-02-15,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Qatar Airways Cargo,4800.0,4494.22,4299.79,3,-500.21,-194.43,Under Contract
+321,2026-02-15,LANE-006,Nhava Sheva Hub,Pune Distribution Center,Road,Swift Transportation,850.0,940.8,1019.23,3,169.23,78.43,High Overspend
+322,2026-02-15,LANE-007,Chennai Logistics Park,Bangalore Warehouse,Road,Xpo Logistics,950.0,1076.37,1093.11,6,143.11,16.74,High Overspend
+323,2026-02-16,LANE-001,Mundra Port,Rotterdam Port,Ocean,Maersk,2800.0,2630.03,2636.11,28,-163.89,6.08,Under Contract
+324,2026-02-16,LANE-002,Cochin Port,Hamburg Port,Ocean,Ocean Network Express,2600.0,2647.01,2617.26,15,17.26,-29.75,Within Tolerance
+325,2026-02-16,LANE-003,Chennai Port,Port of Singapore,Ocean,Evergreen,1100.0,1362.32,1490.44,17,390.44,128.12,High Overspend
+326,2026-02-16,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Fedex Express,6500.0,5542.19,5663.87,3,-836.13,121.68,Under Contract
+327,2026-02-16,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Lufthansa Cargo,4800.0,4616.83,5054.99,1,254.99,438.16,High Overspend
+328,2026-02-16,LANE-006,Nhava Sheva Hub,Pune Distribution Center,Road,Jb Hunt,850.0,856.14,861.96,5,11.96,5.82,Within Tolerance
+329,2026-02-16,LANE-007,Chennai Logistics Park,Bangalore Warehouse,Road,Old Dominion,950.0,942.23,1027.71,6,77.71,85.48,High Overspend
+330,2026-02-17,LANE-001,Mundra Port,Rotterdam Port,Ocean,Maersk,2800.0,2699.73,3006.64,23,206.64,306.91,High Overspend
+331,2026-02-17,LANE-002,Cochin Port,Hamburg Port,Ocean,Hapag-Lloyd,2600.0,2631.87,2699.02,17,99.02,67.15,Within Tolerance
+332,2026-02-17,LANE-003,Chennai Port,Port of Singapore,Ocean,Evergreen,1100.0,1192.39,1304.28,31,204.28,111.89,High Overspend
+333,2026-02-17,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Dhl Aviation,6500.0,7707.15,7681.2,3,1181.2,-25.95,High Overspend
+334,2026-02-17,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Atlas Air,4800.0,4437.47,4405.6,3,-394.4,-31.87,Under Contract
+335,2026-02-17,LANE-006,Nhava Sheva Hub,Pune Distribution Center,Road,Jb Hunt,850.0,943.66,953.67,5,103.67,10.01,High Overspend
+336,2026-02-17,LANE-007,Chennai Logistics Park,Bangalore Warehouse,Road,Knight Transportation,950.0,1184.05,1235.25,4,285.25,51.2,High Overspend
+337,2026-02-18,LANE-001,Mundra Port,Rotterdam Port,Ocean,Msc,2800.0,2953.19,2868.27,22,68.27,-84.92,Within Tolerance
+338,2026-02-18,LANE-002,Cochin Port,Hamburg Port,Ocean,Ocean Network Express,2600.0,2476.3,2567.21,31,-32.79,90.91,Under Contract
+339,2026-02-18,LANE-003,Chennai Port,Port of Singapore,Ocean,Evergreen,1100.0,1021.1,1060.81,31,-39.19,39.71,Under Contract
+340,2026-02-18,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Emirates Skycargo,6500.0,7299.31,7673.02,3,1173.02,373.71,High Overspend
+341,2026-02-18,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Atlas Air,4800.0,4301.57,4212.48,2,-587.52,-89.09,Under Contract
+342,2026-02-18,LANE-006,Nhava Sheva Hub,Pune Distribution Center,Road,Swift Transportation,850.0,1017.83,1135.13,3,285.13,117.3,High Overspend
+343,2026-02-18,LANE-007,Chennai Logistics Park,Bangalore Warehouse,Road,Old Dominion,950.0,868.09,909.87,3,-40.13,41.78,Under Contract
+344,2026-02-19,LANE-001,Mundra Port,Rotterdam Port,Ocean,Cma Cgm,2800.0,3250.78,3213.48,28,413.48,-37.3,High Overspend
+345,2026-02-19,LANE-002,Cochin Port,Hamburg Port,Ocean,Ocean Network Express,2600.0,2424.94,2379.23,15,-220.77,-45.71,Under Contract
+346,2026-02-19,LANE-003,Chennai Port,Port of Singapore,Ocean,Cosco,1100.0,1196.72,1310.75,26,210.75,114.03,High Overspend
+347,2026-02-19,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Emirates Skycargo,6500.0,6888.82,6738.0,3,238.0,-150.82,Within Tolerance
+348,2026-02-19,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Qatar Airways Cargo,4800.0,4098.91,4286.48,1,-513.52,187.57,Under Contract
+349,2026-02-19,LANE-006,Nhava Sheva Hub,Pune Distribution Center,Road,Jb Hunt,850.0,969.75,1062.32,6,212.32,92.57,High Overspend
+350,2026-02-19,LANE-007,Chennai Logistics Park,Bangalore Warehouse,Road,Xpo Logistics,950.0,999.46,1077.96,5,127.96,78.5,High Overspend
+351,2026-02-20,LANE-001,Mundra Port,Rotterdam Port,Ocean,Msc,2800.0,2907.05,2884.57,22,84.57,-22.48,Within Tolerance
+352,2026-02-20,LANE-002,Cochin Port,Hamburg Port,Ocean,Hapag-Lloyd,2600.0,2632.92,2506.33,31,-93.67,-126.59,Under Contract
+353,2026-02-20,LANE-003,Chennai Port,Port of Singapore,Ocean,Cosco,1100.0,1119.15,1192.89,18,92.89,73.74,High Overspend
+354,2026-02-20,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Fedex Express,6500.0,5914.29,6236.62,1,-263.38,322.33,Under Contract
+355,2026-02-20,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Lufthansa Cargo,4800.0,4935.16,5325.46,2,525.46,390.3,High Overspend
+356,2026-02-20,LANE-006,Nhava Sheva Hub,Pune Distribution Center,Road,Swift Transportation,850.0,759.72,754.86,4,-95.14,-4.86,Under Contract
+357,2026-02-20,LANE-007,Chennai Logistics Park,Bangalore Warehouse,Road,Xpo Logistics,950.0,1098.09,1199.29,2,249.29,101.2,High Overspend
+358,2026-02-21,LANE-001,Mundra Port,Rotterdam Port,Ocean,Cma Cgm,2800.0,3347.13,3512.08,27,712.08,164.95,High Overspend
+359,2026-02-21,LANE-002,Cochin Port,Hamburg Port,Ocean,Hapag-Lloyd,2600.0,3175.67,3089.25,29,489.25,-86.42,High Overspend
+360,2026-02-21,LANE-003,Chennai Port,Port of Singapore,Ocean,Cosco,1100.0,948.06,959.46,14,-140.54,11.4,Under Contract
+361,2026-02-21,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Emirates Skycargo,6500.0,6530.17,7298.35,1,798.35,768.18,High Overspend
+362,2026-02-21,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Atlas Air,4800.0,4881.82,4742.41,3,-57.59,-139.41,Under Contract
+363,2026-02-21,LANE-006,Nhava Sheva Hub,Pune Distribution Center,Road,Jb Hunt,850.0,767.08,797.28,4,-52.72,30.2,Under Contract
+364,2026-02-21,LANE-007,Chennai Logistics Park,Bangalore Warehouse,Road,Knight Transportation,950.0,852.68,837.46,2,-112.54,-15.22,Under Contract
+365,2026-02-22,LANE-001,Mundra Port,Rotterdam Port,Ocean,Cma Cgm,2800.0,2476.44,2542.46,26,-257.54,66.02,Under Contract
+366,2026-02-22,LANE-002,Cochin Port,Hamburg Port,Ocean,Hapag-Lloyd,2600.0,2890.52,3010.0,19,410.0,119.48,High Overspend
+367,2026-02-22,LANE-003,Chennai Port,Port of Singapore,Ocean,Maersk,1100.0,1216.2,1277.09,21,177.09,60.89,High Overspend
+368,2026-02-22,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Dhl Aviation,6500.0,5771.34,5727.87,3,-772.13,-43.47,Under Contract
+369,2026-02-22,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Atlas Air,4800.0,5557.33,5359.46,2,559.46,-197.87,High Overspend
+370,2026-02-22,LANE-006,Nhava Sheva Hub,Pune Distribution Center,Road,Jb Hunt,850.0,923.85,945.59,6,95.59,21.74,High Overspend
+371,2026-02-22,LANE-007,Chennai Logistics Park,Bangalore Warehouse,Road,Knight Transportation,950.0,1112.46,1141.54,2,191.54,29.08,High Overspend
+372,2026-02-23,LANE-001,Mundra Port,Rotterdam Port,Ocean,Cma Cgm,2800.0,2545.03,2508.23,23,-291.77,-36.8,Under Contract
+373,2026-02-23,LANE-002,Cochin Port,Hamburg Port,Ocean,Ocean Network Express,2600.0,2573.67,2540.55,22,-59.45,-33.12,Under Contract
+374,2026-02-23,LANE-003,Chennai Port,Port of Singapore,Ocean,Maersk,1100.0,1312.77,1365.52,31,265.52,52.75,High Overspend
+375,2026-02-23,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Dhl Aviation,6500.0,7256.43,7227.17,3,727.17,-29.26,High Overspend
+376,2026-02-23,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Qatar Airways Cargo,4800.0,5406.25,5859.76,3,1059.76,453.51,High Overspend
+377,2026-02-23,LANE-006,Nhava Sheva Hub,Pune Distribution Center,Road,Swift Transportation,850.0,849.96,821.73,3,-28.27,-28.23,Under Contract
+378,2026-02-23,LANE-007,Chennai Logistics Park,Bangalore Warehouse,Road,Xpo Logistics,950.0,822.95,919.83,3,-30.17,96.88,Under Contract
+379,2026-02-24,LANE-001,Mundra Port,Rotterdam Port,Ocean,Cma Cgm,2800.0,3251.07,3133.83,29,333.83,-117.24,High Overspend
+380,2026-02-24,LANE-002,Cochin Port,Hamburg Port,Ocean,Hapag-Lloyd,2600.0,2235.44,2261.15,21,-338.85,25.71,Under Contract
+381,2026-02-24,LANE-003,Chennai Port,Port of Singapore,Ocean,Maersk,1100.0,1351.53,1463.05,20,363.05,111.52,High Overspend
+382,2026-02-24,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Dhl Aviation,6500.0,6191.83,6544.96,1,44.96,353.13,Within Tolerance
+383,2026-02-24,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Qatar Airways Cargo,4800.0,4370.01,4667.03,1,-132.97,297.02,Under Contract
+384,2026-02-24,LANE-006,Nhava Sheva Hub,Pune Distribution Center,Road,Schneider,850.0,879.61,848.96,2,-1.04,-30.65,Under Contract
+385,2026-02-24,LANE-007,Chennai Logistics Park,Bangalore Warehouse,Road,Xpo Logistics,950.0,811.61,793.68,2,-156.32,-17.93,Under Contract
+386,2026-02-25,LANE-001,Mundra Port,Rotterdam Port,Ocean,Msc,2800.0,3068.53,3076.83,31,276.83,8.3,High Overspend
+387,2026-02-25,LANE-002,Cochin Port,Hamburg Port,Ocean,Evergreen,2600.0,3247.75,3221.22,29,621.22,-26.53,High Overspend
+388,2026-02-25,LANE-003,Chennai Port,Port of Singapore,Ocean,Maersk,1100.0,1090.32,1143.74,28,43.74,53.42,Within Tolerance
+389,2026-02-25,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Emirates Skycargo,6500.0,8010.36,8404.81,1,1904.81,394.45,High Overspend
+390,2026-02-25,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Qatar Airways Cargo,4800.0,4767.63,4957.03,2,157.03,189.4,Within Tolerance
+391,2026-02-25,LANE-006,Nhava Sheva Hub,Pune Distribution Center,Road,Jb Hunt,850.0,770.87,803.85,5,-46.15,32.98,Under Contract
+392,2026-02-25,LANE-007,Chennai Logistics Park,Bangalore Warehouse,Road,Knight Transportation,950.0,1101.65,1090.12,6,140.12,-11.53,High Overspend
+393,2026-02-26,LANE-001,Mundra Port,Rotterdam Port,Ocean,Msc,2800.0,3359.35,3636.0,32,836.0,276.65,High Overspend
+394,2026-02-26,LANE-002,Cochin Port,Hamburg Port,Ocean,Hapag-Lloyd,2600.0,2214.08,2111.76,21,-488.24,-102.32,Under Contract
+395,2026-02-26,LANE-003,Chennai Port,Port of Singapore,Ocean,Maersk,1100.0,1111.24,1201.69,20,101.69,90.45,High Overspend
+396,2026-02-26,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Fedex Express,6500.0,6959.93,7294.27,1,794.27,334.34,High Overspend
+397,2026-02-26,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Atlas Air,4800.0,5464.2,6019.55,2,1219.55,555.35,High Overspend
+398,2026-02-26,LANE-006,Nhava Sheva Hub,Pune Distribution Center,Road,Jb Hunt,850.0,735.05,705.77,5,-144.23,-29.28,Under Contract
+399,2026-02-26,LANE-007,Chennai Logistics Park,Bangalore Warehouse,Road,Knight Transportation,950.0,1067.09,1142.36,5,192.36,75.27,High Overspend
+400,2026-02-27,LANE-001,Mundra Port,Rotterdam Port,Ocean,Cma Cgm,2800.0,2991.02,3165.35,26,365.35,174.33,High Overspend
+401,2026-02-27,LANE-002,Cochin Port,Hamburg Port,Ocean,Hapag-Lloyd,2600.0,2587.29,2702.8,24,102.8,115.51,Within Tolerance
+402,2026-02-27,LANE-003,Chennai Port,Port of Singapore,Ocean,Evergreen,1100.0,1294.88,1318.11,28,218.11,23.23,High Overspend
+403,2026-02-27,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Emirates Skycargo,6500.0,6517.41,7168.64,1,668.64,651.23,High Overspend
+404,2026-02-27,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Lufthansa Cargo,4800.0,5590.49,5531.85,3,731.85,-58.64,High Overspend
+405,2026-02-27,LANE-006,Nhava Sheva Hub,Pune Distribution Center,Road,Swift Transportation,850.0,852.29,866.76,2,16.76,14.47,Within Tolerance
+406,2026-02-27,LANE-007,Chennai Logistics Park,Bangalore Warehouse,Road,Old Dominion,950.0,918.59,964.1,6,14.1,45.51,Within Tolerance
+407,2026-02-28,LANE-001,Mundra Port,Rotterdam Port,Ocean,Cma Cgm,2800.0,2914.5,2948.91,28,148.91,34.41,High Overspend
+408,2026-02-28,LANE-002,Cochin Port,Hamburg Port,Ocean,Evergreen,2600.0,2783.5,2741.62,22,141.62,-41.88,High Overspend
+409,2026-02-28,LANE-003,Chennai Port,Port of Singapore,Ocean,Evergreen,1100.0,982.53,983.04,24,-116.96,0.51,Under Contract
+410,2026-02-28,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Fedex Express,6500.0,5932.04,6031.49,3,-468.51,99.45,Under Contract
+411,2026-02-28,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Qatar Airways Cargo,4800.0,5551.49,5507.38,3,707.38,-44.11,High Overspend
+412,2026-02-28,LANE-006,Nhava Sheva Hub,Pune Distribution Center,Road,Swift Transportation,850.0,730.52,754.37,2,-95.63,23.85,Under Contract
+413,2026-02-28,LANE-007,Chennai Logistics Park,Bangalore Warehouse,Road,Old Dominion,950.0,930.97,1008.92,3,58.92,77.95,High Overspend
+414,2026-03-01,LANE-001,Mundra Port,Rotterdam Port,Ocean,Maersk,2800.0,3092.0,2975.49,25,175.49,-116.51,High Overspend
+415,2026-03-01,LANE-002,Cochin Port,Hamburg Port,Ocean,Ocean Network Express,2600.0,3189.31,3065.88,25,465.88,-123.43,High Overspend
+416,2026-03-01,LANE-003,Chennai Port,Port of Singapore,Ocean,Evergreen,1100.0,1105.46,1179.67,30,79.67,74.21,High Overspend
+417,2026-03-01,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Dhl Aviation,6500.0,6185.32,6257.29,3,-242.71,71.97,Under Contract
+418,2026-03-01,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Qatar Airways Cargo,4800.0,4729.94,5198.35,3,398.35,468.41,High Overspend
+419,2026-03-01,LANE-006,Nhava Sheva Hub,Pune Distribution Center,Road,Swift Transportation,850.0,893.72,928.21,4,78.21,34.49,High Overspend
+420,2026-03-01,LANE-007,Chennai Logistics Park,Bangalore Warehouse,Road,Old Dominion,950.0,824.28,917.23,3,-32.77,92.95,Under Contract
+421,2026-03-02,LANE-001,Mundra Port,Rotterdam Port,Ocean,Msc,2800.0,2688.84,2864.65,23,64.65,175.81,Within Tolerance
+422,2026-03-02,LANE-002,Cochin Port,Hamburg Port,Ocean,Hapag-Lloyd,2600.0,2315.42,2534.41,31,-65.59,218.99,Under Contract
+423,2026-03-02,LANE-003,Chennai Port,Port of Singapore,Ocean,Cosco,1100.0,1120.97,1134.62,21,34.62,13.65,Within Tolerance
+424,2026-03-02,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Dhl Aviation,6500.0,7470.81,7923.54,3,1423.54,452.73,High Overspend
+425,2026-03-02,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Qatar Airways Cargo,4800.0,5166.77,4966.76,1,166.76,-200.01,Within Tolerance
+426,2026-03-02,LANE-006,Nhava Sheva Hub,Pune Distribution Center,Road,Schneider,850.0,832.37,815.85,4,-34.15,-16.52,Under Contract
+427,2026-03-02,LANE-007,Chennai Logistics Park,Bangalore Warehouse,Road,Old Dominion,950.0,1101.44,1219.92,6,269.92,118.48,High Overspend
+428,2026-03-03,LANE-001,Mundra Port,Rotterdam Port,Ocean,Cma Cgm,2800.0,2701.84,2642.73,17,-157.27,-59.11,Under Contract
+429,2026-03-03,LANE-002,Cochin Port,Hamburg Port,Ocean,Evergreen,2600.0,3037.08,3008.81,31,408.81,-28.27,High Overspend
+430,2026-03-03,LANE-003,Chennai Port,Port of Singapore,Ocean,Cosco,1100.0,1090.62,1194.85,26,94.85,104.23,High Overspend
+431,2026-03-03,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Emirates Skycargo,6500.0,7304.37,7281.16,1,781.16,-23.21,High Overspend
+432,2026-03-03,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Qatar Airways Cargo,4800.0,5414.92,5352.54,3,552.54,-62.38,High Overspend
+433,2026-03-03,LANE-006,Nhava Sheva Hub,Pune Distribution Center,Road,Swift Transportation,850.0,907.36,967.49,5,117.49,60.13,High Overspend
+434,2026-03-03,LANE-007,Chennai Logistics Park,Bangalore Warehouse,Road,Old Dominion,950.0,1091.54,1169.83,4,219.83,78.29,High Overspend
+435,2026-03-04,LANE-001,Mundra Port,Rotterdam Port,Ocean,Cma Cgm,2800.0,2631.16,2745.26,15,-54.74,114.1,Under Contract
+436,2026-03-04,LANE-002,Cochin Port,Hamburg Port,Ocean,Hapag-Lloyd,2600.0,3126.76,3341.39,15,741.39,214.63,High Overspend
+437,2026-03-04,LANE-003,Chennai Port,Port of Singapore,Ocean,Evergreen,1100.0,1010.35,1019.89,23,-80.11,9.54,Under Contract
+438,2026-03-04,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Dhl Aviation,6500.0,5576.39,6107.1,2,-392.9,530.71,Under Contract
+439,2026-03-04,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Atlas Air,4800.0,4964.69,5503.4,1,703.4,538.71,High Overspend
+440,2026-03-04,LANE-006,Nhava Sheva Hub,Pune Distribution Center,Road,Schneider,850.0,857.19,898.76,6,48.76,41.57,High Overspend
+441,2026-03-04,LANE-007,Chennai Logistics Park,Bangalore Warehouse,Road,Old Dominion,950.0,1094.99,1055.8,5,105.8,-39.19,High Overspend
+442,2026-03-05,LANE-001,Mundra Port,Rotterdam Port,Ocean,Cma Cgm,2800.0,3027.82,2959.24,22,159.24,-68.58,High Overspend
+443,2026-03-05,LANE-002,Cochin Port,Hamburg Port,Ocean,Hapag-Lloyd,2600.0,3243.27,3353.42,29,753.42,110.15,High Overspend
+444,2026-03-05,LANE-003,Chennai Port,Port of Singapore,Ocean,Maersk,1100.0,1199.09,1322.77,18,222.77,123.68,High Overspend
+445,2026-03-05,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Emirates Skycargo,6500.0,7125.36,7660.22,1,1160.22,534.86,High Overspend
+446,2026-03-05,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Atlas Air,4800.0,4187.16,4384.08,2,-415.92,196.92,Under Contract
+447,2026-03-05,LANE-006,Nhava Sheva Hub,Pune Distribution Center,Road,Schneider,850.0,972.73,1031.4,2,181.4,58.67,High Overspend
+448,2026-03-05,LANE-007,Chennai Logistics Park,Bangalore Warehouse,Road,Old Dominion,950.0,1113.94,1064.64,3,114.64,-49.3,High Overspend
+449,2026-03-06,LANE-001,Mundra Port,Rotterdam Port,Ocean,Cma Cgm,2800.0,2419.05,2439.09,28,-360.91,20.04,Under Contract
+450,2026-03-06,LANE-002,Cochin Port,Hamburg Port,Ocean,Evergreen,2600.0,3215.4,3250.25,15,650.25,34.85,High Overspend
+451,2026-03-06,LANE-003,Chennai Port,Port of Singapore,Ocean,Cosco,1100.0,1132.92,1263.3,29,163.3,130.38,High Overspend
+452,2026-03-06,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Fedex Express,6500.0,5658.3,5711.35,3,-788.65,53.05,Under Contract
+453,2026-03-06,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Qatar Airways Cargo,4800.0,4430.56,4628.53,3,-171.47,197.97,Under Contract
+454,2026-03-06,LANE-006,Nhava Sheva Hub,Pune Distribution Center,Road,Schneider,850.0,1022.86,997.06,3,147.06,-25.8,High Overspend
+455,2026-03-06,LANE-007,Chennai Logistics Park,Bangalore Warehouse,Road,Knight Transportation,950.0,1166.44,1108.45,3,158.45,-57.99,High Overspend
+456,2026-03-07,LANE-001,Mundra Port,Rotterdam Port,Ocean,Cma Cgm,2800.0,3456.6,3391.16,18,591.16,-65.44,High Overspend
+457,2026-03-07,LANE-002,Cochin Port,Hamburg Port,Ocean,Hapag-Lloyd,2600.0,2351.83,2536.39,27,-63.61,184.56,Under Contract
+458,2026-03-07,LANE-003,Chennai Port,Port of Singapore,Ocean,Evergreen,1100.0,1016.83,1096.94,31,-3.06,80.11,Under Contract
+459,2026-03-07,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Emirates Skycargo,6500.0,6038.02,5837.67,3,-662.33,-200.35,Under Contract
+460,2026-03-07,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Atlas Air,4800.0,5964.79,6518.26,1,1718.26,553.47,High Overspend
+461,2026-03-07,LANE-006,Nhava Sheva Hub,Pune Distribution Center,Road,Schneider,850.0,734.31,809.16,3,-40.84,74.85,Under Contract
+462,2026-03-07,LANE-007,Chennai Logistics Park,Bangalore Warehouse,Road,Old Dominion,950.0,1107.59,1089.09,2,139.09,-18.5,High Overspend
+463,2026-03-08,LANE-001,Mundra Port,Rotterdam Port,Ocean,Maersk,2800.0,3378.69,3682.28,24,882.28,303.59,High Overspend
+464,2026-03-08,LANE-002,Cochin Port,Hamburg Port,Ocean,Evergreen,2600.0,2787.92,2847.48,28,247.48,59.56,High Overspend
+465,2026-03-08,LANE-003,Chennai Port,Port of Singapore,Ocean,Maersk,1100.0,937.12,905.59,14,-194.41,-31.53,Under Contract
+466,2026-03-08,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Dhl Aviation,6500.0,5916.54,6215.54,1,-284.46,299.0,Under Contract
+467,2026-03-08,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Atlas Air,4800.0,5276.33,5629.52,3,829.52,353.19,High Overspend
+468,2026-03-08,LANE-006,Nhava Sheva Hub,Pune Distribution Center,Road,Jb Hunt,850.0,1048.02,1126.48,3,276.48,78.46,High Overspend
+469,2026-03-08,LANE-007,Chennai Logistics Park,Bangalore Warehouse,Road,Knight Transportation,950.0,891.22,976.32,2,26.32,85.1,Within Tolerance
+470,2026-03-09,LANE-001,Mundra Port,Rotterdam Port,Ocean,Maersk,2800.0,3272.23,3423.11,18,623.11,150.88,High Overspend
+471,2026-03-09,LANE-002,Cochin Port,Hamburg Port,Ocean,Evergreen,2600.0,2948.15,2858.99,17,258.99,-89.16,High Overspend
+472,2026-03-09,LANE-003,Chennai Port,Port of Singapore,Ocean,Evergreen,1100.0,1103.41,1108.34,14,8.34,4.93,Within Tolerance
+473,2026-03-09,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Dhl Aviation,6500.0,6583.36,7205.08,2,705.08,621.72,High Overspend
+474,2026-03-09,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Atlas Air,4800.0,4546.62,4624.71,1,-175.29,78.09,Under Contract
+475,2026-03-09,LANE-006,Nhava Sheva Hub,Pune Distribution Center,Road,Schneider,850.0,838.1,898.76,4,48.76,60.66,High Overspend
+476,2026-03-09,LANE-007,Chennai Logistics Park,Bangalore Warehouse,Road,Old Dominion,950.0,1173.29,1151.61,6,201.61,-21.68,High Overspend
+477,2026-03-10,LANE-001,Mundra Port,Rotterdam Port,Ocean,Msc,2800.0,2793.66,2874.02,27,74.02,80.36,Within Tolerance
+478,2026-03-10,LANE-002,Cochin Port,Hamburg Port,Ocean,Ocean Network Express,2600.0,2856.08,2799.64,21,199.64,-56.44,High Overspend
+479,2026-03-10,LANE-003,Chennai Port,Port of Singapore,Ocean,Maersk,1100.0,1275.08,1374.89,31,274.89,99.81,High Overspend
+480,2026-03-10,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Dhl Aviation,6500.0,6439.5,6225.49,3,-274.51,-214.01,Under Contract
+481,2026-03-10,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Qatar Airways Cargo,4800.0,5741.69,5462.04,1,662.04,-279.65,High Overspend
+482,2026-03-10,LANE-006,Nhava Sheva Hub,Pune Distribution Center,Road,Schneider,850.0,958.24,1034.33,5,184.33,76.09,High Overspend
+483,2026-03-10,LANE-007,Chennai Logistics Park,Bangalore Warehouse,Road,Knight Transportation,950.0,868.59,876.86,4,-73.14,8.27,Under Contract
+484,2026-03-11,LANE-001,Mundra Port,Rotterdam Port,Ocean,Cma Cgm,2800.0,2628.18,2756.34,32,-43.66,128.16,Under Contract
+485,2026-03-11,LANE-002,Cochin Port,Hamburg Port,Ocean,Ocean Network Express,2600.0,2716.67,2769.28,19,169.28,52.61,High Overspend
+486,2026-03-11,LANE-003,Chennai Port,Port of Singapore,Ocean,Evergreen,1100.0,1228.8,1236.38,20,136.38,7.58,High Overspend
+487,2026-03-11,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Emirates Skycargo,6500.0,6925.16,6663.76,2,163.76,-261.4,Within Tolerance
+488,2026-03-11,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Qatar Airways Cargo,4800.0,5610.34,5998.77,1,1198.77,388.43,High Overspend
+489,2026-03-11,LANE-006,Nhava Sheva Hub,Pune Distribution Center,Road,Jb Hunt,850.0,726.74,718.54,4,-131.46,-8.2,Under Contract
+490,2026-03-11,LANE-007,Chennai Logistics Park,Bangalore Warehouse,Road,Old Dominion,950.0,1114.26,1088.17,6,138.17,-26.09,High Overspend
+491,2026-03-12,LANE-001,Mundra Port,Rotterdam Port,Ocean,Maersk,2800.0,2382.47,2316.8,14,-483.2,-65.67,Under Contract
+492,2026-03-12,LANE-002,Cochin Port,Hamburg Port,Ocean,Ocean Network Express,2600.0,2718.76,2831.2,16,231.2,112.44,High Overspend
+493,2026-03-12,LANE-003,Chennai Port,Port of Singapore,Ocean,Maersk,1100.0,947.2,1030.3,16,-69.7,83.1,Under Contract
+494,2026-03-12,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Fedex Express,6500.0,7547.69,7638.6,3,1138.6,90.91,High Overspend
+495,2026-03-12,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Atlas Air,4800.0,4321.91,4492.68,1,-307.32,170.77,Under Contract
+496,2026-03-12,LANE-006,Nhava Sheva Hub,Pune Distribution Center,Road,Swift Transportation,850.0,902.41,948.3,3,98.3,45.89,High Overspend
+497,2026-03-12,LANE-007,Chennai Logistics Park,Bangalore Warehouse,Road,Knight Transportation,950.0,1162.89,1190.63,5,240.63,27.74,High Overspend
+498,2026-03-13,LANE-001,Mundra Port,Rotterdam Port,Ocean,Maersk,2800.0,2959.49,3103.19,18,303.19,143.7,High Overspend
+499,2026-03-13,LANE-002,Cochin Port,Hamburg Port,Ocean,Evergreen,2600.0,2496.13,2705.01,28,105.01,208.88,Within Tolerance
+500,2026-03-13,LANE-003,Chennai Port,Port of Singapore,Ocean,Maersk,1100.0,1296.41,1351.9,23,251.9,55.49,High Overspend
+501,2026-03-13,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Dhl Aviation,6500.0,7147.15,7342.98,2,842.98,195.83,High Overspend
+502,2026-03-13,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Lufthansa Cargo,4800.0,4106.34,4505.94,2,-294.06,399.6,Under Contract
+503,2026-03-13,LANE-006,Nhava Sheva Hub,Pune Distribution Center,Road,Schneider,850.0,1024.07,1088.0,5,238.0,63.93,High Overspend
+504,2026-03-13,LANE-007,Chennai Logistics Park,Bangalore Warehouse,Road,Knight Transportation,950.0,905.88,883.65,2,-66.35,-22.23,Under Contract
+505,2026-03-14,LANE-001,Mundra Port,Rotterdam Port,Ocean,Msc,2800.0,2600.01,2869.55,27,69.55,269.54,Within Tolerance
+506,2026-03-14,LANE-002,Cochin Port,Hamburg Port,Ocean,Evergreen,2600.0,3076.8,3417.97,22,817.97,341.17,High Overspend
+507,2026-03-14,LANE-003,Chennai Port,Port of Singapore,Ocean,Evergreen,1100.0,1288.33,1374.39,19,274.39,86.06,High Overspend
+508,2026-03-14,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Emirates Skycargo,6500.0,5744.54,6026.48,3,-473.52,281.94,Under Contract
+509,2026-03-14,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Atlas Air,4800.0,5723.69,6382.83,2,1582.83,659.14,High Overspend
+510,2026-03-14,LANE-006,Nhava Sheva Hub,Pune Distribution Center,Road,Schneider,850.0,943.26,956.08,6,106.08,12.82,High Overspend
+511,2026-03-14,LANE-007,Chennai Logistics Park,Bangalore Warehouse,Road,Knight Transportation,950.0,1103.21,1229.96,6,279.96,126.75,High Overspend
+512,2026-03-15,LANE-001,Mundra Port,Rotterdam Port,Ocean,Msc,2800.0,2928.53,3184.66,31,384.66,256.13,High Overspend
+513,2026-03-15,LANE-002,Cochin Port,Hamburg Port,Ocean,Hapag-Lloyd,2600.0,2417.66,2654.39,28,54.39,236.73,Within Tolerance
+514,2026-03-15,LANE-003,Chennai Port,Port of Singapore,Ocean,Cosco,1100.0,987.25,978.58,18,-121.42,-8.67,Under Contract
+515,2026-03-15,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Dhl Aviation,6500.0,7342.36,8191.77,2,1691.77,849.41,High Overspend
+516,2026-03-15,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Atlas Air,4800.0,5457.55,5847.95,2,1047.95,390.4,High Overspend
+517,2026-03-15,LANE-006,Nhava Sheva Hub,Pune Distribution Center,Road,Schneider,850.0,995.18,950.98,2,100.98,-44.2,High Overspend
+518,2026-03-15,LANE-007,Chennai Logistics Park,Bangalore Warehouse,Road,Xpo Logistics,950.0,1174.17,1155.55,6,205.55,-18.62,High Overspend
+519,2026-03-16,LANE-001,Mundra Port,Rotterdam Port,Ocean,Maersk,2800.0,3098.03,3447.88,16,647.88,349.85,High Overspend
+520,2026-03-16,LANE-002,Cochin Port,Hamburg Port,Ocean,Ocean Network Express,2600.0,3235.9,3087.86,29,487.86,-148.04,High Overspend
+521,2026-03-16,LANE-003,Chennai Port,Port of Singapore,Ocean,Cosco,1100.0,1252.8,1358.82,24,258.82,106.02,High Overspend
+522,2026-03-16,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Dhl Aviation,6500.0,5893.94,5932.98,2,-567.02,39.04,Under Contract
+523,2026-03-16,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Atlas Air,4800.0,5223.91,5494.71,1,694.71,270.8,High Overspend
+524,2026-03-16,LANE-006,Nhava Sheva Hub,Pune Distribution Center,Road,Swift Transportation,850.0,1033.63,1061.37,3,211.37,27.74,High Overspend
+525,2026-03-16,LANE-007,Chennai Logistics Park,Bangalore Warehouse,Road,Old Dominion,950.0,832.72,891.0,2,-59.0,58.28,Under Contract
+526,2026-03-17,LANE-001,Mundra Port,Rotterdam Port,Ocean,Msc,2800.0,3264.2,3279.58,17,479.58,15.38,High Overspend
+527,2026-03-17,LANE-002,Cochin Port,Hamburg Port,Ocean,Ocean Network Express,2600.0,2478.99,2610.7,29,10.7,131.71,Within Tolerance
+528,2026-03-17,LANE-003,Chennai Port,Port of Singapore,Ocean,Maersk,1100.0,1367.8,1334.9,17,234.9,-32.9,High Overspend
+529,2026-03-17,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Fedex Express,6500.0,7748.99,7472.3,2,972.3,-276.69,High Overspend
+530,2026-03-17,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Lufthansa Cargo,4800.0,5712.84,5629.87,1,829.87,-82.97,High Overspend
+531,2026-03-17,LANE-006,Nhava Sheva Hub,Pune Distribution Center,Road,Schneider,850.0,876.75,907.44,4,57.44,30.69,High Overspend
+532,2026-03-17,LANE-007,Chennai Logistics Park,Bangalore Warehouse,Road,Xpo Logistics,950.0,894.01,995.09,5,45.09,101.08,Within Tolerance
+533,2026-03-18,LANE-001,Mundra Port,Rotterdam Port,Ocean,Msc,2800.0,2710.92,2617.2,26,-182.8,-93.72,Under Contract
+534,2026-03-18,LANE-002,Cochin Port,Hamburg Port,Ocean,Ocean Network Express,2600.0,2867.15,2797.98,30,197.98,-69.17,High Overspend
+535,2026-03-18,LANE-003,Chennai Port,Port of Singapore,Ocean,Evergreen,1100.0,1095.8,1129.75,22,29.75,33.95,Within Tolerance
+536,2026-03-18,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Dhl Aviation,6500.0,6507.46,6199.28,2,-300.72,-308.18,Under Contract
+537,2026-03-18,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Atlas Air,4800.0,4352.47,4750.58,1,-49.42,398.11,Under Contract
+538,2026-03-18,LANE-006,Nhava Sheva Hub,Pune Distribution Center,Road,Schneider,850.0,996.44,1104.24,2,254.24,107.8,High Overspend
+539,2026-03-18,LANE-007,Chennai Logistics Park,Bangalore Warehouse,Road,Xpo Logistics,950.0,973.51,1041.09,4,91.09,67.58,High Overspend
+540,2026-03-19,LANE-001,Mundra Port,Rotterdam Port,Ocean,Cma Cgm,2800.0,2979.35,3156.43,18,356.43,177.08,High Overspend
+541,2026-03-19,LANE-002,Cochin Port,Hamburg Port,Ocean,Ocean Network Express,2600.0,2949.87,2804.61,15,204.61,-145.26,High Overspend
+542,2026-03-19,LANE-003,Chennai Port,Port of Singapore,Ocean,Cosco,1100.0,1139.3,1113.64,21,13.64,-25.66,Within Tolerance
+543,2026-03-19,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Fedex Express,6500.0,5811.8,6275.65,3,-224.35,463.85,Under Contract
+544,2026-03-19,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Qatar Airways Cargo,4800.0,5271.65,5182.58,1,382.58,-89.07,High Overspend
+545,2026-03-19,LANE-006,Nhava Sheva Hub,Pune Distribution Center,Road,Schneider,850.0,881.14,924.31,2,74.31,43.17,High Overspend
+546,2026-03-19,LANE-007,Chennai Logistics Park,Bangalore Warehouse,Road,Xpo Logistics,950.0,1171.97,1156.01,6,206.01,-15.96,High Overspend
+547,2026-03-20,LANE-001,Mundra Port,Rotterdam Port,Ocean,Msc,2800.0,3123.61,3130.82,28,330.82,7.21,High Overspend
+548,2026-03-20,LANE-002,Cochin Port,Hamburg Port,Ocean,Ocean Network Express,2600.0,2528.8,2434.78,27,-165.22,-94.02,Under Contract
+549,2026-03-20,LANE-003,Chennai Port,Port of Singapore,Ocean,Evergreen,1100.0,1073.0,1039.89,24,-60.11,-33.11,Under Contract
+550,2026-03-20,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Emirates Skycargo,6500.0,6850.23,7080.25,3,580.25,230.02,High Overspend
+551,2026-03-20,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Qatar Airways Cargo,4800.0,5272.67,5544.73,1,744.73,272.06,High Overspend
+552,2026-03-20,LANE-006,Nhava Sheva Hub,Pune Distribution Center,Road,Schneider,850.0,1023.74,1013.43,4,163.43,-10.31,High Overspend
+553,2026-03-20,LANE-007,Chennai Logistics Park,Bangalore Warehouse,Road,Old Dominion,950.0,827.08,887.53,5,-62.47,60.45,Under Contract
+554,2026-03-21,LANE-001,Mundra Port,Rotterdam Port,Ocean,Maersk,2800.0,3326.5,3646.22,24,846.22,319.72,High Overspend
+555,2026-03-21,LANE-002,Cochin Port,Hamburg Port,Ocean,Hapag-Lloyd,2600.0,2551.25,2646.01,22,46.01,94.76,Within Tolerance
+556,2026-03-21,LANE-003,Chennai Port,Port of Singapore,Ocean,Maersk,1100.0,1111.14,1187.58,22,87.58,76.44,High Overspend
+557,2026-03-21,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Fedex Express,6500.0,5619.9,5739.5,3,-760.5,119.6,Under Contract
+558,2026-03-21,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Qatar Airways Cargo,4800.0,4523.72,4463.8,1,-336.2,-59.92,Under Contract
+559,2026-03-21,LANE-006,Nhava Sheva Hub,Pune Distribution Center,Road,Swift Transportation,850.0,864.88,880.0,6,30.0,15.12,Within Tolerance
+560,2026-03-21,LANE-007,Chennai Logistics Park,Bangalore Warehouse,Road,Old Dominion,950.0,914.62,968.84,5,18.84,54.22,Within Tolerance
+561,2026-03-22,LANE-001,Mundra Port,Rotterdam Port,Ocean,Msc,2800.0,3033.08,3110.3,27,310.3,77.22,High Overspend
+562,2026-03-22,LANE-002,Cochin Port,Hamburg Port,Ocean,Ocean Network Express,2600.0,3154.23,3117.43,29,517.43,-36.8,High Overspend
+563,2026-03-22,LANE-003,Chennai Port,Port of Singapore,Ocean,Maersk,1100.0,1321.76,1377.14,32,277.14,55.38,High Overspend
+564,2026-03-22,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Emirates Skycargo,6500.0,6394.97,6655.5,3,155.5,260.53,Within Tolerance
+565,2026-03-22,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Lufthansa Cargo,4800.0,4833.26,4663.58,2,-136.42,-169.68,Under Contract
+566,2026-03-22,LANE-006,Nhava Sheva Hub,Pune Distribution Center,Road,Swift Transportation,850.0,840.06,820.92,4,-29.08,-19.14,Under Contract
+567,2026-03-22,LANE-007,Chennai Logistics Park,Bangalore Warehouse,Road,Xpo Logistics,950.0,919.02,934.16,5,-15.84,15.14,Under Contract
+568,2026-03-23,LANE-001,Mundra Port,Rotterdam Port,Ocean,Cma Cgm,2800.0,2758.45,2892.44,20,92.44,133.99,Within Tolerance
+569,2026-03-23,LANE-002,Cochin Port,Hamburg Port,Ocean,Evergreen,2600.0,3234.7,3524.44,14,924.44,289.74,High Overspend
+570,2026-03-23,LANE-003,Chennai Port,Port of Singapore,Ocean,Maersk,1100.0,1070.05,1164.31,17,64.31,94.26,High Overspend
+571,2026-03-23,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Dhl Aviation,6500.0,8030.14,8538.85,2,2038.85,508.71,High Overspend
+572,2026-03-23,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Atlas Air,4800.0,4712.7,5099.36,2,299.36,386.66,High Overspend
+573,2026-03-23,LANE-006,Nhava Sheva Hub,Pune Distribution Center,Road,Schneider,850.0,1004.67,1108.81,3,258.81,104.14,High Overspend
+574,2026-03-23,LANE-007,Chennai Logistics Park,Bangalore Warehouse,Road,Knight Transportation,950.0,930.47,920.19,2,-29.81,-10.28,Under Contract
+575,2026-03-24,LANE-001,Mundra Port,Rotterdam Port,Ocean,Msc,2800.0,3105.4,3348.65,30,548.65,243.25,High Overspend
+576,2026-03-24,LANE-002,Cochin Port,Hamburg Port,Ocean,Evergreen,2600.0,2250.37,2385.6,26,-214.4,135.23,Under Contract
+577,2026-03-24,LANE-003,Chennai Port,Port of Singapore,Ocean,Cosco,1100.0,1315.76,1308.94,27,208.94,-6.82,High Overspend
+578,2026-03-24,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Emirates Skycargo,6500.0,5721.13,6298.75,1,-201.25,577.62,Under Contract
+579,2026-03-24,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Qatar Airways Cargo,4800.0,4805.7,4621.11,1,-178.89,-184.59,Under Contract
+580,2026-03-24,LANE-006,Nhava Sheva Hub,Pune Distribution Center,Road,Schneider,850.0,745.51,787.16,5,-62.84,41.65,Under Contract
+581,2026-03-24,LANE-007,Chennai Logistics Park,Bangalore Warehouse,Road,Knight Transportation,950.0,1029.85,1011.95,4,61.95,-17.9,High Overspend
+582,2026-03-25,LANE-001,Mundra Port,Rotterdam Port,Ocean,Maersk,2800.0,3242.68,3529.09,21,729.09,286.41,High Overspend
+583,2026-03-25,LANE-002,Cochin Port,Hamburg Port,Ocean,Evergreen,2600.0,2801.57,2746.36,27,146.36,-55.21,High Overspend
+584,2026-03-25,LANE-003,Chennai Port,Port of Singapore,Ocean,Cosco,1100.0,1232.48,1175.08,28,75.08,-57.4,High Overspend
+585,2026-03-25,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Emirates Skycargo,6500.0,6720.34,6439.62,3,-60.38,-280.72,Under Contract
+586,2026-03-25,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Lufthansa Cargo,4800.0,4212.35,4564.83,3,-235.17,352.48,Under Contract
+587,2026-03-25,LANE-006,Nhava Sheva Hub,Pune Distribution Center,Road,Jb Hunt,850.0,902.68,1008.35,2,158.35,105.67,High Overspend
+588,2026-03-25,LANE-007,Chennai Logistics Park,Bangalore Warehouse,Road,Old Dominion,950.0,958.63,1018.04,4,68.04,59.41,High Overspend
+589,2026-03-26,LANE-001,Mundra Port,Rotterdam Port,Ocean,Maersk,2800.0,2877.59,3061.1,15,261.1,183.51,High Overspend
+590,2026-03-26,LANE-002,Cochin Port,Hamburg Port,Ocean,Ocean Network Express,2600.0,2800.67,2773.13,28,173.13,-27.54,High Overspend
+591,2026-03-26,LANE-003,Chennai Port,Port of Singapore,Ocean,Evergreen,1100.0,1055.55,1045.14,20,-54.86,-10.41,Under Contract
+592,2026-03-26,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Emirates Skycargo,6500.0,6338.19,6732.66,1,232.66,394.47,Within Tolerance
+593,2026-03-26,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Lufthansa Cargo,4800.0,5289.5,5786.31,3,986.31,496.81,High Overspend
+594,2026-03-26,LANE-006,Nhava Sheva Hub,Pune Distribution Center,Road,Schneider,850.0,915.52,959.67,5,109.67,44.15,High Overspend
+595,2026-03-26,LANE-007,Chennai Logistics Park,Bangalore Warehouse,Road,Knight Transportation,950.0,1016.01,983.98,4,33.98,-32.03,Within Tolerance
+596,2026-03-27,LANE-001,Mundra Port,Rotterdam Port,Ocean,Msc,2800.0,2806.99,2827.3,15,27.3,20.31,Within Tolerance
+597,2026-03-27,LANE-002,Cochin Port,Hamburg Port,Ocean,Evergreen,2600.0,3230.1,3288.69,27,688.69,58.59,High Overspend
+598,2026-03-27,LANE-003,Chennai Port,Port of Singapore,Ocean,Maersk,1100.0,1045.88,1064.95,28,-35.05,19.07,Under Contract
+599,2026-03-27,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Emirates Skycargo,6500.0,6527.27,6491.14,2,-8.86,-36.13,Under Contract
+600,2026-03-27,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Atlas Air,4800.0,5042.5,5500.16,2,700.16,457.66,High Overspend
+601,2026-03-27,LANE-006,Nhava Sheva Hub,Pune Distribution Center,Road,Jb Hunt,850.0,920.96,881.59,3,31.59,-39.37,Within Tolerance
+602,2026-03-27,LANE-007,Chennai Logistics Park,Bangalore Warehouse,Road,Old Dominion,950.0,971.64,1032.63,4,82.63,60.99,High Overspend
+603,2026-03-28,LANE-001,Mundra Port,Rotterdam Port,Ocean,Cma Cgm,2800.0,2617.12,2767.35,26,-32.65,150.23,Under Contract
+604,2026-03-28,LANE-002,Cochin Port,Hamburg Port,Ocean,Evergreen,2600.0,2551.07,2605.72,31,5.72,54.65,Within Tolerance
+605,2026-03-28,LANE-003,Chennai Port,Port of Singapore,Ocean,Evergreen,1100.0,1100.12,1160.42,25,60.42,60.3,High Overspend
+606,2026-03-28,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Fedex Express,6500.0,7078.56,7091.65,1,591.65,13.09,High Overspend
+607,2026-03-28,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Atlas Air,4800.0,5010.52,5590.68,2,790.68,580.16,High Overspend
+608,2026-03-28,LANE-006,Nhava Sheva Hub,Pune Distribution Center,Road,Jb Hunt,850.0,752.57,716.7,5,-133.3,-35.87,Under Contract
+609,2026-03-28,LANE-007,Chennai Logistics Park,Bangalore Warehouse,Road,Old Dominion,950.0,1157.99,1180.92,3,230.92,22.93,High Overspend
+610,2026-03-29,LANE-001,Mundra Port,Rotterdam Port,Ocean,Cma Cgm,2800.0,2473.1,2598.73,26,-201.27,125.63,Under Contract
+611,2026-03-29,LANE-002,Cochin Port,Hamburg Port,Ocean,Hapag-Lloyd,2600.0,2787.68,2776.12,32,176.12,-11.56,High Overspend
+612,2026-03-29,LANE-003,Chennai Port,Port of Singapore,Ocean,Maersk,1100.0,1090.96,1079.84,28,-20.16,-11.12,Under Contract
+613,2026-03-29,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Emirates Skycargo,6500.0,7013.18,7181.05,3,681.05,167.87,High Overspend
+614,2026-03-29,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Qatar Airways Cargo,4800.0,4772.75,5297.59,2,497.59,524.84,High Overspend
+615,2026-03-29,LANE-006,Nhava Sheva Hub,Pune Distribution Center,Road,Jb Hunt,850.0,1008.98,1061.92,5,211.92,52.94,High Overspend
+616,2026-03-29,LANE-007,Chennai Logistics Park,Bangalore Warehouse,Road,Xpo Logistics,950.0,814.01,807.31,5,-142.69,-6.7,Under Contract
+617,2026-03-30,LANE-001,Mundra Port,Rotterdam Port,Ocean,Maersk,2800.0,3088.23,3407.6,31,607.6,319.37,High Overspend
+618,2026-03-30,LANE-002,Cochin Port,Hamburg Port,Ocean,Evergreen,2600.0,2936.64,3155.63,16,555.63,218.99,High Overspend
+619,2026-03-30,LANE-003,Chennai Port,Port of Singapore,Ocean,Evergreen,1100.0,1252.43,1211.34,32,111.34,-41.09,High Overspend
+620,2026-03-30,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Fedex Express,6500.0,5982.41,6648.06,2,148.06,665.65,Within Tolerance
+621,2026-03-30,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Qatar Airways Cargo,4800.0,5234.21,5005.01,3,205.01,-229.2,Within Tolerance
+622,2026-03-30,LANE-006,Nhava Sheva Hub,Pune Distribution Center,Road,Swift Transportation,850.0,895.23,937.45,6,87.45,42.22,High Overspend
+623,2026-03-30,LANE-007,Chennai Logistics Park,Bangalore Warehouse,Road,Old Dominion,950.0,1014.52,1071.89,2,121.89,57.37,High Overspend
+624,2026-03-31,LANE-001,Mundra Port,Rotterdam Port,Ocean,Maersk,2800.0,2508.64,2441.87,29,-358.13,-66.77,Under Contract
+625,2026-03-31,LANE-002,Cochin Port,Hamburg Port,Ocean,Hapag-Lloyd,2600.0,2813.13,3080.1,23,480.1,266.97,High Overspend
+626,2026-03-31,LANE-003,Chennai Port,Port of Singapore,Ocean,Maersk,1100.0,1171.97,1252.89,30,152.89,80.92,High Overspend
+627,2026-03-31,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Dhl Aviation,6500.0,6773.06,6918.06,2,418.06,145.0,High Overspend
+628,2026-03-31,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Lufthansa Cargo,4800.0,5194.65,5501.33,3,701.33,306.68,High Overspend
+629,2026-03-31,LANE-006,Nhava Sheva Hub,Pune Distribution Center,Road,Swift Transportation,850.0,893.23,866.34,3,16.34,-26.89,Within Tolerance
+630,2026-03-31,LANE-007,Chennai Logistics Park,Bangalore Warehouse,Road,Knight Transportation,950.0,1158.06,1139.57,3,189.57,-18.49,High Overspend
+631,2026-04-01,LANE-001,Mundra Port,Rotterdam Port,Ocean,Msc,2800.0,2592.92,2793.62,18,-6.38,200.7,Under Contract
+632,2026-04-01,LANE-002,Cochin Port,Hamburg Port,Ocean,Hapag-Lloyd,2600.0,2406.0,2669.55,32,69.55,263.55,Within Tolerance
+633,2026-04-01,LANE-003,Chennai Port,Port of Singapore,Ocean,Evergreen,1100.0,1112.37,1143.77,31,43.77,31.4,Within Tolerance
+634,2026-04-01,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Fedex Express,6500.0,6581.69,7331.77,2,831.77,750.08,High Overspend
+635,2026-04-01,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Lufthansa Cargo,4800.0,5081.66,5510.02,2,710.02,428.36,High Overspend
+636,2026-04-01,LANE-006,Nhava Sheva Hub,Pune Distribution Center,Road,Jb Hunt,850.0,997.31,970.03,5,120.03,-27.28,High Overspend
+637,2026-04-01,LANE-007,Chennai Logistics Park,Bangalore Warehouse,Road,Xpo Logistics,950.0,1073.0,1035.21,5,85.21,-37.79,High Overspend
+638,2026-04-02,LANE-001,Mundra Port,Rotterdam Port,Ocean,Maersk,2800.0,3088.38,3231.46,30,431.46,143.08,High Overspend
+639,2026-04-02,LANE-002,Cochin Port,Hamburg Port,Ocean,Ocean Network Express,2600.0,2372.09,2415.33,22,-184.67,43.24,Under Contract
+640,2026-04-02,LANE-003,Chennai Port,Port of Singapore,Ocean,Cosco,1100.0,1003.13,969.61,22,-130.39,-33.52,Under Contract
+641,2026-04-02,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Dhl Aviation,6500.0,7500.2,8188.44,2,1688.44,688.24,High Overspend
+642,2026-04-02,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Atlas Air,4800.0,4166.62,4662.63,1,-137.37,496.01,Under Contract
+643,2026-04-02,LANE-006,Nhava Sheva Hub,Pune Distribution Center,Road,Schneider,850.0,814.4,844.84,6,-5.16,30.44,Under Contract
+644,2026-04-02,LANE-007,Chennai Logistics Park,Bangalore Warehouse,Road,Xpo Logistics,950.0,916.61,992.59,2,42.59,75.98,Within Tolerance
+645,2026-04-03,LANE-001,Mundra Port,Rotterdam Port,Ocean,Maersk,2800.0,2809.3,3134.27,21,334.27,324.97,High Overspend
+646,2026-04-03,LANE-002,Cochin Port,Hamburg Port,Ocean,Evergreen,2600.0,3026.2,3057.61,18,457.61,31.41,High Overspend
+647,2026-04-03,LANE-003,Chennai Port,Port of Singapore,Ocean,Maersk,1100.0,935.11,965.49,15,-134.51,30.38,Under Contract
+648,2026-04-03,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Fedex Express,6500.0,7164.09,7066.86,1,566.86,-97.23,High Overspend
+649,2026-04-03,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Atlas Air,4800.0,4672.6,4757.2,1,-42.8,84.6,Under Contract
+650,2026-04-03,LANE-006,Nhava Sheva Hub,Pune Distribution Center,Road,Schneider,850.0,852.51,953.36,3,103.36,100.85,High Overspend
+651,2026-04-03,LANE-007,Chennai Logistics Park,Bangalore Warehouse,Road,Xpo Logistics,950.0,1146.62,1106.3,5,156.3,-40.32,High Overspend
+652,2026-04-04,LANE-001,Mundra Port,Rotterdam Port,Ocean,Cma Cgm,2800.0,3121.31,3082.02,29,282.02,-39.29,High Overspend
+653,2026-04-04,LANE-002,Cochin Port,Hamburg Port,Ocean,Ocean Network Express,2600.0,2362.92,2425.6,27,-174.4,62.68,Under Contract
+654,2026-04-04,LANE-003,Chennai Port,Port of Singapore,Ocean,Cosco,1100.0,1305.15,1382.44,23,282.44,77.29,High Overspend
+655,2026-04-04,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Dhl Aviation,6500.0,7184.43,7468.99,1,968.99,284.56,High Overspend
+656,2026-04-04,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Lufthansa Cargo,4800.0,5838.53,5781.98,1,981.98,-56.55,High Overspend
+657,2026-04-04,LANE-006,Nhava Sheva Hub,Pune Distribution Center,Road,Jb Hunt,850.0,947.42,1041.79,2,191.79,94.37,High Overspend
+658,2026-04-04,LANE-007,Chennai Logistics Park,Bangalore Warehouse,Road,Xpo Logistics,950.0,1039.58,1099.55,3,149.55,59.97,High Overspend
+659,2026-04-05,LANE-001,Mundra Port,Rotterdam Port,Ocean,Cma Cgm,2800.0,2699.71,2703.6,16,-96.4,3.89,Under Contract
+660,2026-04-05,LANE-002,Cochin Port,Hamburg Port,Ocean,Hapag-Lloyd,2600.0,2940.61,3254.69,29,654.69,314.08,High Overspend
+661,2026-04-05,LANE-003,Chennai Port,Port of Singapore,Ocean,Maersk,1100.0,940.5,939.77,27,-160.23,-0.73,Under Contract
+662,2026-04-05,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Emirates Skycargo,6500.0,7024.2,7571.16,1,1071.16,546.96,High Overspend
+663,2026-04-05,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Qatar Airways Cargo,4800.0,5445.7,5871.94,1,1071.94,426.24,High Overspend
+664,2026-04-05,LANE-006,Nhava Sheva Hub,Pune Distribution Center,Road,Swift Transportation,850.0,849.45,832.07,3,-17.93,-17.38,Under Contract
+665,2026-04-05,LANE-007,Chennai Logistics Park,Bangalore Warehouse,Road,Knight Transportation,950.0,1098.61,1166.99,4,216.99,68.38,High Overspend
+666,2026-04-06,LANE-001,Mundra Port,Rotterdam Port,Ocean,Cma Cgm,2800.0,2976.53,2958.23,19,158.23,-18.3,High Overspend
+667,2026-04-06,LANE-002,Cochin Port,Hamburg Port,Ocean,Evergreen,2600.0,2268.39,2271.22,18,-328.78,2.83,Under Contract
+668,2026-04-06,LANE-003,Chennai Port,Port of Singapore,Ocean,Maersk,1100.0,945.05,938.33,19,-161.67,-6.72,Under Contract
+669,2026-04-06,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Emirates Skycargo,6500.0,6424.4,7144.54,3,644.54,720.14,High Overspend
+670,2026-04-06,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Atlas Air,4800.0,4093.37,3941.44,1,-858.56,-151.93,Under Contract
+671,2026-04-06,LANE-006,Nhava Sheva Hub,Pune Distribution Center,Road,Swift Transportation,850.0,1036.0,1123.97,3,273.97,87.97,High Overspend
+672,2026-04-06,LANE-007,Chennai Logistics Park,Bangalore Warehouse,Road,Old Dominion,950.0,1148.67,1123.82,6,173.82,-24.85,High Overspend
+673,2026-04-07,LANE-001,Mundra Port,Rotterdam Port,Ocean,Cma Cgm,2800.0,3181.11,3487.33,14,687.33,306.22,High Overspend
+674,2026-04-07,LANE-002,Cochin Port,Hamburg Port,Ocean,Evergreen,2600.0,2723.33,2854.81,31,254.81,131.48,High Overspend
+675,2026-04-07,LANE-003,Chennai Port,Port of Singapore,Ocean,Cosco,1100.0,1079.97,1039.53,17,-60.47,-40.44,Under Contract
+676,2026-04-07,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Dhl Aviation,6500.0,7123.16,7888.9,1,1388.9,765.74,High Overspend
+677,2026-04-07,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Lufthansa Cargo,4800.0,5131.69,5404.54,1,604.54,272.85,High Overspend
+678,2026-04-07,LANE-006,Nhava Sheva Hub,Pune Distribution Center,Road,Swift Transportation,850.0,816.09,849.18,3,-0.82,33.09,Under Contract
+679,2026-04-07,LANE-007,Chennai Logistics Park,Bangalore Warehouse,Road,Knight Transportation,950.0,1007.92,1021.46,6,71.46,13.54,High Overspend
+680,2026-04-08,LANE-001,Mundra Port,Rotterdam Port,Ocean,Msc,2800.0,2560.88,2848.63,21,48.63,287.75,Within Tolerance
+681,2026-04-08,LANE-002,Cochin Port,Hamburg Port,Ocean,Hapag-Lloyd,2600.0,2871.24,2752.65,14,152.65,-118.59,High Overspend
+682,2026-04-08,LANE-003,Chennai Port,Port of Singapore,Ocean,Maersk,1100.0,1158.65,1200.8,19,100.8,42.15,High Overspend
+683,2026-04-08,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Fedex Express,6500.0,6501.72,6513.51,2,13.51,11.79,Within Tolerance
+684,2026-04-08,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Atlas Air,4800.0,5396.35,5797.31,2,997.31,400.96,High Overspend
+685,2026-04-08,LANE-006,Nhava Sheva Hub,Pune Distribution Center,Road,Schneider,850.0,929.29,970.76,6,120.76,41.47,High Overspend
+686,2026-04-08,LANE-007,Chennai Logistics Park,Bangalore Warehouse,Road,Xpo Logistics,950.0,872.64,960.91,3,10.91,88.27,Within Tolerance
+687,2026-04-09,LANE-001,Mundra Port,Rotterdam Port,Ocean,Msc,2800.0,2576.42,2493.21,27,-306.79,-83.21,Under Contract
+688,2026-04-09,LANE-002,Cochin Port,Hamburg Port,Ocean,Hapag-Lloyd,2600.0,2684.1,2764.12,21,164.12,80.02,High Overspend
+689,2026-04-09,LANE-003,Chennai Port,Port of Singapore,Ocean,Maersk,1100.0,1124.83,1138.28,29,38.28,13.45,Within Tolerance
+690,2026-04-09,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Dhl Aviation,6500.0,6889.59,6581.75,3,81.75,-307.84,Within Tolerance
+691,2026-04-09,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Lufthansa Cargo,4800.0,4231.11,4709.98,3,-90.02,478.87,Under Contract
+692,2026-04-09,LANE-006,Nhava Sheva Hub,Pune Distribution Center,Road,Schneider,850.0,902.19,901.57,4,51.57,-0.62,High Overspend
+693,2026-04-09,LANE-007,Chennai Logistics Park,Bangalore Warehouse,Road,Xpo Logistics,950.0,944.55,1045.37,6,95.37,100.82,High Overspend
+694,2026-04-10,LANE-001,Mundra Port,Rotterdam Port,Ocean,Cma Cgm,2800.0,3388.94,3602.68,28,802.68,213.74,High Overspend
+695,2026-04-10,LANE-002,Cochin Port,Hamburg Port,Ocean,Hapag-Lloyd,2600.0,3076.76,3322.68,17,722.68,245.92,High Overspend
+696,2026-04-10,LANE-003,Chennai Port,Port of Singapore,Ocean,Maersk,1100.0,1151.97,1135.69,14,35.69,-16.28,Within Tolerance
+697,2026-04-10,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Dhl Aviation,6500.0,7212.17,7540.04,1,1040.04,327.87,High Overspend
+698,2026-04-10,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Qatar Airways Cargo,4800.0,5395.5,6004.53,1,1204.53,609.03,High Overspend
+699,2026-04-10,LANE-006,Nhava Sheva Hub,Pune Distribution Center,Road,Jb Hunt,850.0,787.4,824.25,2,-25.75,36.85,Under Contract
+700,2026-04-10,LANE-007,Chennai Logistics Park,Bangalore Warehouse,Road,Xpo Logistics,950.0,889.31,966.92,5,16.92,77.61,Within Tolerance
+701,2026-04-11,LANE-001,Mundra Port,Rotterdam Port,Ocean,Msc,2800.0,2688.51,2945.13,29,145.13,256.62,High Overspend
+702,2026-04-11,LANE-002,Cochin Port,Hamburg Port,Ocean,Hapag-Lloyd,2600.0,2540.27,2799.0,31,199.0,258.73,High Overspend
+703,2026-04-11,LANE-003,Chennai Port,Port of Singapore,Ocean,Cosco,1100.0,1002.07,1019.98,21,-80.02,17.91,Under Contract
+704,2026-04-11,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Fedex Express,6500.0,7029.64,7039.63,1,539.63,9.99,High Overspend
+705,2026-04-11,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Lufthansa Cargo,4800.0,4526.75,4464.02,3,-335.98,-62.73,Under Contract
+706,2026-04-11,LANE-006,Nhava Sheva Hub,Pune Distribution Center,Road,Swift Transportation,850.0,873.73,975.93,3,125.93,102.2,High Overspend
+707,2026-04-11,LANE-007,Chennai Logistics Park,Bangalore Warehouse,Road,Old Dominion,950.0,935.78,947.58,3,-2.42,11.8,Under Contract
+708,2026-04-12,LANE-001,Mundra Port,Rotterdam Port,Ocean,Cma Cgm,2800.0,3319.94,3389.14,28,589.14,69.2,High Overspend
+709,2026-04-12,LANE-002,Cochin Port,Hamburg Port,Ocean,Hapag-Lloyd,2600.0,2502.68,2669.84,29,69.84,167.16,Within Tolerance
+710,2026-04-12,LANE-003,Chennai Port,Port of Singapore,Ocean,Maersk,1100.0,1093.83,1158.06,30,58.06,64.23,High Overspend
+711,2026-04-12,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Emirates Skycargo,6500.0,7212.66,7994.99,2,1494.99,782.33,High Overspend
+712,2026-04-12,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Qatar Airways Cargo,4800.0,4600.32,4787.52,1,-12.48,187.2,Under Contract
+713,2026-04-12,LANE-006,Nhava Sheva Hub,Pune Distribution Center,Road,Jb Hunt,850.0,874.47,871.14,3,21.14,-3.33,Within Tolerance
+714,2026-04-12,LANE-007,Chennai Logistics Park,Bangalore Warehouse,Road,Old Dominion,950.0,886.43,910.25,2,-39.75,23.82,Under Contract
+715,2026-04-13,LANE-001,Mundra Port,Rotterdam Port,Ocean,Maersk,2800.0,2630.49,2704.62,24,-95.38,74.13,Under Contract
+716,2026-04-13,LANE-002,Cochin Port,Hamburg Port,Ocean,Hapag-Lloyd,2600.0,2275.16,2300.74,15,-299.26,25.58,Under Contract
+717,2026-04-13,LANE-003,Chennai Port,Port of Singapore,Ocean,Evergreen,1100.0,1047.2,1128.51,18,28.51,81.31,Within Tolerance
+718,2026-04-13,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Emirates Skycargo,6500.0,7990.21,8119.26,2,1619.26,129.05,High Overspend
+719,2026-04-13,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Qatar Airways Cargo,4800.0,4823.9,5204.86,2,404.86,380.96,High Overspend
+720,2026-04-13,LANE-006,Nhava Sheva Hub,Pune Distribution Center,Road,Schneider,850.0,926.0,898.26,4,48.26,-27.74,High Overspend
+721,2026-04-13,LANE-007,Chennai Logistics Park,Bangalore Warehouse,Road,Xpo Logistics,950.0,952.67,1011.67,2,61.67,59.0,High Overspend
+722,2026-04-14,LANE-001,Mundra Port,Rotterdam Port,Ocean,Cma Cgm,2800.0,2634.17,2617.18,14,-182.82,-16.99,Under Contract
+723,2026-04-14,LANE-002,Cochin Port,Hamburg Port,Ocean,Ocean Network Express,2600.0,2910.43,3033.31,31,433.31,122.88,High Overspend
+724,2026-04-14,LANE-003,Chennai Port,Port of Singapore,Ocean,Evergreen,1100.0,1152.96,1212.96,21,112.96,60.0,High Overspend
+725,2026-04-14,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Emirates Skycargo,6500.0,6004.13,6399.4,2,-100.6,395.27,Under Contract
+726,2026-04-14,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Qatar Airways Cargo,4800.0,5010.47,5529.01,1,729.01,518.54,High Overspend
+727,2026-04-14,LANE-006,Nhava Sheva Hub,Pune Distribution Center,Road,Swift Transportation,850.0,727.9,710.62,6,-139.38,-17.28,Under Contract
+728,2026-04-14,LANE-007,Chennai Logistics Park,Bangalore Warehouse,Road,Knight Transportation,950.0,859.35,835.52,3,-114.48,-23.83,Under Contract
+729,2026-04-15,LANE-001,Mundra Port,Rotterdam Port,Ocean,Maersk,2800.0,2853.85,3189.89,16,389.89,336.04,High Overspend
+730,2026-04-15,LANE-002,Cochin Port,Hamburg Port,Ocean,Evergreen,2600.0,2363.57,2590.18,27,-9.82,226.61,Under Contract
+731,2026-04-15,LANE-003,Chennai Port,Port of Singapore,Ocean,Evergreen,1100.0,946.11,932.91,29,-167.09,-13.2,Under Contract
+732,2026-04-15,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Fedex Express,6500.0,5895.77,6218.83,3,-281.17,323.06,Under Contract
+733,2026-04-15,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Lufthansa Cargo,4800.0,5429.49,5573.31,2,773.31,143.82,High Overspend
+734,2026-04-15,LANE-006,Nhava Sheva Hub,Pune Distribution Center,Road,Jb Hunt,850.0,945.73,988.55,3,138.55,42.82,High Overspend
+735,2026-04-15,LANE-007,Chennai Logistics Park,Bangalore Warehouse,Road,Knight Transportation,950.0,964.87,1047.75,4,97.75,82.88,High Overspend
+736,2026-04-16,LANE-001,Mundra Port,Rotterdam Port,Ocean,Cma Cgm,2800.0,2469.92,2406.85,16,-393.15,-63.07,Under Contract
+737,2026-04-16,LANE-002,Cochin Port,Hamburg Port,Ocean,Evergreen,2600.0,2568.11,2552.49,29,-47.51,-15.62,Under Contract
+738,2026-04-16,LANE-003,Chennai Port,Port of Singapore,Ocean,Cosco,1100.0,1034.87,1036.95,19,-63.05,2.08,Under Contract
+739,2026-04-16,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Dhl Aviation,6500.0,7553.52,8375.62,1,1875.62,822.1,High Overspend
+740,2026-04-16,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Lufthansa Cargo,4800.0,5470.94,5780.13,1,980.13,309.19,High Overspend
+741,2026-04-16,LANE-006,Nhava Sheva Hub,Pune Distribution Center,Road,Schneider,850.0,898.02,893.29,3,43.29,-4.73,High Overspend
+742,2026-04-16,LANE-007,Chennai Logistics Park,Bangalore Warehouse,Road,Xpo Logistics,950.0,831.85,841.94,2,-108.06,10.09,Under Contract
+743,2026-04-17,LANE-001,Mundra Port,Rotterdam Port,Ocean,Msc,2800.0,2559.14,2671.19,31,-128.81,112.05,Under Contract
+744,2026-04-17,LANE-002,Cochin Port,Hamburg Port,Ocean,Hapag-Lloyd,2600.0,3134.54,3035.17,27,435.17,-99.37,High Overspend
+745,2026-04-17,LANE-003,Chennai Port,Port of Singapore,Ocean,Evergreen,1100.0,977.43,1017.43,31,-82.57,40.0,Under Contract
+746,2026-04-17,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Dhl Aviation,6500.0,7876.23,7607.0,3,1107.0,-269.23,High Overspend
+747,2026-04-17,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Qatar Airways Cargo,4800.0,4556.01,4541.76,1,-258.24,-14.25,Under Contract
+748,2026-04-17,LANE-006,Nhava Sheva Hub,Pune Distribution Center,Road,Schneider,850.0,866.29,838.02,4,-11.98,-28.27,Under Contract
+749,2026-04-17,LANE-007,Chennai Logistics Park,Bangalore Warehouse,Road,Xpo Logistics,950.0,1180.37,1129.43,3,179.43,-50.94,High Overspend
+750,2026-04-18,LANE-001,Mundra Port,Rotterdam Port,Ocean,Msc,2800.0,2690.36,2611.04,24,-188.96,-79.32,Under Contract
+751,2026-04-18,LANE-002,Cochin Port,Hamburg Port,Ocean,Evergreen,2600.0,3104.74,3346.41,30,746.41,241.67,High Overspend
+752,2026-04-18,LANE-003,Chennai Port,Port of Singapore,Ocean,Evergreen,1100.0,1187.23,1242.43,27,142.43,55.2,High Overspend
+753,2026-04-18,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Dhl Aviation,6500.0,6497.11,7217.97,2,717.97,720.86,High Overspend
+754,2026-04-18,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Lufthansa Cargo,4800.0,4794.41,4776.9,3,-23.1,-17.51,Under Contract
+755,2026-04-18,LANE-006,Nhava Sheva Hub,Pune Distribution Center,Road,Jb Hunt,850.0,792.94,875.65,3,25.65,82.71,Within Tolerance
+756,2026-04-18,LANE-007,Chennai Logistics Park,Bangalore Warehouse,Road,Old Dominion,950.0,1037.0,1008.33,4,58.33,-28.67,High Overspend
+757,2026-04-19,LANE-001,Mundra Port,Rotterdam Port,Ocean,Maersk,2800.0,3055.01,3257.53,19,457.53,202.52,High Overspend
+758,2026-04-19,LANE-002,Cochin Port,Hamburg Port,Ocean,Ocean Network Express,2600.0,2924.96,3248.08,15,648.08,323.12,High Overspend
+759,2026-04-19,LANE-003,Chennai Port,Port of Singapore,Ocean,Maersk,1100.0,1267.0,1239.28,32,139.28,-27.72,High Overspend
+760,2026-04-19,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Emirates Skycargo,6500.0,6265.4,6712.23,3,212.23,446.83,Within Tolerance
+761,2026-04-19,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Lufthansa Cargo,4800.0,5998.17,6476.0,3,1676.0,477.83,High Overspend
+762,2026-04-19,LANE-006,Nhava Sheva Hub,Pune Distribution Center,Road,Jb Hunt,850.0,833.5,885.52,2,35.52,52.02,Within Tolerance
+763,2026-04-19,LANE-007,Chennai Logistics Park,Bangalore Warehouse,Road,Old Dominion,950.0,932.8,976.98,5,26.98,44.18,Within Tolerance
+764,2026-04-20,LANE-001,Mundra Port,Rotterdam Port,Ocean,Maersk,2800.0,3035.19,3200.05,19,400.05,164.86,High Overspend
+765,2026-04-20,LANE-002,Cochin Port,Hamburg Port,Ocean,Ocean Network Express,2600.0,3001.6,2882.84,19,282.84,-118.76,High Overspend
+766,2026-04-20,LANE-003,Chennai Port,Port of Singapore,Ocean,Evergreen,1100.0,1026.61,1024.08,17,-75.92,-2.53,Under Contract
+767,2026-04-20,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Fedex Express,6500.0,5888.53,6367.35,3,-132.65,478.82,Under Contract
+768,2026-04-20,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Qatar Airways Cargo,4800.0,4535.67,4794.21,1,-5.79,258.54,Under Contract
+769,2026-04-20,LANE-006,Nhava Sheva Hub,Pune Distribution Center,Road,Schneider,850.0,757.25,835.54,4,-14.46,78.29,Under Contract
+770,2026-04-20,LANE-007,Chennai Logistics Park,Bangalore Warehouse,Road,Old Dominion,950.0,871.61,829.95,2,-120.05,-41.66,Under Contract
+771,2026-04-21,LANE-001,Mundra Port,Rotterdam Port,Ocean,Msc,2800.0,2773.35,2829.93,19,29.93,56.58,Within Tolerance
+772,2026-04-21,LANE-002,Cochin Port,Hamburg Port,Ocean,Evergreen,2600.0,3178.58,3447.92,29,847.92,269.34,High Overspend
+773,2026-04-21,LANE-003,Chennai Port,Port of Singapore,Ocean,Cosco,1100.0,1333.2,1328.09,22,228.09,-5.11,High Overspend
+774,2026-04-21,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Emirates Skycargo,6500.0,7809.0,8068.44,3,1568.44,259.44,High Overspend
+775,2026-04-21,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Lufthansa Cargo,4800.0,5289.87,5158.98,2,358.98,-130.89,High Overspend
+776,2026-04-21,LANE-006,Nhava Sheva Hub,Pune Distribution Center,Road,Swift Transportation,850.0,982.89,1093.73,4,243.73,110.84,High Overspend
+777,2026-04-21,LANE-007,Chennai Logistics Park,Bangalore Warehouse,Road,Knight Transportation,950.0,964.3,932.6,4,-17.4,-31.7,Under Contract
+778,2026-04-22,LANE-001,Mundra Port,Rotterdam Port,Ocean,Maersk,2800.0,2483.35,2591.81,24,-208.19,108.46,Under Contract
+779,2026-04-22,LANE-002,Cochin Port,Hamburg Port,Ocean,Ocean Network Express,2600.0,2711.26,2638.64,17,38.64,-72.62,Within Tolerance
+780,2026-04-22,LANE-003,Chennai Port,Port of Singapore,Ocean,Maersk,1100.0,1198.97,1338.76,19,238.76,139.79,High Overspend
+781,2026-04-22,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Fedex Express,6500.0,6208.45,6922.81,2,422.81,714.36,High Overspend
+782,2026-04-22,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Atlas Air,4800.0,5742.42,6325.25,2,1525.25,582.83,High Overspend
+783,2026-04-22,LANE-006,Nhava Sheva Hub,Pune Distribution Center,Road,Swift Transportation,850.0,903.67,925.41,3,75.41,21.74,High Overspend
+784,2026-04-22,LANE-007,Chennai Logistics Park,Bangalore Warehouse,Road,Xpo Logistics,950.0,840.24,833.08,6,-116.92,-7.16,Under Contract
+785,2026-04-23,LANE-001,Mundra Port,Rotterdam Port,Ocean,Cma Cgm,2800.0,2549.36,2748.71,23,-51.29,199.35,Under Contract
+786,2026-04-23,LANE-002,Cochin Port,Hamburg Port,Ocean,Ocean Network Express,2600.0,2715.59,2920.15,23,320.15,204.56,High Overspend
+787,2026-04-23,LANE-003,Chennai Port,Port of Singapore,Ocean,Cosco,1100.0,1247.15,1394.92,19,294.92,147.77,High Overspend
+788,2026-04-23,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Fedex Express,6500.0,6227.96,6901.58,1,401.58,673.62,High Overspend
+789,2026-04-23,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Lufthansa Cargo,4800.0,5542.92,6170.94,2,1370.94,628.02,High Overspend
+790,2026-04-23,LANE-006,Nhava Sheva Hub,Pune Distribution Center,Road,Swift Transportation,850.0,806.84,878.63,4,28.63,71.79,Within Tolerance
+791,2026-04-23,LANE-007,Chennai Logistics Park,Bangalore Warehouse,Road,Knight Transportation,950.0,966.42,941.51,5,-8.49,-24.91,Under Contract
+792,2026-04-24,LANE-001,Mundra Port,Rotterdam Port,Ocean,Maersk,2800.0,2935.48,2847.94,15,47.94,-87.54,Within Tolerance
+793,2026-04-24,LANE-002,Cochin Port,Hamburg Port,Ocean,Ocean Network Express,2600.0,2489.31,2372.83,30,-227.17,-116.48,Under Contract
+794,2026-04-24,LANE-003,Chennai Port,Port of Singapore,Ocean,Cosco,1100.0,1171.66,1161.54,18,61.54,-10.12,High Overspend
+795,2026-04-24,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Fedex Express,6500.0,6676.03,6873.54,3,373.54,197.51,High Overspend
+796,2026-04-24,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Lufthansa Cargo,4800.0,4222.01,4378.75,1,-421.25,156.74,Under Contract
+797,2026-04-24,LANE-006,Nhava Sheva Hub,Pune Distribution Center,Road,Jb Hunt,850.0,856.46,851.66,2,1.66,-4.8,Within Tolerance
+798,2026-04-24,LANE-007,Chennai Logistics Park,Bangalore Warehouse,Road,Knight Transportation,950.0,907.0,981.08,6,31.08,74.08,Within Tolerance
+799,2026-04-25,LANE-001,Mundra Port,Rotterdam Port,Ocean,Msc,2800.0,2937.44,2880.23,25,80.23,-57.21,Within Tolerance
+800,2026-04-25,LANE-002,Cochin Port,Hamburg Port,Ocean,Ocean Network Express,2600.0,2377.61,2578.86,15,-21.14,201.25,Under Contract
+801,2026-04-25,LANE-003,Chennai Port,Port of Singapore,Ocean,Evergreen,1100.0,1081.63,1110.52,24,10.52,28.89,Within Tolerance
+802,2026-04-25,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Dhl Aviation,6500.0,7156.22,7500.94,2,1000.94,344.72,High Overspend
+803,2026-04-25,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Lufthansa Cargo,4800.0,4603.72,4888.99,1,88.99,285.27,Within Tolerance
+804,2026-04-25,LANE-006,Nhava Sheva Hub,Pune Distribution Center,Road,Swift Transportation,850.0,867.76,966.9,5,116.9,99.14,High Overspend
+805,2026-04-25,LANE-007,Chennai Logistics Park,Bangalore Warehouse,Road,Old Dominion,950.0,946.57,1029.98,4,79.98,83.41,High Overspend
+806,2026-04-26,LANE-001,Mundra Port,Rotterdam Port,Ocean,Maersk,2800.0,3372.49,3302.88,14,502.88,-69.61,High Overspend
+807,2026-04-26,LANE-002,Cochin Port,Hamburg Port,Ocean,Hapag-Lloyd,2600.0,3181.19,3377.32,14,777.32,196.13,High Overspend
+808,2026-04-26,LANE-003,Chennai Port,Port of Singapore,Ocean,Maersk,1100.0,1373.53,1527.0,14,427.0,153.47,High Overspend
+809,2026-04-26,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Fedex Express,6500.0,8108.09,8748.53,2,2248.53,640.44,High Overspend
+810,2026-04-26,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Qatar Airways Cargo,4800.0,5440.84,5995.84,1,1195.84,555.0,High Overspend
+811,2026-04-26,LANE-006,Nhava Sheva Hub,Pune Distribution Center,Road,Swift Transportation,850.0,763.09,805.23,3,-44.77,42.14,Under Contract
+812,2026-04-26,LANE-007,Chennai Logistics Park,Bangalore Warehouse,Road,Old Dominion,950.0,1082.59,1037.36,6,87.36,-45.23,High Overspend
+813,2026-04-27,LANE-001,Mundra Port,Rotterdam Port,Ocean,Msc,2800.0,2706.13,2856.31,18,56.31,150.18,Within Tolerance
+814,2026-04-27,LANE-002,Cochin Port,Hamburg Port,Ocean,Hapag-Lloyd,2600.0,2659.0,2891.32,16,291.32,232.32,High Overspend
+815,2026-04-27,LANE-003,Chennai Port,Port of Singapore,Ocean,Evergreen,1100.0,1190.1,1154.36,16,54.36,-35.74,Within Tolerance
+816,2026-04-27,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Fedex Express,6500.0,7579.74,7443.81,3,943.81,-135.93,High Overspend
+817,2026-04-27,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Qatar Airways Cargo,4800.0,5412.64,5490.22,1,690.22,77.58,High Overspend
+818,2026-04-27,LANE-006,Nhava Sheva Hub,Pune Distribution Center,Road,Schneider,850.0,919.83,916.61,6,66.61,-3.22,High Overspend
+819,2026-04-27,LANE-007,Chennai Logistics Park,Bangalore Warehouse,Road,Knight Transportation,950.0,808.25,903.86,5,-46.14,95.61,Under Contract
+820,2026-04-28,LANE-001,Mundra Port,Rotterdam Port,Ocean,Maersk,2800.0,3345.33,3465.09,16,665.09,119.76,High Overspend
+821,2026-04-28,LANE-002,Cochin Port,Hamburg Port,Ocean,Hapag-Lloyd,2600.0,2885.0,3037.19,23,437.19,152.19,High Overspend
+822,2026-04-28,LANE-003,Chennai Port,Port of Singapore,Ocean,Evergreen,1100.0,1198.11,1221.92,15,121.92,23.81,High Overspend
+823,2026-04-28,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Dhl Aviation,6500.0,7231.18,7526.02,2,1026.02,294.84,High Overspend
+824,2026-04-28,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Lufthansa Cargo,4800.0,5969.97,6081.8,3,1281.8,111.83,High Overspend
+825,2026-04-28,LANE-006,Nhava Sheva Hub,Pune Distribution Center,Road,Swift Transportation,850.0,928.0,898.58,2,48.58,-29.42,High Overspend
+826,2026-04-28,LANE-007,Chennai Logistics Park,Bangalore Warehouse,Road,Knight Transportation,950.0,829.21,869.18,6,-80.82,39.97,Under Contract
+827,2026-04-29,LANE-001,Mundra Port,Rotterdam Port,Ocean,Cma Cgm,2800.0,3341.2,3484.66,22,684.66,143.46,High Overspend
+828,2026-04-29,LANE-002,Cochin Port,Hamburg Port,Ocean,Hapag-Lloyd,2600.0,2881.88,3014.3,27,414.3,132.42,High Overspend
+829,2026-04-29,LANE-003,Chennai Port,Port of Singapore,Ocean,Evergreen,1100.0,1186.56,1326.39,25,226.39,139.83,High Overspend
+830,2026-04-29,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Emirates Skycargo,6500.0,7455.74,7135.01,3,635.01,-320.73,High Overspend
+831,2026-04-29,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Atlas Air,4800.0,4559.14,4579.72,2,-220.28,20.58,Under Contract
+832,2026-04-29,LANE-006,Nhava Sheva Hub,Pune Distribution Center,Road,Swift Transportation,850.0,778.54,789.09,2,-60.91,10.55,Under Contract
+833,2026-04-29,LANE-007,Chennai Logistics Park,Bangalore Warehouse,Road,Xpo Logistics,950.0,1090.85,1098.11,2,148.11,7.26,High Overspend
+834,2026-04-30,LANE-001,Mundra Port,Rotterdam Port,Ocean,Msc,2800.0,3349.92,3736.63,16,936.63,386.71,High Overspend
+835,2026-04-30,LANE-002,Cochin Port,Hamburg Port,Ocean,Ocean Network Express,2600.0,3124.04,3261.58,27,661.58,137.54,High Overspend
+836,2026-04-30,LANE-003,Chennai Port,Port of Singapore,Ocean,Evergreen,1100.0,1296.45,1371.78,32,271.78,75.33,High Overspend
+837,2026-04-30,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Dhl Aviation,6500.0,7362.01,7101.62,1,601.62,-260.39,High Overspend
+838,2026-04-30,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Qatar Airways Cargo,4800.0,4825.61,5384.7,1,584.7,559.09,High Overspend
+839,2026-04-30,LANE-006,Nhava Sheva Hub,Pune Distribution Center,Road,Schneider,850.0,960.09,921.8,6,71.8,-38.29,High Overspend
+840,2026-04-30,LANE-007,Chennai Logistics Park,Bangalore Warehouse,Road,Knight Transportation,950.0,1080.24,1032.13,4,82.13,-48.11,High Overspend
+841,2026-05-01,LANE-001,Mundra Port,Rotterdam Port,Ocean,Msc,2800.0,3207.18,3073.84,28,273.84,-133.34,High Overspend
+842,2026-05-01,LANE-002,Cochin Port,Hamburg Port,Ocean,Ocean Network Express,2600.0,2839.46,2956.8,21,356.8,117.34,High Overspend
+843,2026-05-01,LANE-003,Chennai Port,Port of Singapore,Ocean,Maersk,1100.0,1071.12,1180.56,32,80.56,109.44,High Overspend
+844,2026-05-01,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Emirates Skycargo,6500.0,7889.2,8663.05,3,2163.05,773.85,High Overspend
+845,2026-05-01,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Qatar Airways Cargo,4800.0,5583.3,5624.28,3,824.28,40.98,High Overspend
+846,2026-05-01,LANE-006,Nhava Sheva Hub,Pune Distribution Center,Road,Swift Transportation,850.0,868.09,837.82,6,-12.18,-30.27,Under Contract
+847,2026-05-01,LANE-007,Chennai Logistics Park,Bangalore Warehouse,Road,Knight Transportation,950.0,994.03,1014.22,5,64.22,20.19,High Overspend
+848,2026-05-02,LANE-001,Mundra Port,Rotterdam Port,Ocean,Cma Cgm,2800.0,2780.22,2936.79,30,136.79,156.57,Within Tolerance
+849,2026-05-02,LANE-002,Cochin Port,Hamburg Port,Ocean,Evergreen,2600.0,2780.02,3031.41,16,431.41,251.39,High Overspend
+850,2026-05-02,LANE-003,Chennai Port,Port of Singapore,Ocean,Maersk,1100.0,1293.75,1231.94,14,131.94,-61.81,High Overspend
+851,2026-05-02,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Emirates Skycargo,6500.0,6656.08,6428.46,2,-71.54,-227.62,Under Contract
+852,2026-05-02,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Atlas Air,4800.0,4162.18,4291.6,2,-508.4,129.42,Under Contract
+853,2026-05-02,LANE-006,Nhava Sheva Hub,Pune Distribution Center,Road,Swift Transportation,850.0,1055.76,1124.99,4,274.99,69.23,High Overspend
+854,2026-05-02,LANE-007,Chennai Logistics Park,Bangalore Warehouse,Road,Knight Transportation,950.0,1180.6,1245.6,3,295.6,65.0,High Overspend
+855,2026-05-03,LANE-001,Mundra Port,Rotterdam Port,Ocean,Maersk,2800.0,3147.4,3019.7,22,219.7,-127.7,High Overspend
+856,2026-05-03,LANE-002,Cochin Port,Hamburg Port,Ocean,Evergreen,2600.0,2762.26,2877.43,18,277.43,115.17,High Overspend
+857,2026-05-03,LANE-003,Chennai Port,Port of Singapore,Ocean,Evergreen,1100.0,1362.89,1360.65,28,260.65,-2.24,High Overspend
+858,2026-05-03,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Dhl Aviation,6500.0,7409.28,7526.44,2,1026.44,117.16,High Overspend
+859,2026-05-03,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Atlas Air,4800.0,5378.41,5119.69,2,319.69,-258.72,High Overspend
+860,2026-05-03,LANE-006,Nhava Sheva Hub,Pune Distribution Center,Road,Swift Transportation,850.0,901.48,996.64,3,146.64,95.16,High Overspend
+861,2026-05-03,LANE-007,Chennai Logistics Park,Bangalore Warehouse,Road,Xpo Logistics,950.0,843.67,858.56,3,-91.44,14.89,Under Contract
+862,2026-05-04,LANE-001,Mundra Port,Rotterdam Port,Ocean,Msc,2800.0,3350.85,3323.37,27,523.37,-27.48,High Overspend
+863,2026-05-04,LANE-002,Cochin Port,Hamburg Port,Ocean,Ocean Network Express,2600.0,3206.74,3142.5,27,542.5,-64.24,High Overspend
+864,2026-05-04,LANE-003,Chennai Port,Port of Singapore,Ocean,Evergreen,1100.0,1127.07,1228.19,25,128.19,101.12,High Overspend
+865,2026-05-04,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Fedex Express,6500.0,6168.49,6791.59,1,291.59,623.1,Within Tolerance
+866,2026-05-04,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Atlas Air,4800.0,4344.87,4627.09,3,-172.91,282.22,Under Contract
+867,2026-05-04,LANE-006,Nhava Sheva Hub,Pune Distribution Center,Road,Swift Transportation,850.0,881.15,851.63,6,1.63,-29.52,Within Tolerance
+868,2026-05-04,LANE-007,Chennai Logistics Park,Bangalore Warehouse,Road,Xpo Logistics,950.0,1048.09,1120.6,6,170.6,72.51,High Overspend
+869,2026-05-05,LANE-001,Mundra Port,Rotterdam Port,Ocean,Cma Cgm,2800.0,2765.5,2638.66,15,-161.34,-126.84,Under Contract
+870,2026-05-05,LANE-002,Cochin Port,Hamburg Port,Ocean,Evergreen,2600.0,2386.6,2290.98,19,-309.02,-95.62,Under Contract
+871,2026-05-05,LANE-003,Chennai Port,Port of Singapore,Ocean,Evergreen,1100.0,974.41,1072.7,27,-27.3,98.29,Under Contract
+872,2026-05-05,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Fedex Express,6500.0,6199.21,6024.09,3,-475.91,-175.12,Under Contract
+873,2026-05-05,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Qatar Airways Cargo,4800.0,4283.87,4259.13,1,-540.87,-24.74,Under Contract
+874,2026-05-05,LANE-006,Nhava Sheva Hub,Pune Distribution Center,Road,Jb Hunt,850.0,1023.55,1064.26,2,214.26,40.71,High Overspend
+875,2026-05-05,LANE-007,Chennai Logistics Park,Bangalore Warehouse,Road,Knight Transportation,950.0,1081.28,1040.73,4,90.73,-40.55,High Overspend
+876,2026-05-06,LANE-001,Mundra Port,Rotterdam Port,Ocean,Msc,2800.0,2546.38,2587.01,30,-212.99,40.63,Under Contract
+877,2026-05-06,LANE-002,Cochin Port,Hamburg Port,Ocean,Ocean Network Express,2600.0,2521.76,2530.31,28,-69.69,8.55,Under Contract
+878,2026-05-06,LANE-003,Chennai Port,Port of Singapore,Ocean,Evergreen,1100.0,1116.74,1127.65,17,27.65,10.91,Within Tolerance
+879,2026-05-06,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Fedex Express,6500.0,7947.63,8537.1,2,2037.1,589.47,High Overspend
+880,2026-05-06,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Atlas Air,4800.0,4307.21,4511.5,1,-288.5,204.29,Under Contract
+881,2026-05-06,LANE-006,Nhava Sheva Hub,Pune Distribution Center,Road,Jb Hunt,850.0,1005.21,1031.53,2,181.53,26.32,High Overspend
+882,2026-05-06,LANE-007,Chennai Logistics Park,Bangalore Warehouse,Road,Xpo Logistics,950.0,904.61,983.06,3,33.06,78.45,Within Tolerance
+883,2026-05-07,LANE-001,Mundra Port,Rotterdam Port,Ocean,Cma Cgm,2800.0,2725.3,2978.66,25,178.66,253.36,High Overspend
+884,2026-05-07,LANE-002,Cochin Port,Hamburg Port,Ocean,Evergreen,2600.0,2775.25,2867.51,22,267.51,92.26,High Overspend
+885,2026-05-07,LANE-003,Chennai Port,Port of Singapore,Ocean,Cosco,1100.0,1070.84,1045.72,14,-54.28,-25.12,Under Contract
+886,2026-05-07,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Emirates Skycargo,6500.0,7132.59,7053.2,2,553.2,-79.39,High Overspend
+887,2026-05-07,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Qatar Airways Cargo,4800.0,5697.02,6084.42,2,1284.42,387.4,High Overspend
+888,2026-05-07,LANE-006,Nhava Sheva Hub,Pune Distribution Center,Road,Swift Transportation,850.0,855.16,847.8,3,-2.2,-7.36,Under Contract
+889,2026-05-07,LANE-007,Chennai Logistics Park,Bangalore Warehouse,Road,Knight Transportation,950.0,1172.0,1201.77,3,251.77,29.77,High Overspend
+890,2026-05-08,LANE-001,Mundra Port,Rotterdam Port,Ocean,Maersk,2800.0,2567.68,2617.08,21,-182.92,49.4,Under Contract
+891,2026-05-08,LANE-002,Cochin Port,Hamburg Port,Ocean,Ocean Network Express,2600.0,2525.22,2795.26,25,195.26,270.04,High Overspend
+892,2026-05-08,LANE-003,Chennai Port,Port of Singapore,Ocean,Cosco,1100.0,958.4,1019.7,27,-80.3,61.3,Under Contract
+893,2026-05-08,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Fedex Express,6500.0,6270.96,6902.47,1,402.47,631.51,High Overspend
+894,2026-05-08,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Lufthansa Cargo,4800.0,5582.44,5342.78,1,542.78,-239.66,High Overspend
+895,2026-05-08,LANE-006,Nhava Sheva Hub,Pune Distribution Center,Road,Jb Hunt,850.0,911.37,948.54,2,98.54,37.17,High Overspend
+896,2026-05-08,LANE-007,Chennai Logistics Park,Bangalore Warehouse,Road,Xpo Logistics,950.0,1111.1,1243.45,3,293.45,132.35,High Overspend
+897,2026-05-09,LANE-001,Mundra Port,Rotterdam Port,Ocean,Msc,2800.0,2424.42,2511.7,23,-288.3,87.28,Under Contract
+898,2026-05-09,LANE-002,Cochin Port,Hamburg Port,Ocean,Hapag-Lloyd,2600.0,3139.26,3274.6,20,674.6,135.34,High Overspend
+899,2026-05-09,LANE-003,Chennai Port,Port of Singapore,Ocean,Maersk,1100.0,1151.29,1259.93,23,159.93,108.64,High Overspend
+900,2026-05-09,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Emirates Skycargo,6500.0,6726.73,6510.62,3,10.62,-216.11,Within Tolerance
+901,2026-05-09,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Atlas Air,4800.0,5805.75,6113.87,2,1313.87,308.12,High Overspend
+902,2026-05-09,LANE-006,Nhava Sheva Hub,Pune Distribution Center,Road,Schneider,850.0,786.42,879.58,5,29.58,93.16,Within Tolerance
+903,2026-05-09,LANE-007,Chennai Logistics Park,Bangalore Warehouse,Road,Xpo Logistics,950.0,863.77,866.27,3,-83.73,2.5,Under Contract
+904,2026-05-10,LANE-001,Mundra Port,Rotterdam Port,Ocean,Msc,2800.0,3154.39,3276.81,19,476.81,122.42,High Overspend
+905,2026-05-10,LANE-002,Cochin Port,Hamburg Port,Ocean,Hapag-Lloyd,2600.0,3141.4,3412.5,27,812.5,271.1,High Overspend
+906,2026-05-10,LANE-003,Chennai Port,Port of Singapore,Ocean,Maersk,1100.0,942.43,1028.81,20,-71.19,86.38,Under Contract
+907,2026-05-10,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Emirates Skycargo,6500.0,7392.35,7396.29,2,896.29,3.94,High Overspend
+908,2026-05-10,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Atlas Air,4800.0,5972.6,6129.74,1,1329.74,157.14,High Overspend
+909,2026-05-10,LANE-006,Nhava Sheva Hub,Pune Distribution Center,Road,Schneider,850.0,1032.46,1011.25,3,161.25,-21.21,High Overspend
+910,2026-05-10,LANE-007,Chennai Logistics Park,Bangalore Warehouse,Road,Knight Transportation,950.0,881.21,952.86,4,2.86,71.65,Within Tolerance
+911,2026-05-11,LANE-001,Mundra Port,Rotterdam Port,Ocean,Maersk,2800.0,2394.57,2333.62,19,-466.38,-60.95,Under Contract
+912,2026-05-11,LANE-002,Cochin Port,Hamburg Port,Ocean,Ocean Network Express,2600.0,3231.17,3479.84,25,879.84,248.67,High Overspend
+913,2026-05-11,LANE-003,Chennai Port,Port of Singapore,Ocean,Maersk,1100.0,1330.96,1467.1,30,367.1,136.14,High Overspend
+914,2026-05-11,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Dhl Aviation,6500.0,7641.38,7417.93,3,917.93,-223.45,High Overspend
+915,2026-05-11,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Lufthansa Cargo,4800.0,5876.54,6340.97,3,1540.97,464.43,High Overspend
+916,2026-05-11,LANE-006,Nhava Sheva Hub,Pune Distribution Center,Road,Swift Transportation,850.0,817.05,855.35,3,5.35,38.3,Within Tolerance
+917,2026-05-11,LANE-007,Chennai Logistics Park,Bangalore Warehouse,Road,Xpo Logistics,950.0,875.13,869.18,2,-80.82,-5.95,Under Contract
+918,2026-05-12,LANE-001,Mundra Port,Rotterdam Port,Ocean,Maersk,2800.0,2934.74,3046.98,21,246.98,112.24,High Overspend
+919,2026-05-12,LANE-002,Cochin Port,Hamburg Port,Ocean,Ocean Network Express,2600.0,2617.49,2787.83,24,187.83,170.34,High Overspend
+920,2026-05-12,LANE-003,Chennai Port,Port of Singapore,Ocean,Evergreen,1100.0,1356.76,1337.42,31,237.42,-19.34,High Overspend
+921,2026-05-12,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Emirates Skycargo,6500.0,7002.14,7040.02,3,540.02,37.88,High Overspend
+922,2026-05-12,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Qatar Airways Cargo,4800.0,4894.91,5097.18,3,297.18,202.27,High Overspend
+923,2026-05-12,LANE-006,Nhava Sheva Hub,Pune Distribution Center,Road,Jb Hunt,850.0,996.13,1097.0,2,247.0,100.87,High Overspend
+924,2026-05-12,LANE-007,Chennai Logistics Park,Bangalore Warehouse,Road,Xpo Logistics,950.0,1001.94,1045.82,3,95.82,43.88,High Overspend
+925,2026-05-13,LANE-001,Mundra Port,Rotterdam Port,Ocean,Msc,2800.0,2922.71,3215.71,14,415.71,293.0,High Overspend
+926,2026-05-13,LANE-002,Cochin Port,Hamburg Port,Ocean,Evergreen,2600.0,2385.21,2507.77,31,-92.23,122.56,Under Contract
+927,2026-05-13,LANE-003,Chennai Port,Port of Singapore,Ocean,Maersk,1100.0,1176.76,1302.59,29,202.59,125.83,High Overspend
+928,2026-05-13,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Fedex Express,6500.0,7431.39,8014.34,2,1514.34,582.95,High Overspend
+929,2026-05-13,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Qatar Airways Cargo,4800.0,4124.73,4350.44,3,-449.56,225.71,Under Contract
+930,2026-05-13,LANE-006,Nhava Sheva Hub,Pune Distribution Center,Road,Jb Hunt,850.0,1033.57,1148.05,4,298.05,114.48,High Overspend
+931,2026-05-13,LANE-007,Chennai Logistics Park,Bangalore Warehouse,Road,Knight Transportation,950.0,921.25,981.37,6,31.37,60.12,Within Tolerance
+932,2026-05-14,LANE-001,Mundra Port,Rotterdam Port,Ocean,Msc,2800.0,2798.31,2997.31,27,197.31,199.0,High Overspend
+933,2026-05-14,LANE-002,Cochin Port,Hamburg Port,Ocean,Evergreen,2600.0,2668.28,2947.94,24,347.94,279.66,High Overspend
+934,2026-05-14,LANE-003,Chennai Port,Port of Singapore,Ocean,Cosco,1100.0,1216.05,1278.86,29,178.86,62.81,High Overspend
+935,2026-05-14,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Dhl Aviation,6500.0,7192.08,7119.36,2,619.36,-72.72,High Overspend
+936,2026-05-14,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Lufthansa Cargo,4800.0,5018.09,4967.46,1,167.46,-50.63,Within Tolerance
+937,2026-05-14,LANE-006,Nhava Sheva Hub,Pune Distribution Center,Road,Schneider,850.0,778.45,754.21,6,-95.79,-24.24,Under Contract
+938,2026-05-14,LANE-007,Chennai Logistics Park,Bangalore Warehouse,Road,Knight Transportation,950.0,868.72,928.86,3,-21.14,60.14,Under Contract
+939,2026-05-15,LANE-001,Mundra Port,Rotterdam Port,Ocean,Msc,2800.0,2386.58,2569.12,16,-230.88,182.54,Under Contract
+940,2026-05-15,LANE-002,Cochin Port,Hamburg Port,Ocean,Ocean Network Express,2600.0,3241.42,3513.63,27,913.63,272.21,High Overspend
+941,2026-05-15,LANE-003,Chennai Port,Port of Singapore,Ocean,Evergreen,1100.0,1327.31,1294.83,29,194.83,-32.48,High Overspend
+942,2026-05-15,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Dhl Aviation,6500.0,6070.43,6519.12,1,19.12,448.69,Within Tolerance
+943,2026-05-15,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Lufthansa Cargo,4800.0,4727.77,4532.79,2,-267.21,-194.98,Under Contract
+944,2026-05-15,LANE-006,Nhava Sheva Hub,Pune Distribution Center,Road,Swift Transportation,850.0,843.98,873.37,2,23.37,29.39,Within Tolerance
+945,2026-05-15,LANE-007,Chennai Logistics Park,Bangalore Warehouse,Road,Xpo Logistics,950.0,1039.27,1083.96,6,133.96,44.69,High Overspend
+946,2026-05-16,LANE-001,Mundra Port,Rotterdam Port,Ocean,Maersk,2800.0,2789.87,2675.02,31,-124.98,-114.85,Under Contract
+947,2026-05-16,LANE-002,Cochin Port,Hamburg Port,Ocean,Hapag-Lloyd,2600.0,3182.38,3053.26,14,453.26,-129.12,High Overspend
+948,2026-05-16,LANE-003,Chennai Port,Port of Singapore,Ocean,Maersk,1100.0,1172.81,1160.16,25,60.16,-12.65,High Overspend
+949,2026-05-16,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Emirates Skycargo,6500.0,7856.49,7957.47,3,1457.47,100.98,High Overspend
+950,2026-05-16,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Lufthansa Cargo,4800.0,4559.27,4367.97,2,-432.03,-191.3,Under Contract
+951,2026-05-16,LANE-006,Nhava Sheva Hub,Pune Distribution Center,Road,Schneider,850.0,890.09,904.86,2,54.86,14.77,High Overspend
+952,2026-05-16,LANE-007,Chennai Logistics Park,Bangalore Warehouse,Road,Xpo Logistics,950.0,944.34,950.9,2,0.9,6.56,Within Tolerance
+953,2026-05-17,LANE-001,Mundra Port,Rotterdam Port,Ocean,Maersk,2800.0,3147.33,3238.4,18,438.4,91.07,High Overspend
+954,2026-05-17,LANE-002,Cochin Port,Hamburg Port,Ocean,Ocean Network Express,2600.0,2987.05,2838.58,15,238.58,-148.47,High Overspend
+955,2026-05-17,LANE-003,Chennai Port,Port of Singapore,Ocean,Cosco,1100.0,1276.55,1387.94,24,287.94,111.39,High Overspend
+956,2026-05-17,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Fedex Express,6500.0,6213.99,6249.17,2,-250.83,35.18,Under Contract
+957,2026-05-17,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Qatar Airways Cargo,4800.0,4445.74,4668.61,2,-131.39,222.87,Under Contract
+958,2026-05-17,LANE-006,Nhava Sheva Hub,Pune Distribution Center,Road,Swift Transportation,850.0,835.86,935.12,2,85.12,99.26,High Overspend
+959,2026-05-17,LANE-007,Chennai Logistics Park,Bangalore Warehouse,Road,Old Dominion,950.0,1053.49,1153.08,4,203.08,99.59,High Overspend
+960,2026-05-18,LANE-001,Mundra Port,Rotterdam Port,Ocean,Cma Cgm,2800.0,2779.99,2680.36,25,-119.64,-99.63,Under Contract
+961,2026-05-18,LANE-002,Cochin Port,Hamburg Port,Ocean,Evergreen,2600.0,2756.04,2959.84,25,359.84,203.8,High Overspend
+962,2026-05-18,LANE-003,Chennai Port,Port of Singapore,Ocean,Evergreen,1100.0,1026.07,1141.01,17,41.01,114.94,Within Tolerance
+963,2026-05-18,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Dhl Aviation,6500.0,6526.83,6908.53,3,408.53,381.7,High Overspend
+964,2026-05-18,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Lufthansa Cargo,4800.0,4835.72,4829.77,1,29.77,-5.95,Within Tolerance
+965,2026-05-18,LANE-006,Nhava Sheva Hub,Pune Distribution Center,Road,Swift Transportation,850.0,1062.34,1066.47,2,216.47,4.13,High Overspend
+966,2026-05-18,LANE-007,Chennai Logistics Park,Bangalore Warehouse,Road,Knight Transportation,950.0,1090.05,1047.41,5,97.41,-42.64,High Overspend
+967,2026-05-19,LANE-001,Mundra Port,Rotterdam Port,Ocean,Cma Cgm,2800.0,3006.21,3118.62,17,318.62,112.41,High Overspend
+968,2026-05-19,LANE-002,Cochin Port,Hamburg Port,Ocean,Ocean Network Express,2600.0,3129.45,3138.82,27,538.82,9.37,High Overspend
+969,2026-05-19,LANE-003,Chennai Port,Port of Singapore,Ocean,Evergreen,1100.0,1011.16,1077.93,14,-22.07,66.77,Under Contract
+970,2026-05-19,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Dhl Aviation,6500.0,6902.19,7259.95,1,759.95,357.76,High Overspend
+971,2026-05-19,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Atlas Air,4800.0,5901.47,6396.61,2,1596.61,495.14,High Overspend
+972,2026-05-19,LANE-006,Nhava Sheva Hub,Pune Distribution Center,Road,Schneider,850.0,858.09,843.83,3,-6.17,-14.26,Under Contract
+973,2026-05-19,LANE-007,Chennai Logistics Park,Bangalore Warehouse,Road,Knight Transportation,950.0,969.42,1017.14,4,67.14,47.72,High Overspend
+974,2026-05-20,LANE-001,Mundra Port,Rotterdam Port,Ocean,Maersk,2800.0,3415.61,3377.16,24,577.16,-38.45,High Overspend
+975,2026-05-20,LANE-002,Cochin Port,Hamburg Port,Ocean,Evergreen,2600.0,2877.92,2847.94,25,247.94,-29.98,High Overspend
+976,2026-05-20,LANE-003,Chennai Port,Port of Singapore,Ocean,Cosco,1100.0,1074.27,1056.53,29,-43.47,-17.74,Under Contract
+977,2026-05-20,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Emirates Skycargo,6500.0,6023.26,6728.02,1,228.02,704.76,Within Tolerance
+978,2026-05-20,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Atlas Air,4800.0,4980.48,5264.61,2,464.61,284.13,High Overspend
+979,2026-05-20,LANE-006,Nhava Sheva Hub,Pune Distribution Center,Road,Schneider,850.0,929.44,1030.85,2,180.85,101.41,High Overspend
+980,2026-05-20,LANE-007,Chennai Logistics Park,Bangalore Warehouse,Road,Xpo Logistics,950.0,1130.25,1111.99,2,161.99,-18.26,High Overspend
+981,2026-05-21,LANE-001,Mundra Port,Rotterdam Port,Ocean,Msc,2800.0,2390.19,2296.85,22,-503.15,-93.34,Under Contract
+982,2026-05-21,LANE-002,Cochin Port,Hamburg Port,Ocean,Evergreen,2600.0,2349.44,2254.36,27,-345.64,-95.08,Under Contract
+983,2026-05-21,LANE-003,Chennai Port,Port of Singapore,Ocean,Maersk,1100.0,1028.06,995.81,25,-104.19,-32.25,Under Contract
+984,2026-05-21,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Fedex Express,6500.0,6527.36,7070.48,1,570.48,543.12,High Overspend
+985,2026-05-21,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Atlas Air,4800.0,4162.81,3966.97,3,-833.03,-195.84,Under Contract
+986,2026-05-21,LANE-006,Nhava Sheva Hub,Pune Distribution Center,Road,Swift Transportation,850.0,875.33,832.56,6,-17.44,-42.77,Under Contract
+987,2026-05-21,LANE-007,Chennai Logistics Park,Bangalore Warehouse,Road,Xpo Logistics,950.0,1152.11,1100.74,4,150.74,-51.37,High Overspend
+988,2026-05-22,LANE-001,Mundra Port,Rotterdam Port,Ocean,Msc,2800.0,3256.23,3457.47,15,657.47,201.24,High Overspend
+989,2026-05-22,LANE-002,Cochin Port,Hamburg Port,Ocean,Ocean Network Express,2600.0,2332.69,2306.4,27,-293.6,-26.29,Under Contract
+990,2026-05-22,LANE-003,Chennai Port,Port of Singapore,Ocean,Maersk,1100.0,1168.59,1184.05,29,84.05,15.46,High Overspend
+991,2026-05-22,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Fedex Express,6500.0,7803.13,7524.82,1,1024.82,-278.31,High Overspend
+992,2026-05-22,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Atlas Air,4800.0,5677.67,6117.31,1,1317.31,439.64,High Overspend
+993,2026-05-22,LANE-006,Nhava Sheva Hub,Pune Distribution Center,Road,Swift Transportation,850.0,820.46,804.16,2,-45.84,-16.3,Under Contract
+994,2026-05-22,LANE-007,Chennai Logistics Park,Bangalore Warehouse,Road,Old Dominion,950.0,1087.6,1044.76,2,94.76,-42.84,High Overspend
+995,2026-05-23,LANE-001,Mundra Port,Rotterdam Port,Ocean,Msc,2800.0,3489.84,3729.9,28,929.9,240.06,High Overspend
+996,2026-05-23,LANE-002,Cochin Port,Hamburg Port,Ocean,Evergreen,2600.0,2821.06,3069.36,17,469.36,248.3,High Overspend
+997,2026-05-23,LANE-003,Chennai Port,Port of Singapore,Ocean,Evergreen,1100.0,940.74,913.58,31,-186.42,-27.16,Under Contract
+998,2026-05-23,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Emirates Skycargo,6500.0,5700.04,5994.68,2,-505.32,294.64,Under Contract
+999,2026-05-23,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Qatar Airways Cargo,4800.0,4312.62,4155.27,3,-644.73,-157.35,Under Contract
+1000,2026-05-23,LANE-006,Nhava Sheva Hub,Pune Distribution Center,Road,Schneider,850.0,758.72,796.94,6,-53.06,38.22,Under Contract
+1001,2026-05-23,LANE-007,Chennai Logistics Park,Bangalore Warehouse,Road,Xpo Logistics,950.0,1017.7,1038.04,4,88.04,20.34,High Overspend
+1002,2026-05-24,LANE-001,Mundra Port,Rotterdam Port,Ocean,Msc,2800.0,2469.4,2756.76,26,-43.24,287.36,Under Contract
+1003,2026-05-24,LANE-002,Cochin Port,Hamburg Port,Ocean,Hapag-Lloyd,2600.0,2617.17,2647.05,30,47.05,29.88,Within Tolerance
+1004,2026-05-24,LANE-003,Chennai Port,Port of Singapore,Ocean,Maersk,1100.0,1339.53,1326.65,15,226.65,-12.88,High Overspend
+1005,2026-05-24,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Emirates Skycargo,6500.0,6152.7,6876.71,2,376.71,724.01,High Overspend
+1006,2026-05-24,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Lufthansa Cargo,4800.0,5214.4,5122.52,3,322.52,-91.88,High Overspend
+1007,2026-05-24,LANE-006,Nhava Sheva Hub,Pune Distribution Center,Road,Schneider,850.0,876.69,923.36,5,73.36,46.67,High Overspend
+1008,2026-05-24,LANE-007,Chennai Logistics Park,Bangalore Warehouse,Road,Old Dominion,950.0,904.1,862.05,3,-87.95,-42.05,Under Contract
+1009,2026-05-25,LANE-001,Mundra Port,Rotterdam Port,Ocean,Msc,2800.0,2972.92,3315.88,29,515.88,342.96,High Overspend
+1010,2026-05-25,LANE-002,Cochin Port,Hamburg Port,Ocean,Hapag-Lloyd,2600.0,2734.27,2949.07,21,349.07,214.8,High Overspend
+1011,2026-05-25,LANE-003,Chennai Port,Port of Singapore,Ocean,Evergreen,1100.0,1187.9,1191.55,26,91.55,3.65,High Overspend
+1012,2026-05-25,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Fedex Express,6500.0,7605.58,7998.71,1,1498.71,393.13,High Overspend
+1013,2026-05-25,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Lufthansa Cargo,4800.0,5698.73,6163.84,3,1363.84,465.11,High Overspend
+1014,2026-05-25,LANE-006,Nhava Sheva Hub,Pune Distribution Center,Road,Jb Hunt,850.0,738.37,791.36,4,-58.64,52.99,Under Contract
+1015,2026-05-25,LANE-007,Chennai Logistics Park,Bangalore Warehouse,Road,Old Dominion,950.0,1174.21,1206.66,3,256.66,32.45,High Overspend
+1016,2026-05-26,LANE-001,Mundra Port,Rotterdam Port,Ocean,Cma Cgm,2800.0,3494.5,3648.74,16,848.74,154.24,High Overspend
+1017,2026-05-26,LANE-002,Cochin Port,Hamburg Port,Ocean,Evergreen,2600.0,2629.31,2937.96,28,337.96,308.65,High Overspend
+1018,2026-05-26,LANE-003,Chennai Port,Port of Singapore,Ocean,Cosco,1100.0,1360.7,1431.26,25,331.26,70.56,High Overspend
+1019,2026-05-26,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Dhl Aviation,6500.0,7904.46,8121.72,1,1621.72,217.26,High Overspend
+1020,2026-05-26,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Lufthansa Cargo,4800.0,4468.97,4866.81,2,66.81,397.84,Within Tolerance
+1021,2026-05-26,LANE-006,Nhava Sheva Hub,Pune Distribution Center,Road,Schneider,850.0,749.01,724.44,2,-125.56,-24.57,Under Contract
+1022,2026-05-26,LANE-007,Chennai Logistics Park,Bangalore Warehouse,Road,Xpo Logistics,950.0,1162.07,1155.13,2,205.13,-6.94,High Overspend
+1023,2026-05-27,LANE-001,Mundra Port,Rotterdam Port,Ocean,Cma Cgm,2800.0,2482.35,2732.57,30,-67.43,250.22,Under Contract
+1024,2026-05-27,LANE-002,Cochin Port,Hamburg Port,Ocean,Hapag-Lloyd,2600.0,2683.58,2713.48,22,113.48,29.9,Within Tolerance
+1025,2026-05-27,LANE-003,Chennai Port,Port of Singapore,Ocean,Evergreen,1100.0,1103.68,1106.2,21,6.2,2.52,Within Tolerance
+1026,2026-05-27,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Emirates Skycargo,6500.0,5637.78,5831.85,2,-668.15,194.07,Under Contract
+1027,2026-05-27,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Qatar Airways Cargo,4800.0,5943.15,6099.21,3,1299.21,156.06,High Overspend
+1028,2026-05-27,LANE-006,Nhava Sheva Hub,Pune Distribution Center,Road,Schneider,850.0,1041.57,1154.91,2,304.91,113.34,High Overspend
+1029,2026-05-27,LANE-007,Chennai Logistics Park,Bangalore Warehouse,Road,Xpo Logistics,950.0,1118.46,1102.61,5,152.61,-15.85,High Overspend
+1030,2026-05-28,LANE-001,Mundra Port,Rotterdam Port,Ocean,Cma Cgm,2800.0,2722.86,2701.81,30,-98.19,-21.05,Under Contract
+1031,2026-05-28,LANE-002,Cochin Port,Hamburg Port,Ocean,Ocean Network Express,2600.0,2982.07,2859.01,32,259.01,-123.06,High Overspend
+1032,2026-05-28,LANE-003,Chennai Port,Port of Singapore,Ocean,Evergreen,1100.0,1227.08,1293.27,26,193.27,66.19,High Overspend
+1033,2026-05-28,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Dhl Aviation,6500.0,5736.14,6106.43,1,-393.57,370.29,Under Contract
+1034,2026-05-28,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Lufthansa Cargo,4800.0,4627.39,4973.42,3,173.42,346.03,Within Tolerance
+1035,2026-05-28,LANE-006,Nhava Sheva Hub,Pune Distribution Center,Road,Schneider,850.0,745.85,780.69,5,-69.31,34.84,Under Contract
+1036,2026-05-28,LANE-007,Chennai Logistics Park,Bangalore Warehouse,Road,Xpo Logistics,950.0,1071.32,1149.6,3,199.6,78.28,High Overspend
+1037,2026-05-29,LANE-001,Mundra Port,Rotterdam Port,Ocean,Cma Cgm,2800.0,2809.89,2840.66,15,40.66,30.77,Within Tolerance
+1038,2026-05-29,LANE-002,Cochin Port,Hamburg Port,Ocean,Evergreen,2600.0,3189.3,3258.53,29,658.53,69.23,High Overspend
+1039,2026-05-29,LANE-003,Chennai Port,Port of Singapore,Ocean,Maersk,1100.0,938.05,902.82,27,-197.18,-35.23,Under Contract
+1040,2026-05-29,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Emirates Skycargo,6500.0,6004.86,6640.28,1,140.28,635.42,Within Tolerance
+1041,2026-05-29,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Lufthansa Cargo,4800.0,5323.24,5753.84,2,953.84,430.6,High Overspend
+1042,2026-05-29,LANE-006,Nhava Sheva Hub,Pune Distribution Center,Road,Schneider,850.0,1033.86,1054.52,2,204.52,20.66,High Overspend
+1043,2026-05-29,LANE-007,Chennai Logistics Park,Bangalore Warehouse,Road,Knight Transportation,950.0,1131.31,1195.91,2,245.91,64.6,High Overspend
+1044,2026-05-30,LANE-001,Mundra Port,Rotterdam Port,Ocean,Cma Cgm,2800.0,2824.29,2862.32,26,62.32,38.03,Within Tolerance
+1045,2026-05-30,LANE-002,Cochin Port,Hamburg Port,Ocean,Evergreen,2600.0,2575.37,2740.15,24,140.15,164.78,High Overspend
+1046,2026-05-30,LANE-003,Chennai Port,Port of Singapore,Ocean,Evergreen,1100.0,1169.92,1284.67,24,184.67,114.75,High Overspend
+1047,2026-05-30,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Fedex Express,6500.0,6224.28,6588.45,3,88.45,364.17,Within Tolerance
+1048,2026-05-30,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Qatar Airways Cargo,4800.0,4599.71,5040.21,1,240.21,440.5,High Overspend
+1049,2026-05-30,LANE-006,Nhava Sheva Hub,Pune Distribution Center,Road,Schneider,850.0,980.02,1053.52,5,203.52,73.5,High Overspend
+1050,2026-05-30,LANE-007,Chennai Logistics Park,Bangalore Warehouse,Road,Old Dominion,950.0,888.82,974.4,5,24.4,85.58,Within Tolerance
+1051,2026-05-31,LANE-001,Mundra Port,Rotterdam Port,Ocean,Maersk,2800.0,3430.36,3501.63,16,701.63,71.27,High Overspend
+1052,2026-05-31,LANE-002,Cochin Port,Hamburg Port,Ocean,Hapag-Lloyd,2600.0,2402.68,2486.41,22,-113.59,83.73,Under Contract
+1053,2026-05-31,LANE-003,Chennai Port,Port of Singapore,Ocean,Maersk,1100.0,1080.6,1126.59,32,26.59,45.99,Within Tolerance
+1054,2026-05-31,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Fedex Express,6500.0,7476.95,7512.44,3,1012.44,35.49,High Overspend
+1055,2026-05-31,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Lufthansa Cargo,4800.0,4082.35,4447.38,1,-352.62,365.03,Under Contract
+1056,2026-05-31,LANE-006,Nhava Sheva Hub,Pune Distribution Center,Road,Jb Hunt,850.0,891.43,962.11,3,112.11,70.68,High Overspend
+1057,2026-05-31,LANE-007,Chennai Logistics Park,Bangalore Warehouse,Road,Xpo Logistics,950.0,1146.01,1160.89,3,210.89,14.88,High Overspend
+1058,2026-06-01,LANE-001,Mundra Port,Rotterdam Port,Ocean,Cma Cgm,2800.0,2704.67,2871.99,29,71.99,167.32,Within Tolerance
+1059,2026-06-01,LANE-002,Cochin Port,Hamburg Port,Ocean,Ocean Network Express,2600.0,2527.49,2422.79,20,-177.21,-104.7,Under Contract
+1060,2026-06-01,LANE-003,Chennai Port,Port of Singapore,Ocean,Maersk,1100.0,1274.77,1394.68,24,294.68,119.91,High Overspend
+1061,2026-06-01,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Emirates Skycargo,6500.0,6975.77,7576.6,2,1076.6,600.83,High Overspend
+1062,2026-06-01,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Atlas Air,4800.0,5009.93,5118.36,1,318.36,108.43,High Overspend
+1063,2026-06-01,LANE-006,Nhava Sheva Hub,Pune Distribution Center,Road,Jb Hunt,850.0,1016.58,982.28,3,132.28,-34.3,High Overspend
+1064,2026-06-01,LANE-007,Chennai Logistics Park,Bangalore Warehouse,Road,Xpo Logistics,950.0,822.29,879.84,5,-70.16,57.55,Under Contract
+1065,2026-06-02,LANE-001,Mundra Port,Rotterdam Port,Ocean,Cma Cgm,2800.0,2562.69,2847.56,15,47.56,284.87,Within Tolerance
+1066,2026-06-02,LANE-002,Cochin Port,Hamburg Port,Ocean,Hapag-Lloyd,2600.0,2640.35,2717.2,28,117.2,76.85,Within Tolerance
+1067,2026-06-02,LANE-003,Chennai Port,Port of Singapore,Ocean,Evergreen,1100.0,1044.04,1147.2,25,47.2,103.16,Within Tolerance
+1068,2026-06-02,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Dhl Aviation,6500.0,6199.14,6307.32,1,-192.68,108.18,Under Contract
+1069,2026-06-02,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Lufthansa Cargo,4800.0,4327.31,4286.01,3,-513.99,-41.3,Under Contract
+1070,2026-06-02,LANE-006,Nhava Sheva Hub,Pune Distribution Center,Road,Jb Hunt,850.0,800.12,781.69,6,-68.31,-18.43,Under Contract
+1071,2026-06-02,LANE-007,Chennai Logistics Park,Bangalore Warehouse,Road,Knight Transportation,950.0,1160.88,1108.52,2,158.52,-52.36,High Overspend
+1072,2026-06-03,LANE-001,Mundra Port,Rotterdam Port,Ocean,Maersk,2800.0,2871.8,3134.49,30,334.49,262.69,High Overspend
+1073,2026-06-03,LANE-002,Cochin Port,Hamburg Port,Ocean,Evergreen,2600.0,2589.78,2602.39,28,2.39,12.61,Within Tolerance
+1074,2026-06-03,LANE-003,Chennai Port,Port of Singapore,Ocean,Maersk,1100.0,956.42,1060.45,26,-39.55,104.03,Under Contract
+1075,2026-06-03,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Emirates Skycargo,6500.0,8068.4,8676.72,3,2176.72,608.32,High Overspend
+1076,2026-06-03,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Qatar Airways Cargo,4800.0,4925.12,5506.5,2,706.5,581.38,High Overspend
+1077,2026-06-03,LANE-006,Nhava Sheva Hub,Pune Distribution Center,Road,Swift Transportation,850.0,916.68,954.01,6,104.01,37.33,High Overspend
+1078,2026-06-03,LANE-007,Chennai Logistics Park,Bangalore Warehouse,Road,Old Dominion,950.0,943.91,1044.43,5,94.43,100.52,High Overspend
+1079,2026-06-04,LANE-001,Mundra Port,Rotterdam Port,Ocean,Cma Cgm,2800.0,3084.97,3401.24,31,601.24,316.27,High Overspend
+1080,2026-06-04,LANE-002,Cochin Port,Hamburg Port,Ocean,Evergreen,2600.0,2996.54,2964.5,17,364.5,-32.04,High Overspend
+1081,2026-06-04,LANE-003,Chennai Port,Port of Singapore,Ocean,Cosco,1100.0,1081.89,1204.95,14,104.95,123.06,High Overspend
+1082,2026-06-04,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Dhl Aviation,6500.0,6019.07,6003.15,3,-496.85,-15.92,Under Contract
+1083,2026-06-04,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Qatar Airways Cargo,4800.0,4228.29,4377.11,1,-422.89,148.82,Under Contract
+1084,2026-06-04,LANE-006,Nhava Sheva Hub,Pune Distribution Center,Road,Schneider,850.0,996.31,1052.13,2,202.13,55.82,High Overspend
+1085,2026-06-04,LANE-007,Chennai Logistics Park,Bangalore Warehouse,Road,Old Dominion,950.0,1118.02,1167.19,2,217.19,49.17,High Overspend
+1086,2026-06-05,LANE-001,Mundra Port,Rotterdam Port,Ocean,Msc,2800.0,3318.7,3429.86,26,629.86,111.16,High Overspend
+1087,2026-06-05,LANE-002,Cochin Port,Hamburg Port,Ocean,Evergreen,2600.0,2257.18,2526.19,24,-73.81,269.01,Under Contract
+1088,2026-06-05,LANE-003,Chennai Port,Port of Singapore,Ocean,Maersk,1100.0,1289.24,1384.66,21,284.66,95.42,High Overspend
+1089,2026-06-05,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Fedex Express,6500.0,5880.64,5977.45,1,-522.55,96.81,Under Contract
+1090,2026-06-05,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Lufthansa Cargo,4800.0,5011.71,5598.45,2,798.45,586.74,High Overspend
+1091,2026-06-05,LANE-006,Nhava Sheva Hub,Pune Distribution Center,Road,Swift Transportation,850.0,995.47,1077.32,5,227.32,81.85,High Overspend
+1092,2026-06-05,LANE-007,Chennai Logistics Park,Bangalore Warehouse,Road,Knight Transportation,950.0,1142.98,1279.83,4,329.83,136.85,High Overspend
+1093,2026-06-06,LANE-001,Mundra Port,Rotterdam Port,Ocean,Maersk,2800.0,2475.34,2410.12,26,-389.88,-65.22,Under Contract
+1094,2026-06-06,LANE-002,Cochin Port,Hamburg Port,Ocean,Ocean Network Express,2600.0,2669.93,2556.93,22,-43.07,-113.0,Under Contract
+1095,2026-06-06,LANE-003,Chennai Port,Port of Singapore,Ocean,Cosco,1100.0,1106.71,1127.89,14,27.89,21.18,Within Tolerance
+1096,2026-06-06,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Fedex Express,6500.0,6368.44,7042.15,3,542.15,673.71,High Overspend
+1097,2026-06-06,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Atlas Air,4800.0,5670.44,5622.89,2,822.89,-47.55,High Overspend
+1098,2026-06-06,LANE-006,Nhava Sheva Hub,Pune Distribution Center,Road,Swift Transportation,850.0,785.23,843.83,6,-6.17,58.6,Under Contract
+1099,2026-06-06,LANE-007,Chennai Logistics Park,Bangalore Warehouse,Road,Old Dominion,950.0,931.55,899.62,3,-50.38,-31.93,Under Contract
+1100,2026-06-07,LANE-001,Mundra Port,Rotterdam Port,Ocean,Cma Cgm,2800.0,2572.6,2468.29,31,-331.71,-104.31,Under Contract
+1101,2026-06-07,LANE-002,Cochin Port,Hamburg Port,Ocean,Evergreen,2600.0,2915.14,3082.23,28,482.23,167.09,High Overspend
+1102,2026-06-07,LANE-003,Chennai Port,Port of Singapore,Ocean,Evergreen,1100.0,1302.07,1430.91,31,330.91,128.84,High Overspend
+1103,2026-06-07,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Dhl Aviation,6500.0,6156.83,5939.24,1,-560.76,-217.59,Under Contract
+1104,2026-06-07,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Atlas Air,4800.0,4470.87,4902.96,3,102.96,432.09,Within Tolerance
+1105,2026-06-07,LANE-006,Nhava Sheva Hub,Pune Distribution Center,Road,Swift Transportation,850.0,762.97,736.12,4,-113.88,-26.85,Under Contract
+1106,2026-06-07,LANE-007,Chennai Logistics Park,Bangalore Warehouse,Road,Xpo Logistics,950.0,1034.54,1140.56,5,190.56,106.02,High Overspend
+1107,2026-06-08,LANE-001,Mundra Port,Rotterdam Port,Ocean,Msc,2800.0,3183.98,3159.98,29,359.98,-24.0,High Overspend
+1108,2026-06-08,LANE-002,Cochin Port,Hamburg Port,Ocean,Evergreen,2600.0,2540.17,2774.9,32,174.9,234.73,High Overspend
+1109,2026-06-08,LANE-003,Chennai Port,Port of Singapore,Ocean,Maersk,1100.0,1266.05,1306.96,15,206.96,40.91,High Overspend
+1110,2026-06-08,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Dhl Aviation,6500.0,6855.89,6622.32,1,122.32,-233.57,Within Tolerance
+1111,2026-06-08,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Atlas Air,4800.0,4536.03,5010.79,3,210.79,474.76,Within Tolerance
+1112,2026-06-08,LANE-006,Nhava Sheva Hub,Pune Distribution Center,Road,Schneider,850.0,1043.79,1088.83,6,238.83,45.04,High Overspend
+1113,2026-06-08,LANE-007,Chennai Logistics Park,Bangalore Warehouse,Road,Old Dominion,950.0,819.1,794.53,6,-155.47,-24.57,Under Contract
+1114,2026-06-09,LANE-001,Mundra Port,Rotterdam Port,Ocean,Maersk,2800.0,3487.18,3513.22,19,713.22,26.04,High Overspend
+1115,2026-06-09,LANE-002,Cochin Port,Hamburg Port,Ocean,Ocean Network Express,2600.0,2397.75,2573.09,16,-26.91,175.34,Under Contract
+1116,2026-06-09,LANE-003,Chennai Port,Port of Singapore,Ocean,Maersk,1100.0,1169.59,1143.41,24,43.41,-26.18,Within Tolerance
+1117,2026-06-09,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Fedex Express,6500.0,6581.4,6635.82,3,135.82,54.42,Within Tolerance
+1118,2026-06-09,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Qatar Airways Cargo,4800.0,5288.19,5448.31,3,648.31,160.12,High Overspend
+1119,2026-06-09,LANE-006,Nhava Sheva Hub,Pune Distribution Center,Road,Schneider,850.0,813.41,838.2,6,-11.8,24.79,Under Contract
+1120,2026-06-09,LANE-007,Chennai Logistics Park,Bangalore Warehouse,Road,Old Dominion,950.0,1153.55,1158.8,6,208.8,5.25,High Overspend
+1121,2026-06-10,LANE-001,Mundra Port,Rotterdam Port,Ocean,Maersk,2800.0,2586.74,2888.09,20,88.09,301.35,Within Tolerance
+1122,2026-06-10,LANE-002,Cochin Port,Hamburg Port,Ocean,Hapag-Lloyd,2600.0,2976.23,3291.59,25,691.59,315.36,High Overspend
+1123,2026-06-10,LANE-003,Chennai Port,Port of Singapore,Ocean,Maersk,1100.0,1357.97,1388.77,30,288.77,30.8,High Overspend
+1124,2026-06-10,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Fedex Express,6500.0,7841.27,8720.07,2,2220.07,878.8,High Overspend
+1125,2026-06-10,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Lufthansa Cargo,4800.0,5544.72,6085.02,1,1285.02,540.3,High Overspend
+1126,2026-06-10,LANE-006,Nhava Sheva Hub,Pune Distribution Center,Road,Schneider,850.0,1057.45,1137.7,2,287.7,80.25,High Overspend
+1127,2026-06-10,LANE-007,Chennai Logistics Park,Bangalore Warehouse,Road,Knight Transportation,950.0,1088.18,1176.36,5,226.36,88.18,High Overspend
+1128,2026-06-11,LANE-001,Mundra Port,Rotterdam Port,Ocean,Maersk,2800.0,3142.22,3243.59,14,443.59,101.37,High Overspend
+1129,2026-06-11,LANE-002,Cochin Port,Hamburg Port,Ocean,Evergreen,2600.0,2232.98,2350.44,19,-249.56,117.46,Under Contract
+1130,2026-06-11,LANE-003,Chennai Port,Port of Singapore,Ocean,Cosco,1100.0,1200.97,1234.51,21,134.51,33.54,High Overspend
+1131,2026-06-11,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Fedex Express,6500.0,7566.47,8031.92,1,1531.92,465.45,High Overspend
+1132,2026-06-11,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Qatar Airways Cargo,4800.0,4105.83,3987.31,3,-812.69,-118.52,Under Contract
+1133,2026-06-11,LANE-006,Nhava Sheva Hub,Pune Distribution Center,Road,Swift Transportation,850.0,875.17,938.48,4,88.48,63.31,High Overspend
+1134,2026-06-11,LANE-007,Chennai Logistics Park,Bangalore Warehouse,Road,Xpo Logistics,950.0,944.01,1045.95,2,95.95,101.94,High Overspend
+1135,2026-06-12,LANE-001,Mundra Port,Rotterdam Port,Ocean,Msc,2800.0,3475.97,3448.67,18,648.67,-27.3,High Overspend
+1136,2026-06-12,LANE-002,Cochin Port,Hamburg Port,Ocean,Hapag-Lloyd,2600.0,2835.99,2725.24,30,125.24,-110.75,Within Tolerance
+1137,2026-06-12,LANE-003,Chennai Port,Port of Singapore,Ocean,Cosco,1100.0,997.72,1052.81,25,-47.19,55.09,Under Contract
+1138,2026-06-12,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Emirates Skycargo,6500.0,7352.71,7023.74,1,523.74,-328.97,High Overspend
+1139,2026-06-12,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Qatar Airways Cargo,4800.0,5146.24,5622.61,2,822.61,476.37,High Overspend
+1140,2026-06-12,LANE-006,Nhava Sheva Hub,Pune Distribution Center,Road,Schneider,850.0,1046.6,1105.65,4,255.65,59.05,High Overspend
+1141,2026-06-12,LANE-007,Chennai Logistics Park,Bangalore Warehouse,Road,Old Dominion,950.0,1153.31,1211.88,5,261.88,58.57,High Overspend
+1142,2026-06-13,LANE-001,Mundra Port,Rotterdam Port,Ocean,Maersk,2800.0,2797.04,2806.65,30,6.65,9.61,Within Tolerance
+1143,2026-06-13,LANE-002,Cochin Port,Hamburg Port,Ocean,Evergreen,2600.0,2886.47,3009.78,32,409.78,123.31,High Overspend
+1144,2026-06-13,LANE-003,Chennai Port,Port of Singapore,Ocean,Maersk,1100.0,1060.47,1016.94,26,-83.06,-43.53,Under Contract
+1145,2026-06-13,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Dhl Aviation,6500.0,5611.08,5825.47,1,-674.53,214.39,Under Contract
+1146,2026-06-13,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Qatar Airways Cargo,4800.0,4289.32,4730.8,2,-69.2,441.48,Under Contract
+1147,2026-06-13,LANE-006,Nhava Sheva Hub,Pune Distribution Center,Road,Swift Transportation,850.0,1018.46,981.9,2,131.9,-36.56,High Overspend
+1148,2026-06-13,LANE-007,Chennai Logistics Park,Bangalore Warehouse,Road,Xpo Logistics,950.0,927.88,1030.82,5,80.82,102.94,High Overspend
+1149,2026-06-14,LANE-001,Mundra Port,Rotterdam Port,Ocean,Maersk,2800.0,2388.38,2337.45,29,-462.55,-50.93,Under Contract
+1150,2026-06-14,LANE-002,Cochin Port,Hamburg Port,Ocean,Hapag-Lloyd,2600.0,2954.27,2851.31,18,251.31,-102.96,High Overspend
+1151,2026-06-14,LANE-003,Chennai Port,Port of Singapore,Ocean,Evergreen,1100.0,1343.54,1304.94,31,204.94,-38.6,High Overspend
+1152,2026-06-14,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Fedex Express,6500.0,6474.61,6666.24,1,166.24,191.63,Within Tolerance
+1153,2026-06-14,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Qatar Airways Cargo,4800.0,5003.64,5220.59,1,420.59,216.95,High Overspend
+1154,2026-06-14,LANE-006,Nhava Sheva Hub,Pune Distribution Center,Road,Swift Transportation,850.0,1035.51,994.35,4,144.35,-41.16,High Overspend
+1155,2026-06-14,LANE-007,Chennai Logistics Park,Bangalore Warehouse,Road,Old Dominion,950.0,842.36,926.8,5,-23.2,84.44,Under Contract
+1156,2026-06-15,LANE-001,Mundra Port,Rotterdam Port,Ocean,Cma Cgm,2800.0,2707.77,2603.07,18,-196.93,-104.7,Under Contract
+1157,2026-06-15,LANE-002,Cochin Port,Hamburg Port,Ocean,Hapag-Lloyd,2600.0,3166.29,3117.92,27,517.92,-48.37,High Overspend
+1158,2026-06-15,LANE-003,Chennai Port,Port of Singapore,Ocean,Maersk,1100.0,1250.72,1208.32,20,108.32,-42.4,High Overspend
+1159,2026-06-15,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Fedex Express,6500.0,5965.79,6507.47,1,7.47,541.68,Within Tolerance
+1160,2026-06-15,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Qatar Airways Cargo,4800.0,5023.49,5112.89,3,312.89,89.4,High Overspend
+1161,2026-06-15,LANE-006,Nhava Sheva Hub,Pune Distribution Center,Road,Swift Transportation,850.0,902.17,857.56,6,7.56,-44.61,Within Tolerance
+1162,2026-06-15,LANE-007,Chennai Logistics Park,Bangalore Warehouse,Road,Xpo Logistics,950.0,855.33,835.23,4,-114.77,-20.1,Under Contract
+1163,2026-06-16,LANE-001,Mundra Port,Rotterdam Port,Ocean,Cma Cgm,2800.0,3485.95,3602.57,16,802.57,116.62,High Overspend
+1164,2026-06-16,LANE-002,Cochin Port,Hamburg Port,Ocean,Hapag-Lloyd,2600.0,2720.37,2892.42,19,292.42,172.05,High Overspend
+1165,2026-06-16,LANE-003,Chennai Port,Port of Singapore,Ocean,Cosco,1100.0,1336.73,1414.2,31,314.2,77.47,High Overspend
+1166,2026-06-16,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Dhl Aviation,6500.0,5928.27,6314.94,2,-185.06,386.67,Under Contract
+1167,2026-06-16,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Qatar Airways Cargo,4800.0,4796.22,4570.41,2,-229.59,-225.81,Under Contract
+1168,2026-06-16,LANE-006,Nhava Sheva Hub,Pune Distribution Center,Road,Swift Transportation,850.0,947.2,969.63,2,119.63,22.43,High Overspend
+1169,2026-06-16,LANE-007,Chennai Logistics Park,Bangalore Warehouse,Road,Old Dominion,950.0,1164.27,1231.36,3,281.36,67.09,High Overspend
+1170,2026-06-17,LANE-001,Mundra Port,Rotterdam Port,Ocean,Cma Cgm,2800.0,3228.24,3076.53,19,276.53,-151.71,High Overspend
+1171,2026-06-17,LANE-002,Cochin Port,Hamburg Port,Ocean,Ocean Network Express,2600.0,3170.74,3383.32,30,783.32,212.58,High Overspend
+1172,2026-06-17,LANE-003,Chennai Port,Port of Singapore,Ocean,Cosco,1100.0,1080.68,1129.36,18,29.36,48.68,Within Tolerance
+1173,2026-06-17,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Fedex Express,6500.0,7533.72,7226.83,3,726.83,-306.89,High Overspend
+1174,2026-06-17,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Lufthansa Cargo,4800.0,4464.92,4809.64,3,9.64,344.72,Within Tolerance
+1175,2026-06-17,LANE-006,Nhava Sheva Hub,Pune Distribution Center,Road,Jb Hunt,850.0,895.58,941.66,4,91.66,46.08,High Overspend
+1176,2026-06-17,LANE-007,Chennai Logistics Park,Bangalore Warehouse,Road,Knight Transportation,950.0,1091.01,1047.96,6,97.96,-43.05,High Overspend
+1177,2026-06-18,LANE-001,Mundra Port,Rotterdam Port,Ocean,Msc,2800.0,2953.5,2839.03,18,39.03,-114.47,Within Tolerance
+1178,2026-06-18,LANE-002,Cochin Port,Hamburg Port,Ocean,Ocean Network Express,2600.0,2521.96,2476.65,24,-123.35,-45.31,Under Contract
+1179,2026-06-18,LANE-003,Chennai Port,Port of Singapore,Ocean,Maersk,1100.0,1334.06,1312.69,27,212.69,-21.37,High Overspend
+1180,2026-06-18,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Fedex Express,6500.0,6409.0,6191.08,1,-308.92,-217.92,Under Contract
+1181,2026-06-18,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Qatar Airways Cargo,4800.0,5484.25,5226.36,1,426.36,-257.89,High Overspend
+1182,2026-06-18,LANE-006,Nhava Sheva Hub,Pune Distribution Center,Road,Swift Transportation,850.0,870.8,955.52,4,105.52,84.72,High Overspend
+1183,2026-06-18,LANE-007,Chennai Logistics Park,Bangalore Warehouse,Road,Old Dominion,950.0,940.89,965.96,4,15.96,25.07,Within Tolerance
+1184,2026-06-19,LANE-001,Mundra Port,Rotterdam Port,Ocean,Cma Cgm,2800.0,2550.06,2440.61,29,-359.39,-109.45,Under Contract
+1185,2026-06-19,LANE-002,Cochin Port,Hamburg Port,Ocean,Ocean Network Express,2600.0,2827.35,3018.09,21,418.09,190.74,High Overspend
+1186,2026-06-19,LANE-003,Chennai Port,Port of Singapore,Ocean,Maersk,1100.0,1077.18,1129.01,20,29.01,51.83,Within Tolerance
+1187,2026-06-19,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Emirates Skycargo,6500.0,6287.37,6431.28,1,-68.72,143.91,Under Contract
+1188,2026-06-19,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Atlas Air,4800.0,4723.18,5169.21,2,369.21,446.03,High Overspend
+1189,2026-06-19,LANE-006,Nhava Sheva Hub,Pune Distribution Center,Road,Schneider,850.0,997.25,991.83,5,141.83,-5.42,High Overspend
+1190,2026-06-19,LANE-007,Chennai Logistics Park,Bangalore Warehouse,Road,Xpo Logistics,950.0,1030.73,1085.85,4,135.85,55.12,High Overspend
+1191,2026-06-20,LANE-001,Mundra Port,Rotterdam Port,Ocean,Cma Cgm,2800.0,3033.27,3099.53,32,299.53,66.26,High Overspend
+1192,2026-06-20,LANE-002,Cochin Port,Hamburg Port,Ocean,Evergreen,2600.0,2473.63,2683.5,32,83.5,209.87,Within Tolerance
+1193,2026-06-20,LANE-003,Chennai Port,Port of Singapore,Ocean,Maersk,1100.0,1040.33,1150.39,28,50.39,110.06,Within Tolerance
+1194,2026-06-20,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Dhl Aviation,6500.0,6402.13,6780.32,2,280.32,378.19,Within Tolerance
+1195,2026-06-20,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Atlas Air,4800.0,4314.87,4316.94,3,-483.06,2.07,Under Contract
+1196,2026-06-20,LANE-006,Nhava Sheva Hub,Pune Distribution Center,Road,Schneider,850.0,736.14,822.24,2,-27.76,86.1,Under Contract
+1197,2026-06-20,LANE-007,Chennai Logistics Park,Bangalore Warehouse,Road,Xpo Logistics,950.0,814.29,900.3,5,-49.7,86.01,Under Contract
+1198,2026-06-21,LANE-001,Mundra Port,Rotterdam Port,Ocean,Cma Cgm,2800.0,2628.92,2739.63,16,-60.37,110.71,Under Contract
+1199,2026-06-21,LANE-002,Cochin Port,Hamburg Port,Ocean,Evergreen,2600.0,3039.01,3038.4,24,438.4,-0.61,High Overspend
+1200,2026-06-21,LANE-003,Chennai Port,Port of Singapore,Ocean,Evergreen,1100.0,1032.18,1139.25,25,39.25,107.07,Within Tolerance
+1201,2026-06-21,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Fedex Express,6500.0,5616.48,6197.14,2,-302.86,580.66,Under Contract
+1202,2026-06-21,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Lufthansa Cargo,4800.0,5568.61,5364.2,3,564.2,-204.41,High Overspend
+1203,2026-06-21,LANE-006,Nhava Sheva Hub,Pune Distribution Center,Road,Jb Hunt,850.0,755.43,790.22,6,-59.78,34.79,Under Contract
+1204,2026-06-21,LANE-007,Chennai Logistics Park,Bangalore Warehouse,Road,Old Dominion,950.0,1126.05,1250.77,4,300.77,124.72,High Overspend
+1205,2026-06-22,LANE-001,Mundra Port,Rotterdam Port,Ocean,Cma Cgm,2800.0,2654.48,2761.83,31,-38.17,107.35,Under Contract
+1206,2026-06-22,LANE-002,Cochin Port,Hamburg Port,Ocean,Evergreen,2600.0,3124.75,3381.92,18,781.92,257.17,High Overspend
+1207,2026-06-22,LANE-003,Chennai Port,Port of Singapore,Ocean,Cosco,1100.0,1289.82,1413.72,22,313.72,123.9,High Overspend
+1208,2026-06-22,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Fedex Express,6500.0,7478.89,7339.03,3,839.03,-139.86,High Overspend
+1209,2026-06-22,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Qatar Airways Cargo,4800.0,4550.73,4662.22,3,-137.78,111.49,Under Contract
+1210,2026-06-22,LANE-006,Nhava Sheva Hub,Pune Distribution Center,Road,Jb Hunt,850.0,792.29,830.44,6,-19.56,38.15,Under Contract
+1211,2026-06-22,LANE-007,Chennai Logistics Park,Bangalore Warehouse,Road,Old Dominion,950.0,1180.71,1148.61,4,198.61,-32.1,High Overspend
+1212,2026-06-23,LANE-001,Mundra Port,Rotterdam Port,Ocean,Cma Cgm,2800.0,2473.17,2723.59,28,-76.41,250.42,Under Contract
+1213,2026-06-23,LANE-002,Cochin Port,Hamburg Port,Ocean,Ocean Network Express,2600.0,2409.85,2618.66,21,18.66,208.81,Within Tolerance
+1214,2026-06-23,LANE-003,Chennai Port,Port of Singapore,Ocean,Evergreen,1100.0,1226.06,1346.72,24,246.72,120.66,High Overspend
+1215,2026-06-23,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Dhl Aviation,6500.0,7776.58,8645.21,1,2145.21,868.63,High Overspend
+1216,2026-06-23,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Atlas Air,4800.0,5678.97,6079.29,1,1279.29,400.32,High Overspend
+1217,2026-06-23,LANE-006,Nhava Sheva Hub,Pune Distribution Center,Road,Jb Hunt,850.0,786.17,779.28,6,-70.72,-6.89,Under Contract
+1218,2026-06-23,LANE-007,Chennai Logistics Park,Bangalore Warehouse,Road,Knight Transportation,950.0,1055.43,1177.38,4,227.38,121.95,High Overspend
+1219,2026-06-24,LANE-001,Mundra Port,Rotterdam Port,Ocean,Maersk,2800.0,2557.98,2696.45,22,-103.55,138.47,Under Contract
+1220,2026-06-24,LANE-002,Cochin Port,Hamburg Port,Ocean,Hapag-Lloyd,2600.0,2730.48,2666.12,23,66.12,-64.36,Within Tolerance
+1221,2026-06-24,LANE-003,Chennai Port,Port of Singapore,Ocean,Maersk,1100.0,1056.17,1031.11,28,-68.89,-25.06,Under Contract
+1222,2026-06-24,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Dhl Aviation,6500.0,6997.88,7722.15,3,1222.15,724.27,High Overspend
+1223,2026-06-24,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Atlas Air,4800.0,5125.83,5074.61,3,274.61,-51.22,High Overspend
+1224,2026-06-24,LANE-006,Nhava Sheva Hub,Pune Distribution Center,Road,Schneider,850.0,1058.84,1110.8,6,260.8,51.96,High Overspend
+1225,2026-06-24,LANE-007,Chennai Logistics Park,Bangalore Warehouse,Road,Knight Transportation,950.0,937.88,924.92,3,-25.08,-12.96,Under Contract
+1226,2026-06-25,LANE-001,Mundra Port,Rotterdam Port,Ocean,Msc,2800.0,3414.27,3292.58,24,492.58,-121.69,High Overspend
+1227,2026-06-25,LANE-002,Cochin Port,Hamburg Port,Ocean,Hapag-Lloyd,2600.0,3046.73,3309.87,20,709.87,263.14,High Overspend
+1228,2026-06-25,LANE-003,Chennai Port,Port of Singapore,Ocean,Cosco,1100.0,1045.41,1059.08,20,-40.92,13.67,Under Contract
+1229,2026-06-25,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Emirates Skycargo,6500.0,6088.28,5844.1,1,-655.9,-244.18,Under Contract
+1230,2026-06-25,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Atlas Air,4800.0,4796.82,4723.96,1,-76.04,-72.86,Under Contract
+1231,2026-06-25,LANE-006,Nhava Sheva Hub,Pune Distribution Center,Road,Schneider,850.0,1007.95,1106.66,3,256.66,98.71,High Overspend
+1232,2026-06-25,LANE-007,Chennai Logistics Park,Bangalore Warehouse,Road,Old Dominion,950.0,1050.65,1174.72,6,224.72,124.07,High Overspend
+1233,2026-06-26,LANE-001,Mundra Port,Rotterdam Port,Ocean,Maersk,2800.0,2435.06,2359.88,14,-440.12,-75.18,Under Contract
+1234,2026-06-26,LANE-002,Cochin Port,Hamburg Port,Ocean,Ocean Network Express,2600.0,3123.47,3131.13,19,531.13,7.66,High Overspend
+1235,2026-06-26,LANE-003,Chennai Port,Port of Singapore,Ocean,Evergreen,1100.0,1230.83,1251.61,23,151.61,20.78,High Overspend
+1236,2026-06-26,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Fedex Express,6500.0,8097.67,8338.2,2,1838.2,240.53,High Overspend
+1237,2026-06-26,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Lufthansa Cargo,4800.0,5074.32,5202.27,3,402.27,127.95,High Overspend
+1238,2026-06-26,LANE-006,Nhava Sheva Hub,Pune Distribution Center,Road,Swift Transportation,850.0,807.35,869.6,4,19.6,62.25,Within Tolerance
+1239,2026-06-26,LANE-007,Chennai Logistics Park,Bangalore Warehouse,Road,Old Dominion,950.0,942.28,909.58,3,-40.42,-32.7,Under Contract
+1240,2026-06-27,LANE-001,Mundra Port,Rotterdam Port,Ocean,Msc,2800.0,2850.39,2779.84,28,-20.16,-70.55,Under Contract
+1241,2026-06-27,LANE-002,Cochin Port,Hamburg Port,Ocean,Evergreen,2600.0,3052.24,3101.97,27,501.97,49.73,High Overspend
+1242,2026-06-27,LANE-003,Chennai Port,Port of Singapore,Ocean,Evergreen,1100.0,1293.68,1323.43,26,223.43,29.75,High Overspend
+1243,2026-06-27,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Fedex Express,6500.0,8052.95,7718.3,2,1218.3,-334.65,High Overspend
+1244,2026-06-27,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Atlas Air,4800.0,5652.3,6061.92,2,1261.92,409.62,High Overspend
+1245,2026-06-27,LANE-006,Nhava Sheva Hub,Pune Distribution Center,Road,Schneider,850.0,832.11,857.08,2,7.08,24.97,Within Tolerance
+1246,2026-06-27,LANE-007,Chennai Logistics Park,Bangalore Warehouse,Road,Old Dominion,950.0,823.83,847.04,4,-102.96,23.21,Under Contract
+1247,2026-06-28,LANE-001,Mundra Port,Rotterdam Port,Ocean,Msc,2800.0,3174.81,3136.23,25,336.23,-38.58,High Overspend
+1248,2026-06-28,LANE-002,Cochin Port,Hamburg Port,Ocean,Evergreen,2600.0,2869.3,2925.67,15,325.67,56.37,High Overspend
+1249,2026-06-28,LANE-003,Chennai Port,Port of Singapore,Ocean,Evergreen,1100.0,1371.04,1321.42,15,221.42,-49.62,High Overspend
+1250,2026-06-28,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Dhl Aviation,6500.0,6345.97,6061.21,2,-438.79,-284.76,Under Contract
+1251,2026-06-28,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Qatar Airways Cargo,4800.0,4419.16,4845.24,2,45.24,426.08,Within Tolerance
+1252,2026-06-28,LANE-006,Nhava Sheva Hub,Pune Distribution Center,Road,Schneider,850.0,854.69,823.85,5,-26.15,-30.84,Under Contract
+1253,2026-06-28,LANE-007,Chennai Logistics Park,Bangalore Warehouse,Road,Old Dominion,950.0,995.53,991.18,4,41.18,-4.35,Within Tolerance
+1254,2026-06-29,LANE-001,Mundra Port,Rotterdam Port,Ocean,Msc,2800.0,2727.14,2849.35,27,49.35,122.21,Within Tolerance
+1255,2026-06-29,LANE-002,Cochin Port,Hamburg Port,Ocean,Ocean Network Express,2600.0,2343.95,2394.98,24,-205.02,51.03,Under Contract
+1256,2026-06-29,LANE-003,Chennai Port,Port of Singapore,Ocean,Cosco,1100.0,1236.49,1315.65,21,215.65,79.16,High Overspend
+1257,2026-06-29,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Fedex Express,6500.0,7446.29,7889.23,3,1389.23,442.94,High Overspend
+1258,2026-06-29,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Atlas Air,4800.0,5744.06,5492.68,1,692.68,-251.38,High Overspend
+1259,2026-06-29,LANE-006,Nhava Sheva Hub,Pune Distribution Center,Road,Swift Transportation,850.0,806.85,798.41,5,-51.59,-8.44,Under Contract
+1260,2026-06-29,LANE-007,Chennai Logistics Park,Bangalore Warehouse,Road,Old Dominion,950.0,1166.05,1302.12,2,352.12,136.07,High Overspend

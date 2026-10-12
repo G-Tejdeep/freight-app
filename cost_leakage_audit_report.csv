@@ -1,0 +1,249 @@
+transaction_id,transaction_date,lane_id,origin_hub,destination_hub,mode_of_transport,carrier_name,contracted_base_rate_usd,market_spot_rate_usd,actual_rate_paid_usd,transit_days,variance_vs_contract_usd,variance_vs_spot_usd,cost_performance_status
+809,2026-04-26,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Fedex Express,6500.0,8108.09,8748.53,2,2248.53,640.44,High Overspend
+1124,2026-06-10,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Fedex Express,6500.0,7841.27,8720.07,2,2220.07,878.8,High Overspend
+1075,2026-06-03,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Emirates Skycargo,6500.0,8068.4,8676.72,3,2176.72,608.32,High Overspend
+844,2026-05-01,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Emirates Skycargo,6500.0,7889.2,8663.05,3,2163.05,773.85,High Overspend
+1215,2026-06-23,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Dhl Aviation,6500.0,7776.58,8645.21,1,2145.21,868.63,High Overspend
+571,2026-03-23,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Dhl Aviation,6500.0,8030.14,8538.85,2,2038.85,508.71,High Overspend
+879,2026-05-06,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Fedex Express,6500.0,7947.63,8537.1,2,2037.1,589.47,High Overspend
+389,2026-02-25,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Emirates Skycargo,6500.0,8010.36,8404.81,1,1904.81,394.45,High Overspend
+739,2026-04-16,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Dhl Aviation,6500.0,7553.52,8375.62,1,1875.62,822.1,High Overspend
+1236,2026-06-26,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Fedex Express,6500.0,8097.67,8338.2,2,1838.2,240.53,High Overspend
+32,2026-01-05,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Fedex Express,6500.0,7454.06,8333.51,1,1833.51,879.45,High Overspend
+116,2026-01-17,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Emirates Skycargo,6500.0,7791.39,8310.37,1,1810.37,518.98,High Overspend
+18,2026-01-03,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Dhl Aviation,6500.0,8088.54,8267.71,2,1767.71,179.17,High Overspend
+460,2026-03-07,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Atlas Air,4800.0,5964.79,6518.26,1,1718.26,553.47,High Overspend
+515,2026-03-15,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Dhl Aviation,6500.0,7342.36,8191.77,2,1691.77,849.41,High Overspend
+641,2026-04-02,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Dhl Aviation,6500.0,7500.2,8188.44,2,1688.44,688.24,High Overspend
+761,2026-04-19,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Lufthansa Cargo,4800.0,5998.17,6476.0,3,1676.0,477.83,High Overspend
+4,2026-01-01,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Emirates Skycargo,6500.0,8033.41,8170.36,3,1670.36,136.95,High Overspend
+5,2026-01-01,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Lufthansa Cargo,4800.0,5968.45,6454.45,2,1654.45,486.0,High Overspend
+1019,2026-05-26,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Dhl Aviation,6500.0,7904.46,8121.72,1,1621.72,217.26,High Overspend
+718,2026-04-13,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Emirates Skycargo,6500.0,7990.21,8119.26,2,1619.26,129.05,High Overspend
+971,2026-05-19,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Atlas Air,4800.0,5901.47,6396.61,2,1596.61,495.14,High Overspend
+509,2026-03-14,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Atlas Air,4800.0,5723.69,6382.83,2,1582.83,659.14,High Overspend
+774,2026-04-21,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Emirates Skycargo,6500.0,7809.0,8068.44,3,1568.44,259.44,High Overspend
+915,2026-05-11,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Lufthansa Cargo,4800.0,5876.54,6340.97,3,1540.97,464.43,High Overspend
+1131,2026-06-11,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Fedex Express,6500.0,7566.47,8031.92,1,1531.92,465.45,High Overspend
+782,2026-04-22,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Atlas Air,4800.0,5742.42,6325.25,2,1525.25,582.83,High Overspend
+25,2026-01-04,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Fedex Express,6500.0,7735.4,8015.28,2,1515.28,279.88,High Overspend
+928,2026-05-13,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Fedex Express,6500.0,7431.39,8014.34,2,1514.34,582.95,High Overspend
+1012,2026-05-25,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Fedex Express,6500.0,7605.58,7998.71,1,1498.71,393.13,High Overspend
+711,2026-04-12,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Emirates Skycargo,6500.0,7212.66,7994.99,2,1494.99,782.33,High Overspend
+299,2026-02-12,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Lufthansa Cargo,4800.0,5739.31,6283.61,2,1483.61,544.3,High Overspend
+949,2026-05-16,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Emirates Skycargo,6500.0,7856.49,7957.47,3,1457.47,100.98,High Overspend
+424,2026-03-02,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Dhl Aviation,6500.0,7470.81,7923.54,3,1423.54,452.73,High Overspend
+186,2026-01-27,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Dhl Aviation,6500.0,8009.83,7923.44,1,1423.44,-86.39,High Overspend
+1257,2026-06-29,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Fedex Express,6500.0,7446.29,7889.23,3,1389.23,442.94,High Overspend
+676,2026-04-07,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Dhl Aviation,6500.0,7123.16,7888.9,1,1388.9,765.74,High Overspend
+131,2026-01-19,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Qatar Airways Cargo,4800.0,5552.28,6188.49,2,1388.49,636.21,High Overspend
+789,2026-04-23,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Lufthansa Cargo,4800.0,5542.92,6170.94,2,1370.94,628.02,High Overspend
+1013,2026-05-25,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Lufthansa Cargo,4800.0,5698.73,6163.84,3,1363.84,465.11,High Overspend
+908,2026-05-10,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Atlas Air,4800.0,5972.6,6129.74,1,1329.74,157.14,High Overspend
+110,2026-01-16,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Qatar Airways Cargo,4800.0,5898.14,6124.5,1,1324.5,226.36,High Overspend
+992,2026-05-22,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Atlas Air,4800.0,5677.67,6117.31,1,1317.31,439.64,High Overspend
+901,2026-05-09,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Atlas Air,4800.0,5805.75,6113.87,2,1313.87,308.12,High Overspend
+193,2026-01-28,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Fedex Express,6500.0,7041.31,7809.99,2,1309.99,768.68,High Overspend
+1027,2026-05-27,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Qatar Airways Cargo,4800.0,5943.15,6099.21,3,1299.21,156.06,High Overspend
+1125,2026-06-10,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Lufthansa Cargo,4800.0,5544.72,6085.02,1,1285.02,540.3,High Overspend
+887,2026-05-07,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Qatar Airways Cargo,4800.0,5697.02,6084.42,2,1284.42,387.4,High Overspend
+824,2026-04-28,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Lufthansa Cargo,4800.0,5969.97,6081.8,3,1281.8,111.83,High Overspend
+1216,2026-06-23,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Atlas Air,4800.0,5678.97,6079.29,1,1279.29,400.32,High Overspend
+1244,2026-06-27,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Atlas Air,4800.0,5652.3,6061.92,2,1261.92,409.62,High Overspend
+263,2026-02-07,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Emirates Skycargo,6500.0,7895.64,7754.99,3,1254.99,-140.65,High Overspend
+60,2026-01-09,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Dhl Aviation,6500.0,7504.33,7731.7,3,1231.7,227.37,High Overspend
+1222,2026-06-24,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Dhl Aviation,6500.0,6997.88,7722.15,3,1222.15,724.27,High Overspend
+397,2026-02-26,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Atlas Air,4800.0,5464.2,6019.55,2,1219.55,555.35,High Overspend
+1243,2026-06-27,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Fedex Express,6500.0,8052.95,7718.3,2,1218.3,-334.65,High Overspend
+698,2026-04-10,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Qatar Airways Cargo,4800.0,5395.5,6004.53,1,1204.53,609.03,High Overspend
+488,2026-03-11,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Qatar Airways Cargo,4800.0,5610.34,5998.77,1,1198.77,388.43,High Overspend
+103,2026-01-15,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Atlas Air,4800.0,5762.42,5996.24,3,1196.24,233.82,High Overspend
+810,2026-04-26,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Qatar Airways Cargo,4800.0,5440.84,5995.84,1,1195.84,555.0,High Overspend
+82,2026-01-12,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Qatar Airways Cargo,4800.0,5492.67,5982.03,3,1182.03,489.36,High Overspend
+333,2026-02-17,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Dhl Aviation,6500.0,7707.15,7681.2,3,1181.2,-25.95,High Overspend
+340,2026-02-18,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Emirates Skycargo,6500.0,7299.31,7673.02,3,1173.02,373.71,High Overspend
+130,2026-01-19,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Emirates Skycargo,6500.0,7518.89,7664.95,1,1164.95,146.06,High Overspend
+95,2026-01-14,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Fedex Express,6500.0,7014.09,7663.48,3,1163.48,649.39,High Overspend
+445,2026-03-05,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Emirates Skycargo,6500.0,7125.36,7660.22,1,1160.22,534.86,High Overspend
+494,2026-03-12,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Fedex Express,6500.0,7547.69,7638.6,3,1138.6,90.91,High Overspend
+166,2026-01-24,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Qatar Airways Cargo,4800.0,5888.72,5925.46,3,1125.46,36.74,High Overspend
+746,2026-04-17,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Dhl Aviation,6500.0,7876.23,7607.0,3,1107.0,-269.23,High Overspend
+1061,2026-06-01,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Emirates Skycargo,6500.0,6975.77,7576.6,2,1076.6,600.83,High Overspend
+663,2026-04-05,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Qatar Airways Cargo,4800.0,5445.7,5871.94,1,1071.94,426.24,High Overspend
+662,2026-04-05,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Emirates Skycargo,6500.0,7024.2,7571.16,1,1071.16,546.96,High Overspend
+376,2026-02-23,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Qatar Airways Cargo,4800.0,5406.25,5859.76,3,1059.76,453.51,High Overspend
+516,2026-03-15,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Atlas Air,4800.0,5457.55,5847.95,2,1047.95,390.4,High Overspend
+697,2026-04-10,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Dhl Aviation,6500.0,7212.17,7540.04,1,1040.04,327.87,High Overspend
+858,2026-05-03,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Dhl Aviation,6500.0,7409.28,7526.44,2,1026.44,117.16,High Overspend
+823,2026-04-28,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Dhl Aviation,6500.0,7231.18,7526.02,2,1026.02,294.84,High Overspend
+991,2026-05-22,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Fedex Express,6500.0,7803.13,7524.82,1,1024.82,-278.31,High Overspend
+1054,2026-05-31,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Fedex Express,6500.0,7476.95,7512.44,3,1012.44,35.49,High Overspend
+222,2026-02-01,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Atlas Air,4800.0,5423.57,5809.27,3,1009.27,385.7,High Overspend
+802,2026-04-25,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Dhl Aviation,6500.0,7156.22,7500.94,2,1000.94,344.72,High Overspend
+684,2026-04-08,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Atlas Air,4800.0,5396.35,5797.31,2,997.31,400.96,High Overspend
+155,2026-01-23,LANE-001,Mundra Port,Rotterdam Port,Ocean,Msc,2800.0,3437.18,3796.88,32,996.88,359.7,High Overspend
+102,2026-01-15,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Emirates Skycargo,6500.0,7698.07,7492.67,3,992.67,-205.4,High Overspend
+124,2026-01-18,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Lufthansa Cargo,4800.0,5717.16,5789.62,1,989.62,72.46,High Overspend
+172,2026-01-25,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Dhl Aviation,6500.0,6901.43,7486.43,1,986.43,585.0,High Overspend
+593,2026-03-26,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Lufthansa Cargo,4800.0,5289.5,5786.31,3,986.31,496.81,High Overspend
+144,2026-01-21,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Dhl Aviation,6500.0,7141.62,7482.57,2,982.57,340.95,High Overspend
+656,2026-04-04,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Lufthansa Cargo,4800.0,5838.53,5781.98,1,981.98,-56.55,High Overspend
+740,2026-04-16,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Lufthansa Cargo,4800.0,5470.94,5780.13,1,980.13,309.19,High Overspend
+529,2026-03-17,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Fedex Express,6500.0,7748.99,7472.3,2,972.3,-276.69,High Overspend
+655,2026-04-04,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Dhl Aviation,6500.0,7184.43,7468.99,1,968.99,284.56,High Overspend
+75,2026-01-11,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Qatar Airways Cargo,4800.0,5312.4,5757.79,1,957.79,445.39,High Overspend
+1041,2026-05-29,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Lufthansa Cargo,4800.0,5323.24,5753.84,2,953.84,430.6,High Overspend
+264,2026-02-07,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Qatar Airways Cargo,4800.0,5852.86,5750.95,3,950.95,-101.91,High Overspend
+816,2026-04-27,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Fedex Express,6500.0,7579.74,7443.81,3,943.81,-135.93,High Overspend
+834,2026-04-30,LANE-001,Mundra Port,Rotterdam Port,Ocean,Msc,2800.0,3349.92,3736.63,16,936.63,386.71,High Overspend
+285,2026-02-10,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Qatar Airways Cargo,4800.0,5837.63,5732.36,2,932.36,-105.27,High Overspend
+995,2026-05-23,LANE-001,Mundra Port,Rotterdam Port,Ocean,Msc,2800.0,3489.84,3729.9,28,929.9,240.06,High Overspend
+569,2026-03-23,LANE-002,Cochin Port,Hamburg Port,Ocean,Evergreen,2600.0,3234.7,3524.44,14,924.44,289.74,High Overspend
+914,2026-05-11,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Dhl Aviation,6500.0,7641.38,7417.93,3,917.93,-223.45,High Overspend
+940,2026-05-15,LANE-002,Cochin Port,Hamburg Port,Ocean,Ocean Network Express,2600.0,3241.42,3513.63,27,913.63,272.21,High Overspend
+114,2026-01-17,LANE-002,Cochin Port,Hamburg Port,Ocean,Ocean Network Express,2600.0,3209.44,3498.5,23,898.5,289.06,High Overspend
+907,2026-05-10,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Emirates Skycargo,6500.0,7392.35,7396.29,2,896.29,3.94,High Overspend
+463,2026-03-08,LANE-001,Mundra Port,Rotterdam Port,Ocean,Maersk,2800.0,3378.69,3682.28,24,882.28,303.59,High Overspend
+912,2026-05-11,LANE-002,Cochin Port,Hamburg Port,Ocean,Ocean Network Express,2600.0,3231.17,3479.84,25,879.84,248.67,High Overspend
+214,2026-01-31,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Dhl Aviation,6500.0,6815.18,7364.53,3,864.53,549.35,High Overspend
+1016,2026-05-26,LANE-001,Mundra Port,Rotterdam Port,Ocean,Cma Cgm,2800.0,3494.5,3648.74,16,848.74,154.24,High Overspend
+772,2026-04-21,LANE-002,Cochin Port,Hamburg Port,Ocean,Evergreen,2600.0,3178.58,3447.92,29,847.92,269.34,High Overspend
+554,2026-03-21,LANE-001,Mundra Port,Rotterdam Port,Ocean,Maersk,2800.0,3326.5,3646.22,24,846.22,319.72,High Overspend
+501,2026-03-13,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Dhl Aviation,6500.0,7147.15,7342.98,2,842.98,195.83,High Overspend
+1208,2026-06-22,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Fedex Express,6500.0,7478.89,7339.03,3,839.03,-139.86,High Overspend
+393,2026-02-26,LANE-001,Mundra Port,Rotterdam Port,Ocean,Msc,2800.0,3359.35,3636.0,32,836.0,276.65,High Overspend
+634,2026-04-01,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Fedex Express,6500.0,6581.69,7331.77,2,831.77,750.08,High Overspend
+257,2026-02-06,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Atlas Air,4800.0,5797.64,5631.67,3,831.67,-165.97,High Overspend
+149,2026-01-22,LANE-002,Cochin Port,Hamburg Port,Ocean,Hapag-Lloyd,2600.0,3122.39,3430.98,18,830.98,308.59,High Overspend
+530,2026-03-17,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Lufthansa Cargo,4800.0,5712.84,5629.87,1,829.87,-82.97,High Overspend
+467,2026-03-08,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Atlas Air,4800.0,5276.33,5629.52,3,829.52,353.19,High Overspend
+845,2026-05-01,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Qatar Airways Cargo,4800.0,5583.3,5624.28,3,824.28,40.98,High Overspend
+1097,2026-06-06,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Atlas Air,4800.0,5670.44,5622.89,2,822.89,-47.55,High Overspend
+1139,2026-06-12,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Qatar Airways Cargo,4800.0,5146.24,5622.61,2,822.61,476.37,High Overspend
+275,2026-02-09,LANE-002,Cochin Port,Hamburg Port,Ocean,Hapag-Lloyd,2600.0,3179.58,3421.61,28,821.61,242.03,High Overspend
+506,2026-03-14,LANE-002,Cochin Port,Hamburg Port,Ocean,Evergreen,2600.0,3076.8,3417.97,22,817.97,341.17,High Overspend
+165,2026-01-24,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Fedex Express,6500.0,6999.66,7313.95,2,813.95,314.29,High Overspend
+905,2026-05-10,LANE-002,Cochin Port,Hamburg Port,Ocean,Hapag-Lloyd,2600.0,3141.4,3412.5,27,812.5,271.1,High Overspend
+148,2026-01-22,LANE-001,Mundra Port,Rotterdam Port,Ocean,Maersk,2800.0,3341.28,3609.99,32,809.99,268.71,High Overspend
+694,2026-04-10,LANE-001,Mundra Port,Rotterdam Port,Ocean,Cma Cgm,2800.0,3388.94,3602.68,28,802.68,213.74,High Overspend
+1163,2026-06-16,LANE-001,Mundra Port,Rotterdam Port,Ocean,Cma Cgm,2800.0,3485.95,3602.57,16,802.57,116.62,High Overspend
+1090,2026-06-05,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Lufthansa Cargo,4800.0,5011.71,5598.45,2,798.45,586.74,High Overspend
+361,2026-02-21,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Emirates Skycargo,6500.0,6530.17,7298.35,1,798.35,768.18,High Overspend
+396,2026-02-26,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Fedex Express,6500.0,6959.93,7294.27,1,794.27,334.34,High Overspend
+607,2026-03-28,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Atlas Air,4800.0,5010.52,5590.68,2,790.68,580.16,High Overspend
+208,2026-01-30,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Qatar Airways Cargo,4800.0,5799.49,5589.43,1,789.43,-210.06,High Overspend
+46,2026-01-07,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Fedex Express,6500.0,6885.02,7284.38,1,784.38,399.36,High Overspend
+1171,2026-06-17,LANE-002,Cochin Port,Hamburg Port,Ocean,Ocean Network Express,2600.0,3170.74,3383.32,30,783.32,212.58,High Overspend
+1206,2026-06-22,LANE-002,Cochin Port,Hamburg Port,Ocean,Evergreen,2600.0,3124.75,3381.92,18,781.92,257.17,High Overspend
+431,2026-03-03,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Emirates Skycargo,6500.0,7304.37,7281.16,1,781.16,-23.21,High Overspend
+135,2026-01-20,LANE-002,Cochin Port,Hamburg Port,Ocean,Hapag-Lloyd,2600.0,3046.54,3380.69,27,780.69,334.15,High Overspend
+807,2026-04-26,LANE-002,Cochin Port,Hamburg Port,Ocean,Hapag-Lloyd,2600.0,3181.19,3377.32,14,777.32,196.13,High Overspend
+733,2026-04-15,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Lufthansa Cargo,4800.0,5429.49,5573.31,2,773.31,143.82,High Overspend
+970,2026-05-19,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Dhl Aviation,6500.0,6902.19,7259.95,1,759.95,357.76,High Overspend
+88,2026-01-13,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Emirates Skycargo,6500.0,7517.01,7258.75,3,758.75,-258.26,High Overspend
+443,2026-03-05,LANE-002,Cochin Port,Hamburg Port,Ocean,Hapag-Lloyd,2600.0,3243.27,3353.42,29,753.42,110.15,High Overspend
+253,2026-02-06,LANE-001,Mundra Port,Rotterdam Port,Ocean,Cma Cgm,2800.0,3467.18,3552.6,31,752.6,85.42,High Overspend
+751,2026-04-18,LANE-002,Cochin Port,Hamburg Port,Ocean,Evergreen,2600.0,3104.74,3346.41,30,746.41,241.67,High Overspend
+551,2026-03-20,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Qatar Airways Cargo,4800.0,5272.67,5544.73,1,744.73,272.06,High Overspend
+436,2026-03-04,LANE-002,Cochin Port,Hamburg Port,Ocean,Hapag-Lloyd,2600.0,3126.76,3341.39,15,741.39,214.63,High Overspend
+249,2026-02-05,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Fedex Express,6500.0,7536.17,7236.09,1,736.09,-300.08,High Overspend
+404,2026-02-27,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Lufthansa Cargo,4800.0,5590.49,5531.85,3,731.85,-58.64,High Overspend
+582,2026-03-25,LANE-001,Mundra Port,Rotterdam Port,Ocean,Maersk,2800.0,3242.68,3529.09,21,729.09,286.41,High Overspend
+726,2026-04-14,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Qatar Airways Cargo,4800.0,5010.47,5529.01,1,729.01,518.54,High Overspend
+375,2026-02-23,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Dhl Aviation,6500.0,7256.43,7227.17,3,727.17,-29.26,High Overspend
+1173,2026-06-17,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Fedex Express,6500.0,7533.72,7226.83,3,726.83,-306.89,High Overspend
+695,2026-04-10,LANE-002,Cochin Port,Hamburg Port,Ocean,Hapag-Lloyd,2600.0,3076.76,3322.68,17,722.68,245.92,High Overspend
+753,2026-04-18,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Dhl Aviation,6500.0,6497.11,7217.97,2,717.97,720.86,High Overspend
+1114,2026-06-09,LANE-001,Mundra Port,Rotterdam Port,Ocean,Maersk,2800.0,3487.18,3513.22,19,713.22,26.04,High Overspend
+358,2026-02-21,LANE-001,Mundra Port,Rotterdam Port,Ocean,Cma Cgm,2800.0,3347.13,3512.08,27,712.08,164.95,High Overspend
+635,2026-04-01,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Lufthansa Cargo,4800.0,5081.66,5510.02,2,710.02,428.36,High Overspend
+1227,2026-06-25,LANE-002,Cochin Port,Hamburg Port,Ocean,Hapag-Lloyd,2600.0,3046.73,3309.87,20,709.87,263.14,High Overspend
+411,2026-02-28,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Qatar Airways Cargo,4800.0,5551.49,5507.38,3,707.38,-44.11,High Overspend
+1076,2026-06-03,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Qatar Airways Cargo,4800.0,4925.12,5506.5,2,706.5,581.38,High Overspend
+473,2026-03-09,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Dhl Aviation,6500.0,6583.36,7205.08,2,705.08,621.72,High Overspend
+439,2026-03-04,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Atlas Air,4800.0,4964.69,5503.4,1,703.4,538.71,High Overspend
+1051,2026-05-31,LANE-001,Mundra Port,Rotterdam Port,Ocean,Maersk,2800.0,3430.36,3501.63,16,701.63,71.27,High Overspend
+628,2026-03-31,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Lufthansa Cargo,4800.0,5194.65,5501.33,3,701.33,306.68,High Overspend
+600,2026-03-27,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Atlas Air,4800.0,5042.5,5500.16,2,700.16,457.66,High Overspend
+523,2026-03-16,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Atlas Air,4800.0,5223.91,5494.71,1,694.71,270.8,High Overspend
+1258,2026-06-29,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Atlas Air,4800.0,5744.06,5492.68,1,692.68,-251.38,High Overspend
+1122,2026-06-10,LANE-002,Cochin Port,Hamburg Port,Ocean,Hapag-Lloyd,2600.0,2976.23,3291.59,25,691.59,315.36,High Overspend
+817,2026-04-27,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Qatar Airways Cargo,4800.0,5412.64,5490.22,1,690.22,77.58,High Overspend
+597,2026-03-27,LANE-002,Cochin Port,Hamburg Port,Ocean,Evergreen,2600.0,3230.1,3288.69,27,688.69,58.59,High Overspend
+673,2026-04-07,LANE-001,Mundra Port,Rotterdam Port,Ocean,Cma Cgm,2800.0,3181.11,3487.33,14,687.33,306.22,High Overspend
+827,2026-04-29,LANE-001,Mundra Port,Rotterdam Port,Ocean,Cma Cgm,2800.0,3341.2,3484.66,22,684.66,143.46,High Overspend
+613,2026-03-29,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Emirates Skycargo,6500.0,7013.18,7181.05,3,681.05,167.87,High Overspend
+260,2026-02-07,LANE-001,Mundra Port,Rotterdam Port,Ocean,Maersk,2800.0,3160.67,3480.01,21,680.01,319.34,High Overspend
+898,2026-05-09,LANE-002,Cochin Port,Hamburg Port,Ocean,Hapag-Lloyd,2600.0,3139.26,3274.6,20,674.6,135.34,High Overspend
+40,2026-01-06,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Lufthansa Cargo,4800.0,5469.03,5470.62,1,670.62,1.59,High Overspend
+403,2026-02-27,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Emirates Skycargo,6500.0,6517.41,7168.64,1,668.64,651.23,High Overspend
+151,2026-01-22,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Dhl Aviation,6500.0,6831.01,7166.9,3,666.9,335.89,High Overspend
+820,2026-04-28,LANE-001,Mundra Port,Rotterdam Port,Ocean,Maersk,2800.0,3345.33,3465.09,16,665.09,119.76,High Overspend
+481,2026-03-10,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Qatar Airways Cargo,4800.0,5741.69,5462.04,1,662.04,-279.65,High Overspend
+835,2026-04-30,LANE-002,Cochin Port,Hamburg Port,Ocean,Ocean Network Express,2600.0,3124.04,3261.58,27,661.58,137.54,High Overspend
+1038,2026-05-29,LANE-002,Cochin Port,Hamburg Port,Ocean,Evergreen,2600.0,3189.3,3258.53,29,658.53,69.23,High Overspend
+988,2026-05-22,LANE-001,Mundra Port,Rotterdam Port,Ocean,Msc,2800.0,3256.23,3457.47,15,657.47,201.24,High Overspend
+660,2026-04-05,LANE-002,Cochin Port,Hamburg Port,Ocean,Hapag-Lloyd,2600.0,2940.61,3254.69,29,654.69,314.08,High Overspend
+156,2026-01-23,LANE-002,Cochin Port,Hamburg Port,Ocean,Ocean Network Express,2600.0,3199.44,3253.71,25,653.71,54.27,High Overspend
+51,2026-01-08,LANE-002,Cochin Port,Hamburg Port,Ocean,Ocean Network Express,2600.0,3115.95,3251.3,19,651.3,135.35,High Overspend
+450,2026-03-06,LANE-002,Cochin Port,Hamburg Port,Ocean,Evergreen,2600.0,3215.4,3250.25,15,650.25,34.85,High Overspend
+1135,2026-06-12,LANE-001,Mundra Port,Rotterdam Port,Ocean,Msc,2800.0,3475.97,3448.67,18,648.67,-27.3,High Overspend
+1118,2026-06-09,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Qatar Airways Cargo,4800.0,5288.19,5448.31,3,648.31,160.12,High Overspend
+758,2026-04-19,LANE-002,Cochin Port,Hamburg Port,Ocean,Ocean Network Express,2600.0,2924.96,3248.08,15,648.08,323.12,High Overspend
+519,2026-03-16,LANE-001,Mundra Port,Rotterdam Port,Ocean,Maersk,2800.0,3098.03,3447.88,16,647.88,349.85,High Overspend
+669,2026-04-06,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Emirates Skycargo,6500.0,6424.4,7144.54,3,644.54,720.14,High Overspend
+37,2026-01-06,LANE-002,Cochin Port,Hamburg Port,Ocean,Ocean Network Express,2600.0,3069.85,3237.55,25,637.55,167.7,High Overspend
+207,2026-01-30,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Dhl Aviation,6500.0,6957.85,7136.89,3,636.89,179.04,High Overspend
+830,2026-04-29,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Emirates Skycargo,6500.0,7455.74,7135.01,3,635.01,-320.73,High Overspend
+1086,2026-06-05,LANE-001,Mundra Port,Rotterdam Port,Ocean,Msc,2800.0,3318.7,3429.86,26,629.86,111.16,High Overspend
+470,2026-03-09,LANE-001,Mundra Port,Rotterdam Port,Ocean,Maersk,2800.0,3272.23,3423.11,18,623.11,150.88,High Overspend
+387,2026-02-25,LANE-002,Cochin Port,Hamburg Port,Ocean,Evergreen,2600.0,3247.75,3221.22,29,621.22,-26.53,High Overspend
+935,2026-05-14,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Dhl Aviation,6500.0,7192.08,7119.36,2,619.36,-72.72,High Overspend
+120,2026-01-18,LANE-001,Mundra Port,Rotterdam Port,Ocean,Msc,2800.0,3425.58,3416.0,20,616.0,-9.58,High Overspend
+617,2026-03-30,LANE-001,Mundra Port,Rotterdam Port,Ocean,Maersk,2800.0,3088.23,3407.6,31,607.6,319.37,High Overspend
+159,2026-01-23,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Lufthansa Cargo,4800.0,5342.02,5404.91,3,604.91,62.89,High Overspend
+677,2026-04-07,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Lufthansa Cargo,4800.0,5131.69,5404.54,1,604.54,272.85,High Overspend
+142,2026-01-21,LANE-002,Cochin Port,Hamburg Port,Ocean,Ocean Network Express,2600.0,3213.14,3204.18,24,604.18,-8.96,High Overspend
+837,2026-04-30,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Dhl Aviation,6500.0,7362.01,7101.62,1,601.62,-260.39,High Overspend
+1079,2026-06-04,LANE-001,Mundra Port,Rotterdam Port,Ocean,Cma Cgm,2800.0,3084.97,3401.24,31,601.24,316.27,High Overspend
+606,2026-03-28,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Fedex Express,6500.0,7078.56,7091.65,1,591.65,13.09,High Overspend
+456,2026-03-07,LANE-001,Mundra Port,Rotterdam Port,Ocean,Cma Cgm,2800.0,3456.6,3391.16,18,591.16,-65.44,High Overspend
+708,2026-04-12,LANE-001,Mundra Port,Rotterdam Port,Ocean,Cma Cgm,2800.0,3319.94,3389.14,28,589.14,69.2,High Overspend
+838,2026-04-30,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Qatar Airways Cargo,4800.0,4825.61,5384.7,1,584.7,559.09,High Overspend
+64,2026-01-10,LANE-001,Mundra Port,Rotterdam Port,Ocean,Cma Cgm,2800.0,3053.62,3384.43,32,584.43,330.81,High Overspend
+317,2026-02-15,LANE-002,Cochin Port,Hamburg Port,Ocean,Ocean Network Express,2600.0,3088.54,3181.54,19,581.54,93.0,High Overspend
+550,2026-03-20,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Emirates Skycargo,6500.0,6850.23,7080.25,3,580.25,230.02,High Overspend
+974,2026-05-20,LANE-001,Mundra Port,Rotterdam Port,Ocean,Maersk,2800.0,3415.61,3377.16,24,577.16,-38.45,High Overspend
+93,2026-01-14,LANE-002,Cochin Port,Hamburg Port,Ocean,Hapag-Lloyd,2600.0,3038.52,3171.21,22,571.21,132.69,High Overspend
+984,2026-05-21,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Fedex Express,6500.0,6527.36,7070.48,1,570.48,543.12,High Overspend
+648,2026-04-03,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Fedex Express,6500.0,7164.09,7066.86,1,566.86,-97.23,High Overspend
+1202,2026-06-21,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Lufthansa Cargo,4800.0,5568.61,5364.2,3,564.2,-204.41,High Overspend
+9,2026-01-02,LANE-002,Cochin Port,Hamburg Port,Ocean,Evergreen,2600.0,3138.28,3159.57,18,559.57,21.29,High Overspend
+369,2026-02-22,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Atlas Air,4800.0,5557.33,5359.46,2,559.46,-197.87,High Overspend
+289,2026-02-11,LANE-002,Cochin Port,Hamburg Port,Ocean,Hapag-Lloyd,2600.0,2877.31,3159.41,25,559.41,282.1,High Overspend
+618,2026-03-30,LANE-002,Cochin Port,Hamburg Port,Ocean,Evergreen,2600.0,2936.64,3155.63,16,555.63,218.99,High Overspend
+886,2026-05-07,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Emirates Skycargo,6500.0,7132.59,7053.2,2,553.2,-79.39,High Overspend
+432,2026-03-03,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Qatar Airways Cargo,4800.0,5414.92,5352.54,3,552.54,-62.38,High Overspend
+575,2026-03-24,LANE-001,Mundra Port,Rotterdam Port,Ocean,Msc,2800.0,3105.4,3348.65,30,548.65,243.25,High Overspend
+894,2026-05-08,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Lufthansa Cargo,4800.0,5582.44,5342.78,1,542.78,-239.66,High Overspend
+863,2026-05-04,LANE-002,Cochin Port,Hamburg Port,Ocean,Ocean Network Express,2600.0,3206.74,3142.5,27,542.5,-64.24,High Overspend
+1096,2026-06-06,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Fedex Express,6500.0,6368.44,7042.15,3,542.15,673.71,High Overspend
+107,2026-01-16,LANE-002,Cochin Port,Hamburg Port,Ocean,Evergreen,2600.0,3049.43,3140.92,29,540.92,91.49,High Overspend
+921,2026-05-12,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Emirates Skycargo,6500.0,7002.14,7040.02,3,540.02,37.88,High Overspend
+704,2026-04-11,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Fedex Express,6500.0,7029.64,7039.63,1,539.63,9.99,High Overspend
+968,2026-05-19,LANE-002,Cochin Port,Hamburg Port,Ocean,Ocean Network Express,2600.0,3129.45,3138.82,27,538.82,9.37,High Overspend
+200,2026-01-29,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Dhl Aviation,6500.0,7090.06,7036.45,3,536.45,-53.61,High Overspend
+141,2026-01-21,LANE-001,Mundra Port,Rotterdam Port,Ocean,Maersk,2800.0,3411.85,3331.7,16,531.7,-80.15,High Overspend
+1234,2026-06-26,LANE-002,Cochin Port,Hamburg Port,Ocean,Ocean Network Express,2600.0,3123.47,3131.13,19,531.13,7.66,High Overspend
+33,2026-01-05,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Qatar Airways Cargo,4800.0,5415.95,5330.02,2,530.02,-85.93,High Overspend
+274,2026-02-09,LANE-001,Mundra Port,Rotterdam Port,Ocean,Maersk,2800.0,3450.05,3329.29,21,529.29,-120.76,High Overspend
+309,2026-02-14,LANE-001,Mundra Port,Rotterdam Port,Ocean,Cma Cgm,2800.0,3325.83,3327.84,29,527.84,2.01,High Overspend
+355,2026-02-20,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Lufthansa Cargo,4800.0,4935.16,5325.46,2,525.46,390.3,High Overspend
+1138,2026-06-12,LANE-004,Mumbai Airport (BOM),Frankfurt Airport (FRA),Air,Emirates Skycargo,6500.0,7352.71,7023.74,1,523.74,-328.97,High Overspend
+862,2026-05-04,LANE-001,Mundra Port,Rotterdam Port,Ocean,Msc,2800.0,3350.85,3323.37,27,523.37,-27.48,High Overspend
+1157,2026-06-15,LANE-002,Cochin Port,Hamburg Port,Ocean,Hapag-Lloyd,2600.0,3166.29,3117.92,27,517.92,-48.37,High Overspend
+562,2026-03-22,LANE-002,Cochin Port,Hamburg Port,Ocean,Ocean Network Express,2600.0,3154.23,3117.43,29,517.43,-36.8,High Overspend
+1009,2026-05-25,LANE-001,Mundra Port,Rotterdam Port,Ocean,Msc,2800.0,2972.92,3315.88,29,515.88,342.96,High Overspend
+806,2026-04-26,LANE-001,Mundra Port,Rotterdam Port,Ocean,Maersk,2800.0,3372.49,3302.88,14,502.88,-69.61,High Overspend
+1241,2026-06-27,LANE-002,Cochin Port,Hamburg Port,Ocean,Evergreen,2600.0,3052.24,3101.97,27,501.97,49.73,High Overspend
+229,2026-02-02,LANE-005,Delhi Airport (DEL),Dubai Airport (DXB),Air,Lufthansa Cargo,4800.0,5105.79,5301.57,1,501.57,195.78,High Overspend

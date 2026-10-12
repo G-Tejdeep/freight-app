@@ -1,4 +1,3 @@
-import numpy as np
 import pandas as pd
 import streamlit as st
 
@@ -8,125 +7,35 @@ st.set_page_config(
 )
 
 
-# Embed self-contained sample data so no SQL or external files are needed
+# Load Transaction Data from CSV (No live SQL required for cloud deployment)
 @st.cache_data
-def load_bundled_data():
-  # Main transactional data mimicking vw_freight_cost_variance
-  transactions = {
-      "transaction_id": [
-          "TRX-1001",
-          "TRX-1002",
-          "TRX-1003",
-          "TRX-1004",
-          "TRX-1005",
-          "TRX-1006",
-          "TRX-1007",
-      ],
-      "lane_id": [
-          "LANE-001",
-          "LANE-002",
-          "LANE-003",
-          "LANE-004",
-          "LANE-005",
-          "LANE-006",
-          "LANE-007",
-      ],
-      "origin_hub": [
-          "Chennai Port",
-          "Cochin Port",
-          "Mumbai BOM",
-          "Mumbai BOM",
-          "Delhi DEL",
-          "Bangalore",
-          "Hyderabad",
-      ],
-      "destination_hub": [
-          "Singapore Port",
-          "Hamburg Port",
-          "Singapore Port",
-          "Frankfurt FRA",
-          "Dubai DXB",
-          "Chennai",
-          "Mumbai",
-      ],
-      "mode_of_transport": ["Ocean", "Ocean", "Ocean", "Air", "Air", "Road", "Road"],
-      "carrier_name": [
-          "Maersk",
-          "CMA CGM",
-          "Maersk",
-          "Emirates Skycargo",
-          "DHL Aviation",
-          "VRL Logistics",
-          "Blue Dart",
-      ],
-      "cost_performance_status": [
-          "Optimized",
-          "High Overspend",
-          "Optimized",
-          "Critical Overspend",
-          "Critical Overspend",
-          "Optimized",
-          "Moderate Overspend",
-      ],
-      "actual_rate_paid_usd": [
-          18500.0,
-          31200.0,
-          19000.0,
-          45200.0,
-          38100.0,
-          4100.0,
-          6300.0,
-      ],
-      "contracted_base_rate_usd": [
-          18000.0,
-          24000.0,
-          19000.0,
-          32000.0,
-          28000.0,
-          3900.0,
-          5500.0,
-      ],
-      "variance_vs_contract_usd": [
-          500.0,
-          7200.0,
-          0.0,
-          13200.0,
-          10100.0,
-          200.0,
-          800.0,
-      ],
-      "transit_days": [14.0, 22.0, 13.0, 2.5, 3.0, 2.0, 1.5],
-  }
-
-  # Carrier tradeoffs summary data mimicking vw_carrier_tradeoffs
-  carriers = {
-      "carrier_name": [
-          "Emirates Skycargo",
-          "DHL Aviation",
-          "CMA CGM",
-          "Maersk",
-          "Blue Dart",
-          "VRL Logistics",
-      ],
-      "transport_mode": ["Air", "Air", "Ocean", "Ocean", "Road", "Road"],
-      "operational_tier": [
-          "Tier 1 - Premium",
-          "Tier 1 - Premium",
-          "Tier 2 - Standard",
-          "Tier 1 - Reliable",
-          "Tier 2 - Standard",
-          "Tier 3 - Economy",
-      ],
-      "avg_rate_paid": [45200.0, 38100.0, 31200.0, 18500.0, 6300.0, 4100.0],
-      "avg_contract_rate": [32000.0, 28000.0, 24000.0, 18000.0, 5500.0, 3900.0],
-      "total_leakage_usd": [13200.0, 10100.0, 7200.0, 500.0, 800.0, 200.0],
-      "avg_transit_days": [2.5, 3.0, 22.0, 14.0, 1.5, 2.0],
-  }
-
-  return pd.DataFrame(transactions), pd.DataFrame(carriers)
+def load_data():
+  return pd.read_csv("freight_variance_export.csv")
 
 
-df, df_carriers = load_bundled_data()
+# Load Carrier Tradeoffs Data from CSV or aggregate from export
+@st.cache_data
+def load_carrier_tradeoffs():
+  try:
+    return pd.read_csv("cost_leakage_audit_report.csv")
+  except Exception:
+    df = pd.read_csv("freight_variance_export.csv")
+    carrier_summary = (
+        df.groupby(["carrier_name", "mode_of_transport"])
+        .agg(
+            shipments=("transaction_id", "count"),
+            avg_rate_paid=("actual_rate_paid_usd", "mean"),
+            avg_contract_rate=("contracted_base_rate_usd", "mean"),
+            total_leakage_usd=("variance_vs_contract_usd", "sum"),
+            avg_transit_days=("transit_days", "mean"),
+        )
+        .reset_index()
+    )
+    return carrier_summary
+
+
+df = load_data().copy()
+df_carriers = load_carrier_tradeoffs().copy()
 
 # Dashboard Header
 st.title("🚢 Freight Cost & Variance Analytics Engine")
@@ -143,7 +52,7 @@ if not df.empty and {"lane_id", "origin_hub", "destination_hub"}.issubset(
     df.columns
 ):
   df["lane_display"] = (
-      df["lane_id"] + " (" + df["origin_hub"] + " ➔ " + df["destination_hub"] + ")"
+      df["lane_id"] + " - " + df["origin_hub"] + " ➔ " + df["destination_hub"]
   )
   selected_lane = st.sidebar.selectbox(
       "Select Trade Lane", ["All"] + sorted(list(df["lane_display"].unique()))
@@ -165,7 +74,7 @@ selected_mode = st.sidebar.selectbox(
 if selected_mode != "All":
   df = df[df["mode_of_transport"] == selected_mode]
 
-# 4. Performance Status Filter
+# 4. Performance Status Filter (Matches CSV values: High Overspend, Under Contract, Within Tolerance)
 selected_status = st.sidebar.selectbox(
     "Performance Status",
     ["All"] + sorted(list(df["cost_performance_status"].unique())),
@@ -258,14 +167,6 @@ with tab2:
   )
 
   if not df_carriers.empty:
-    st.dataframe(
-        df_carriers.style.format({
-            "avg_rate_paid": "${:,.2f}",
-            "avg_contract_rate": "${:,.2f}",
-            "total_leakage_usd": "${:,.2f}",
-            "avg_transit_days": "{:.1f} days",
-        }),
-        use_container_width=True,
-    )
+    st.dataframe(df_carriers, use_container_width=True)
   else:
     st.warning("No carrier tradeoff data found.")
